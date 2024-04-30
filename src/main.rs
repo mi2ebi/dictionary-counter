@@ -48,11 +48,11 @@ fn main() {
             jbo_t = *jbo;
             toaq_t += toaq;
             if (jbo_t > 0 || toaq_t > 0) && !(y == current_year && m > current_month) {
-                out += &format!("{y}-{m:02},{jbo_t},{toaq_t}\r\n");
+                out += &format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\r\n");
             }
         }
     }
-    fs::write("out.csv", out).unwrap();
+    fs::write("out.tsv", out).unwrap();
     println!("{:?}", Instant::now() - start);
 }
 
