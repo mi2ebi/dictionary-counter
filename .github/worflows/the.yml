@@ -1,0 +1,19 @@
+name: the
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: 0 0 1 * *
+
+jobs:
+  jvs-update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: dtolnay/rust-toolchain@stable
+      - name: the
+        run: cargo run --release
+
+      - uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: update
