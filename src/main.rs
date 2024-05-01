@@ -1,35 +1,44 @@
-use std::{fs, io::Cursor, time::Instant};
-use chrono::Datelike;
-use xml::reader::XmlEvent;
+use chrono::{Datelike, TimeZone, Utc};
+use reqwest::blocking::Client;
+use scraper::{Html, Selector};
+use serde::Deserialize;
+use std::{fs, time::{Duration, Instant}};
 
 fn main() {
     let start = Instant::now();
-    let now = chrono::Utc::now();
+    let now = Utc::now();
     let current_year = now.year() as usize;
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
     let mut counter = vec![[(0, 0); 12]; current_year + 1];
-    let client = reqwest::blocking::Client::new();
+    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
     // jvs
-    let stuff = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
-    let mut reader = xml::EventReader::new(Cursor::new(stuff));
-    loop {
-        match reader.next().unwrap() {
-            XmlEvent::StartElement{name, ..} => {
-                if name.local_name == "valsi" {
-                    // flatness
-                    for y in 2013..=current_year {
-                        for m in 0..12 {
-                            counter[y][m].0 += 1;
-                        }
-                    }
-                }
-            }
-            XmlEvent::EndDocument => {
-                break;
-            }
-            _ => ()
-        }
+    let stuff = client.get(&format!(
+        "https://jbovlaste.lojban.org/recent.html?days={:?}",
+        (now - Utc::with_ymd_and_hms(&Utc{}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days()
+    )).send().unwrap().text().unwrap();
+    let updates = Html::parse_document(&stuff);
+    let sel = Selector::parse(r#"td[width="80%"]"#).unwrap();
+    let updates = updates.select(&sel).next().unwrap().text().filter(|t| t.contains("valsi originally entered")).collect::<Vec<_>>();
+    for t in updates {
+        let date = &t.replace('\n', "")[3..11];
+        let y = date[4..8].parse::<usize>().unwrap();
+        let m = match &date[0..3] {
+            "Jan" => 0,
+            "Feb" => 1,
+            "Mar" => 2,
+            "Apr" => 3,
+            "May" => 4,
+            "Jun" => 5,
+            "Jul" => 6,
+            "Aug" => 7,
+            "Sep" => 8,
+            "Oct" => 9,
+            "Nov" => 10,
+            "Dec" => 11,
+            _ => panic!("wtf kinda month is `{}`?", &date[0..3]),
+        };
+        counter[y][m].0 += 1;
     }
     // toadua
     let stuff = client.post("https://toadua.uakci.pl/api").body(r#"{"action": "search", "query": ["scope", "en"]}"#).send().unwrap();
@@ -45,9 +54,9 @@ fn main() {
     for (y, _) in counter.iter().enumerate() {
         for (m, (jbo, toaq)) in counter[y].iter().enumerate() {
             let m = m + 1;
-            jbo_t = *jbo;
+            jbo_t += jbo;
             toaq_t += toaq;
-            if (jbo_t > 0 || toaq_t > 0) && !(y == current_year && m > current_month) {
+            if y >= 2003 && !(y == current_year && m > current_month) {
                 out += &format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\r\n");
             }
         }
@@ -56,12 +65,12 @@ fn main() {
     println!("{:?}", Instant::now() - start);
 }
 
-#[derive(serde::Deserialize)]
+#[derive(Deserialize)]
 struct Toadua {
     results: Vec<Toa>
 }
 
-#[derive(serde::Deserialize)]
+#[derive(Deserialize)]
 struct Toa {
     date: String
 }
