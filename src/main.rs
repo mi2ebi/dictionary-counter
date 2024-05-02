@@ -98,9 +98,9 @@ fn main() {
     let mut ghosts = ghosts2;
     ghosts.sort_by(|a, b| a.to_lowercase().partial_cmp(&b.to_lowercase()).unwrap());
     println!("{:5} ghost-adjacents, of which:", ghosts.len());
-    println!("{en_not_xml:5} [x] 'original' def in english   [ ] in xml   <-- real ghosts");
-    println!("{not_en_xml:5} [ ]                             [x]          <-- not really ghosts");
-    println!("{not_en_not_xml:5} [ ]                             [ ]          <-- we don't actually care about these");
+    println!("      {en_not_xml:5} [x] 'original' def in english   [ ] in xml   <-- real ghosts");
+    println!("      {not_en_xml:5} [ ]                             [x]          <-- not really ghosts");
+    println!("      {not_en_not_xml:5} [ ]                             [ ]          <-- we don't actually care about these");
     let out = ghosts.join("\r\n");
     fs::write("jbosts.txt", out).unwrap();
     // toadua
