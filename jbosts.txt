@@ -118,8 +118,6 @@ banckle - -en+xml, 'first' defined in lojban
 bancu - -en+xml, 'first' defined in Esperanto
 bandu - -en+xml, 'first' defined in Esperanto
 banfi - -en+xml, 'first' defined in Esperanto
-bangrgogurio - -en+xml, 'first' defined in Español
-bangrnaidjiria - -en+xml, 'first' defined in 中文
 bangrportuGAL - -en+xml, 'first' defined in 中文
 bangrtcosena - -en+xml, 'first' defined in Español
 bangrxangu - -en+xml, 'first' defined in 中文
@@ -233,7 +231,6 @@ binonovo - -en+xml, 'first' defined in Español
 binra - -en+xml, 'first' defined in Esperanto
 binxo - -en+xml, 'first' defined in Esperanto
 binynalvokselba'u - +en-xml
-biorka - -en+xml, 'first' defined in Русский
 birjai - -en+xml, 'first' defined in lojban
 birje - -en+xml, 'first' defined in Esperanto
 birjunla - -en+xml, 'first' defined in Esperanto
@@ -269,7 +266,6 @@ bogjinme - -en+xml, 'first' defined in Español
 boi - -en+xml, 'first' defined in Español
 bolci - -en+xml, 'first' defined in Esperanto
 bolkeijvi - +en-xml
-bolrbliardo - -en+xml, 'first' defined in Deutsch
 boltikpa - +en-xml
 bongu - -en+xml, 'first' defined in Esperanto
 bonsfe - -en+xml, 'first' defined in 日本語
@@ -288,7 +284,6 @@ brato'a - -en+xml, 'first' defined in Français facile
 bratu - -en+xml, 'first' defined in Esperanto
 bratybakfu - -en+xml, 'first' defined in Deutsch
 bratycarvi - -en+xml, 'first' defined in lojban
-brazilias - -en+xml, 'first' defined in 中文
 brazo - -en+xml, 'first' defined in Esperanto
 bredi - -en+xml, 'first' defined in Esperanto
 bredito - -en-xml
@@ -389,7 +384,6 @@ camcikna - +en-xml
 camcilce - +en-xml
 camcniri'a - +en-xml
 campei - +en-xml
-campu - -en+xml, 'first' defined in Русский
 camvrici - +en-xml
 canci - -en+xml, 'first' defined in Esperanto
 candakli - -en+xml, 'first' defined in lojban
@@ -544,7 +538,6 @@ cipra - -en+xml, 'first' defined in Esperanto
 cipyple - -en+xml, 'first' defined in 中文
 cirko - -en+xml, 'first' defined in Esperanto
 cirla - -en+xml, 'first' defined in Esperanto
-cirlnxiogluto - -en+xml, 'first' defined in 日本語
 cirlydakfu - -en+xml, 'first' defined in lojban
 ciroi - -en+xml, 'first' defined in Español
 ciska - -en+xml, 'first' defined in Esperanto
@@ -576,7 +569,6 @@ ckape - -en+xml, 'first' defined in Esperanto
 ckasu - -en+xml, 'first' defined in Esperanto
 ckazbe - +en-xml
 ckeji - -en+xml, 'first' defined in Esperanto
-ckiipyris - -en+xml, 'first' defined in 中文
 ckiku - -en+xml, 'first' defined in Esperanto
 ckilu - -en+xml, 'first' defined in Esperanto
 ckini - -en+xml, 'first' defined in Esperanto
@@ -961,7 +953,6 @@ djine - -en+xml, 'first' defined in Esperanto
 djirafa - -en+xml, 'first' defined in lojban
 djisku - -en+xml, 'first' defined in lojban
 djizu'e - -en-xml
-djunguos - -en+xml, 'first' defined in 中文
 djuno - -en+xml, 'first' defined in Esperanto
 djuse'i - -en-xml
 dmitris - -en-xml
@@ -1488,7 +1479,6 @@ gu'irsutra - -en+xml, 'first' defined in lojban
 gu'o - -en+xml, 'first' defined in Español
 gu'onai - -en+xml, 'first' defined in Español
 gu'u - -en+xml, 'first' defined in Español
-guanJOUS - -en+xml, 'first' defined in 中文
 gubgau - +en-xml
 gubgudytrusi'o - -en-xml
 gubjungau - -en+xml, 'first' defined in lojban
@@ -1497,7 +1487,6 @@ gubnunsnu - +en-xml
 gubytcita - -en+xml, 'first' defined in lojban
 gugde - -en+xml, 'first' defined in Español
 gugdrpolska - -en+xml, 'first' defined in Polski
-gugdrtalia - -en+xml, 'first' defined in Polski
 guglypevgri - -en+xml, 'first' defined in lojban
 gugnai - -en-xml
 gugykruca - -en+xml, 'first' defined in lojban
@@ -1519,7 +1508,6 @@ gunrymuvdu - -en-xml
 gunse - -en+xml, 'first' defined in Esperanto
 gunstu - +en-xml
 gunta - -en+xml, 'first' defined in Esperanto
-guonJAUS - -en+xml, 'first' defined in 中文
 gurcutci - +en-xml
 gurmu'u - -en+xml, 'first' defined in lojban
 gurni - -en+xml, 'first' defined in Esperanto
@@ -1594,16 +1582,13 @@ ilkai - -en+xml, 'first' defined in lojban
 impetu - -en+xml, 'first' defined in Русский
 inaja - -en+xml, 'first' defined in Español
 inda - -en+xml, 'first' defined in Esperanto
-Indias - -en+xml, 'first' defined in Polski
 indika - -en+xml, 'first' defined in lojban
 infekte - +en-xml
 io - -en+xml, 'first' defined in Español
 ionai - -en+xml, 'first' defined in Español
 ionmo - -en-xml
 irinas - -en-xml
-italian - -en+xml, 'first' defined in Magyarul
 itca - -en+xml, 'first' defined in lojban
-itkuile - -en+xml, 'first' defined in Русский
 iu - -en+xml, 'first' defined in Español
 iucu'i - -en+xml, 'first' defined in Español
 iulias - -en-xml
@@ -2327,7 +2312,6 @@ krekemburpelxu - +en-xml
 krepelxu - +en-xml
 krici - -en+xml, 'first' defined in Esperanto
 krili - -en+xml, 'first' defined in Esperanto
-krilrkuartso - -en+xml, 'first' defined in Deutsch
 krinu - -en+xml, 'first' defined in Esperanto
 kriselsku - +en-xml
 krixa - -en+xml, 'first' defined in Esperanto
@@ -2371,7 +2355,6 @@ kumfa - -en+xml, 'first' defined in Esperanto
 kumte - -en+xml, 'first' defined in Esperanto
 kuncpastu - +en-xml
 kunra - -en+xml, 'first' defined in Esperanto
-kunrkuartso - -en+xml, 'first' defined in Deutsch
 kunti - -en+xml, 'first' defined in Esperanto
 kurbarile - -en-xml
 kurbita - -en-xml
@@ -2729,7 +2712,6 @@ markai - -en+xml, 'first' defined in lojban
 marna - -en+xml, 'first' defined in Esperanto
 marsipane - -en+xml, 'first' defined in Deutsch
 marxa - -en+xml, 'first' defined in Esperanto
-maskFAS - -en+xml, 'first' defined in Polski
 masnbi - -en+xml, 'first' defined in lojban
 masnci - -en+xml, 'first' defined in lojban
 masndau - -en+xml, 'first' defined in lojban
@@ -2979,7 +2961,6 @@ murmura - -en+xml, 'first' defined in lojban
 murse - -en+xml, 'first' defined in Esperanto
 murta - -en+xml, 'first' defined in Esperanto
 muslo - -en+xml, 'first' defined in Esperanto
-mustlei - -en+xml, 'first' defined in 日本語
 mutce - -en+xml, 'first' defined in Esperanto
 mutmaika'i - -en+xml, 'first' defined in lojban
 mutmle - -en+xml, 'first' defined in lojban
@@ -2993,6 +2974,7 @@ muzga - -en+xml, 'first' defined in Esperanto
 muzyku'a - -en+xml, 'first' defined in lojban
 my - -en+xml, 'first' defined in Español
 na - -en+xml, 'first' defined in Esperanto
+na a - -en+xml, 'first' defined in Español
 na'a - -en+xml, 'first' defined in Español
 na'arcartu - +en-xml
 na'arctodetri - -en+xml, 'first' defined in lojban
@@ -3011,7 +2993,6 @@ na'irselpezli - +en-xml
 na'o - -en+xml, 'first' defined in Español
 na'onai - -en+xml, 'first' defined in Español
 na'u - -en+xml, 'first' defined in lojban
-na.a - -en+xml, 'first' defined in Español
 nabmi - -en+xml, 'first' defined in Esperanto
 nabysmi - +en-xml
 nabysnuji - +en-xml
@@ -3029,7 +3010,6 @@ nafxu'a - +en-xml
 nagi'a - -en+xml, 'first' defined in Español
 nago'i - -en+xml, 'first' defined in Español
 nai - -en+xml, 'first' defined in Español
-nai'o - -en+xml, 'first' defined in lojban
 nairbau - +en-xml
 nairterfi'a - +en-xml
 naiske - +en-xml
@@ -3413,7 +3393,6 @@ pambasti - +en-xml
 pambe - -en+xml, 'first' defined in Esperanto
 pamei - -en+xml, 'first' defined in Español
 pamglepe'o - -en-xml
-pamjiarkovni - -en+xml, 'first' defined in Русский
 pamnabmi - +en-xml
 pamo'o - -en+xml, 'first' defined in Español
 pamoi - -en+xml, 'first' defined in Español
@@ -5593,7 +5572,6 @@ slasylta - -en-xml
 slelamgri - +en-xml
 sligu - -en+xml, 'first' defined in Esperanto
 slilu - -en+xml, 'first' defined in Esperanto
-slinkui - -en+xml, 'first' defined in Русский
 sliri - -en+xml, 'first' defined in Esperanto
 slisko - +en-xml
 slivru - +en-xml
@@ -5741,7 +5719,6 @@ sosyselcmipi'i - +en-xml
 sosyselcmisumji - +en-xml
 sotprekarce - +en-xml
 sovda - -en+xml, 'first' defined in Esperanto
-soviet - -en+xml, 'first' defined in Svenska
 sovrango - +en-xml
 sovyseltai - +en-xml
 sozepimu - -en+xml, 'first' defined in Español
@@ -5785,7 +5762,6 @@ sralo - -en+xml, 'first' defined in Esperanto
 sralybau - -en+xml, 'first' defined in 中文
 srana - -en+xml, 'first' defined in Esperanto
 srasu - -en+xml, 'first' defined in Esperanto
-sreji'i - -en+xml, 'first' defined in lojban
 srera - -en+xml, 'first' defined in Esperanto
 srito - -en+xml, 'first' defined in Esperanto
 sropanka - +en-xml
@@ -7606,9 +7582,7 @@ xirkembagycelsoi - -en-xml
 xirkla - +en-xml
 xirma - -en+xml, 'first' defined in Esperanto
 xirngrevi - -en+xml, 'first' defined in Deutsch
-xirngrevii - -en+xml, 'first' defined in lojban
 xirnku'aga - -en+xml, 'first' defined in Deutsch
-xirnkuaga - -en+xml, 'first' defined in lojban
 xirnzebra - -en+xml, 'first' defined in lojban
 xirselma'e - +en-xml
 xirselma'ecu'e - +en-xml
@@ -7668,10 +7642,12 @@ xusypapri - +en-xml
 xusyvei - +en-xml
 xutla - -en+xml, 'first' defined in Esperanto
 xy - -en+xml, 'first' defined in Español
+xy bu - -en+xml, 'first' defined in lojban
 xy zei kantu - -en+xml, 'first' defined in Deutsch
 xyngon - -en+xml, 'first' defined in 中文
 y - -en+xml, 'first' defined in Español
 y'y - -en+xml, 'first' defined in Español
+y'y bu - -en+xml, 'first' defined in lojban
 ybu - -en+xml, 'first' defined in Español
 za - -en+xml, 'first' defined in Español
 za'a - -en+xml, 'first' defined in Español
@@ -7798,7 +7774,6 @@ ziltau - -en+xml, 'first' defined in Français facile
 ziltodi - -en+xml, 'first' defined in lojban
 zilxrugau - -en-xml
 zilzena - -en+xml, 'first' defined in lojban
-zimbabues - -en+xml, 'first' defined in 中文
 zinaidas - -en-xml
 zinki - -en+xml, 'first' defined in Esperanto
 zipcpi - -en+xml, 'first' defined in lojban

@@ -1,4 +1,6 @@
 use chrono::{Datelike, TimeZone, Utc};
+use itertools::Itertools;
+use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
 use serde::Deserialize;
@@ -25,69 +27,82 @@ fn main() {
     // find the ghosts
     let xml = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
     let mut reader = EventReader::new(Cursor::new(xml));
-    let mut xml_words = vec![];
-    let mut jvs_words = vec![];
+    let (mut xml_words, mut jvs_words, mut no) = (vec![], vec![], vec![]);
+    let mut in_score = false;
     loop {
         match reader.next().unwrap() {
-            XmlEvent::EndDocument{..} => {
-                break;
-            }
+            XmlEvent::EndDocument{..} => {break;}
             XmlEvent::StartElement{name, attributes, ..} => {
-                if name.local_name == "valsi" {
-                    xml_words.push(attributes.iter().find(|&x| x.name.local_name == "word").unwrap().value.clone());
+                match name.local_name.as_str() {
+                    "valsi" => {
+                        let w = attributes.iter().find(|&x| x.name.local_name == "word").unwrap().value.clone();
+                        if attributes.iter().find(|&x| x.name.local_name == "type").unwrap().value.starts_with('o') {
+                            no.push(w.clone());
+                        } else {
+                            xml_words.push(w.clone());
+                        }
+                    }
+                    "score" => {in_score = true;}
+                    _ => ()
                 }
+            }
+            XmlEvent::Characters(t) => {
+                if in_score && t.parse::<i32>().unwrap() < -1 {no.push(xml_words.pop().unwrap_or_default());}
+                in_score = false;
             }
             _ => ()
         }
     }
+    xml_words = xml_words.iter().map(|x| Regex::new(" +").unwrap().replace_all(x.replace('.', " ").trim(), " ").to_string()).sorted().dedup().collect();
     println!("{:5} words in xml", xml_words.len());
     let mut ghosts = vec![];
     let (mut en_not_xml, mut not_en_xml, mut not_en_not_xml) = (0, 0, 0);
     for (d, w, l) in updates {
+        let w = Regex::new(" +").unwrap().replace_all(w.replace('.', " ").trim(), " ").to_string();
+        let date = &d.replace('\n', "")[3..11];
+        let y = date[4..8].parse::<usize>().unwrap();
+        let m = match &date[0..3] {
+            "Jan" => 0,
+            "Feb" => 1,
+            "Mar" => 2,
+            "Apr" => 3,
+            "May" => 4,
+            "Jun" => 5,
+            "Jul" => 6,
+            "Aug" => 7,
+            "Sep" => 8,
+            "Oct" => 9,
+            "Nov" => 10,
+            "Dec" => 11,
+            _ => panic!("wtf kinda month is `{}`?", &date[0..3])
+        };
         if l.contains("English") {
-            let date = &d.replace('\n', "")[3..11];
-            let y = date[4..8].parse::<usize>().unwrap();
-            let m = match &date[0..3] {
-                "Jan" => 0,
-                "Feb" => 1,
-                "Mar" => 2,
-                "Apr" => 3,
-                "May" => 4,
-                "Jun" => 5,
-                "Jul" => 6,
-                "Aug" => 7,
-                "Sep" => 8,
-                "Oct" => 9,
-                "Nov" => 10,
-                "Dec" => 11,
-                _ => panic!("wtf kinda month is `{}`?", &date[0..3])
-            };
-            if !jvs_words.contains(&w) {
+            if !jvs_words.contains(&w) && !no.contains(&w) {
                 counter[y][m].0 += 1;
                 jvs_words.push(w.clone());
             }
-            if !xml_words.contains(&w) {
+            if !xml_words.contains(&w) && !no.contains(&w) {
                 ghosts.push(format!("{w} - +en-xml"));
                 en_not_xml += 1;
-                counter[y][m].0 += 1;
             }
         } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && xml_words.contains(&w) {
             if !jvs_words.contains(&w) {
                 ghosts.push(format!("{w} - -en+xml, 'first' defined in {}", &l[13..]));
                 not_en_xml += 1;
-                jvs_words.push(w);
+                jvs_words.push(w.clone());
+                counter[y][m].0 += 1;
             } else {
                 // -g -e +x +j
                 // a non english definition was added after an 'original' english one was made
             }
-        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && !xml_words.contains(&w) {
+        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && !xml_words.contains(&w) && !no.contains(&w) {
             ghosts.push(format!("{w} - -en-xml"));
             not_en_not_xml += 1;
         } else {
             // already a ghost
         }
     }
-    println!("{:5} english words in jvs changelog", jvs_words.len());
+    println!("{:5} words in jvs (xml + ghosts)", jvs_words.len());
     let mut ghosts2 = vec![];
     for g in &ghosts {
         let w = g.split(" -").next().unwrap();
@@ -103,16 +118,25 @@ fn main() {
     println!("      {not_en_not_xml:5} [ ]                             [ ]          <-- we don't actually care about these");
     let out = ghosts.join("\r\n");
     fs::write("jbosts.txt", out).unwrap();
+    let out = jvs_words.iter().sorted().join("\r\n");
+    fs::write("jvs.txt", out).unwrap();
     // toadua
+    let mut toadua_words = vec![];
     let stuff = client.post("https://toadua.uakci.pl/api").body(r#"{"action": "search", "query": ["scope", "en"]}"#).send().unwrap();
     let stuff = serde_json::from_reader::<_, Toadua>(stuff).unwrap();
-    println!("{:5} words in toadua", stuff.results.len());
     for t in stuff.results {
         let the = t.date.split('-').collect::<Vec<_>>();
         let y = the[0].parse::<usize>().unwrap();
         let m = the[1].parse::<usize>().unwrap() - 1;
-        counter[y][m].1 += 1;
+        if !toadua_words.contains(&t.head) && ![" ", ".", "y", "ou"].iter().any(|x| t.head.contains(x)) && !["oldofficial", "examples", "oldexamples"].iter().any(|x| t.user == *x) && t.score >= -2 {
+            toadua_words.push(t.head);
+            counter[y][m].1 += 1;
+        }
     }
+    println!("{:5} words in toadua", toadua_words.len());
+    let out = toadua_words.iter().sorted().join("\r\n");
+    fs::write("toadua.txt", out).unwrap();
+    // the
     let mut out = String::new();
     let (mut jbo_t, mut toaq_t) = (0, 0);
     for (y, _) in counter.iter().enumerate() {
@@ -136,5 +160,8 @@ struct Toadua {
 
 #[derive(Deserialize)]
 struct Toa {
-    date: String
+    date: String,
+    head: String,
+    user: String,
+    score: i32
 }
