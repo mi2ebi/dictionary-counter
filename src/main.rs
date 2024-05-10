@@ -28,7 +28,7 @@ fn main() {
     let xml = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
     let mut reader = EventReader::new(Cursor::new(xml));
     let (mut xml_words, mut jvs_words, mut no) = (vec![], vec![], vec![]);
-    let mut in_score = false;
+    let (mut in_score, mut in_def) = (false, false);
     loop {
         match reader.next().unwrap() {
             XmlEvent::EndDocument{..} => {break;}
@@ -43,12 +43,14 @@ fn main() {
                         }
                     }
                     "score" => {in_score = true;}
+                    "definition" => {in_def = true;}
                     _ => ()
                 }
             }
             XmlEvent::Characters(t) => {
-                if in_score && t.parse::<i32>().unwrap() < -1 {no.push(xml_words.pop().unwrap_or_default());}
+                if (in_score && t.parse::<i32>().unwrap() < -1) || (in_def && ["with ISO 639-3", "ISO-3166", "ISO-4217"].iter().any(|i| t.contains(i))) {no.push(xml_words.pop().unwrap_or_default());}
                 in_score = false;
+                in_def = false;
             }
             _ => ()
         }
