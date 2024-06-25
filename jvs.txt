@@ -690,6 +690,8 @@ bemcinfo
 bemjoitco
 bemro
 bemtu'a
+benbo'u
+benbogda'i
 bencra
 bende
 bendicfancyxra
@@ -993,6 +995,7 @@ bodlisadva
 bofkosta
 bofsnipa
 bofsru
+bofxa'e
 bofyglajbu
 bogda'u
 bogjimro'i
@@ -1018,6 +1021,7 @@ bolbi'o
 bolcartu
 bolci
 boldi'u
+boldymor
 bolga'axa'i
 bolgaro
 bolgrijvi
@@ -1048,6 +1052,7 @@ boltipyboi
 boltipyjvi
 boltsemaku
 bolxa'e
+bolxada
 bolxadba
 bombiksiia
 bombila
@@ -1452,6 +1457,7 @@ cankyuidje
 canlu
 canlu bu
 canpa
+canpyxa'e
 canratni
 canre
 canro'i
@@ -1460,6 +1466,7 @@ canti
 cantrau
 cantu'a
 cantybargau
+canxada
 canxais
 capcni
 capli'u
@@ -1483,6 +1490,7 @@ cardikygau
 carfu
 cargau
 carka'a
+carkakpa
 carkemkasygaukepyblikeitci
 carkemkasygaukepyblikemkeitci
 carlimcinki
@@ -1654,6 +1662,7 @@ cfinyvra
 cfipu
 cfisisku
 cfiste
+cfixu'a
 ci
 ci zei brinefa
 ci zei jurfuga
@@ -1900,6 +1909,7 @@ cintyfaigau
 cintypu'i
 cinvi'i
 cinza
+cinzybatci
 cinzyxadji
 cipcta
 cipctastu
@@ -2089,6 +2099,7 @@ clakarce
 clakemkamymeckezrai
 clakercrida
 clakeryractu
+clakonde'i
 clakurfa
 clamau
 clame'a
@@ -2473,7 +2484,6 @@ coinrodo
 coisna
 cokcu
 cokte
-colkla
 colzu'e
 comco'e
 comgau
@@ -4218,6 +4228,7 @@ fetspe
 fetsrmeido
 fetydzetru
 fetyganti
+fetytcebra
 fetytricinse
 fi
 fi'a
@@ -4482,6 +4493,7 @@ friko
 frikytu'a
 frikyxasli
 frili
+frimartine
 frimo'i
 frinu
 frinyna'u
@@ -5777,6 +5789,7 @@ jdatru
 jdaxanmuvgau
 jdazei
 jdecisma
+jdegalxycmo
 jdenoi
 jdeselsku
 jdesna
@@ -5880,6 +5893,7 @@ jenai
 jenca
 jendu
 jenje
+jenjigu
 jenmi
 jenselte'a
 jensi
@@ -7238,6 +7252,7 @@ kobrsonku
 kobrtaraksaku
 kobysalta
 kocon
+kofimitcidus
 kognato
 kogno
 koi
@@ -7284,6 +7299,7 @@ konceto
 konceto zei pagbu
 konclupa
 koncuptai
+konde'i
 kondomo
 konfabu
 konfeti
@@ -7837,6 +7853,7 @@ laus
 lausku
 lautci
 lauzma
+laxfi'uga'e
 laxli'i
 laxma'i
 laxsfani
@@ -8885,6 +8902,7 @@ mitysisku
 mivdalmuzga
 mivgau
 mivjdu
+mivjoimi'i
 mivmro
 mivmu'e
 mivmu'i
@@ -11919,6 +11937,7 @@ rigni
 rijno
 rijyska
 rijysmi
+rikpei
 rikro
 rikteropu
 rikybauske
@@ -12502,6 +12521,7 @@ sarxeva
 saryrutyjisra
 sasfoi
 sasfro
+saska'ami'i
 saske
 saskrcereme
 saskrsporte
@@ -12625,6 +12645,7 @@ sedvre
 sedycaugau
 sedycra
 sedycro
+sedyda'i
 sedykre
 sedykrecau
 sedyta'u
@@ -17361,6 +17382,7 @@ tolzi'o
 tolzilo
 tonberi
 tonga
+tonsi
 torbrato'a
 torceli
 torcrida
@@ -18519,6 +18541,7 @@ volmna
 volratcu
 volselkei
 volsmacu
+volsu'u
 voltolka'ecpi
 volve
 volvygau
@@ -18811,6 +18834,7 @@ xamsku
 xamxeinmo
 xamyzu'e
 xanbau
+xanbe'u
 xanboi
 xance
 xancidja'i
@@ -19059,6 +19083,7 @@ xi'o
 xi'oi'ei
 xiIUM
 xigzo
+xilba'e
 xilbate
 xilbati
 xilcelxa'i

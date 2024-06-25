@@ -1277,6 +1277,7 @@ fricau - -en+xml, 'first' defined in lojban
 friko - -en+xml, 'first' defined in Esperanto
 frikytu'a - -en+xml, 'first' defined in Français facile
 frili - -en+xml, 'first' defined in Esperanto
+frimartine - -en+xml, 'first' defined in lojban
 frinu - -en+xml, 'first' defined in Esperanto
 fripindi - -en-xml
 friselku'e - +en-xml
@@ -5041,7 +5042,6 @@ selsraji - +en-xml
 selsraku - +en-xml
 selsralo - +en-xml
 selsrasu - +en-xml
-selsre - +en-xml
 selsri - +en-xml
 selsro - +en-xml
 selsrodi'i - -en-xml
