@@ -1806,7 +1806,6 @@ jendu - -en+xml, 'first' defined in Esperanto
 jenmi - -en+xml, 'first' defined in Esperanto
 jente'a - -en+xml, 'first' defined in lojban
 jercru - +en-xml
-jerle'i - +en-xml
 jerna - -en+xml, 'first' defined in Esperanto
 jersi - -en+xml, 'first' defined in Esperanto
 jerxo - -en+xml, 'first' defined in Esperanto

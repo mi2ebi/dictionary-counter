@@ -4356,6 +4356,7 @@ fipygundi
 fipyrebla
 firbo'u
 firca
+fircinta
 fircku
 firenzes
 firfra
@@ -5899,11 +5900,13 @@ jenselte'a
 jensi
 jente'a
 jercru
+jerdi'i
 jerjelino
 jerle'i
 jerna
 jernysoi
 jersi
+jerxa'u
 jerxo
 jeske'a
 jesni
@@ -5958,6 +5961,7 @@ jgitrvolino
 jgitrxu
 jglandi
 jgu'ai
+jguna
 jguvi
 ji
 ji'a
@@ -10419,6 +10423,7 @@ pai
 pai'e
 pai'i
 paijdi
+paijgu
 pairkamni
 pairkamnycmi
 pairnu'i
@@ -11034,6 +11039,7 @@ plesigja
 plesiio
 pleta'e
 pletomino
+pletu'u
 plexa'a
 pli'ula
 plibu
@@ -11133,6 +11139,7 @@ polpeta
 polsaka
 polskas
 poltervanci
+pombo
 ponbau
 pongu'e
 ponjda
@@ -14598,6 +14605,7 @@ skomberu
 skora'e
 skorbuti
 skori
+skoripi
 skorpiio
 skospa
 skosra
@@ -18351,6 +18359,7 @@ vidnyselclu
 vidnysle
 vidnyveica'a
 vidnyxra
+vidrebjukni
 vidru
 vidvaubra
 vidvi
@@ -18390,6 +18399,7 @@ vindu
 vinji
 vinmirtci
 vinpa
+vinreju
 vinsmi
 vinta
 vinti'e
@@ -18515,6 +18525,7 @@ voi'e
 voi'i
 voikla
 voinci
+voiple
 voirli'u
 voisne
 vokcinje
