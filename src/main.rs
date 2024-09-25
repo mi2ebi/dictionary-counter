@@ -124,7 +124,7 @@ fn main() {
     fs::write("jvs.txt", out).unwrap();
     // toadua
     let mut toadua_words = vec![];
-    let stuff = client.post("https://toadua.uakci.pl/api").body(r#"{"action": "search", "query": ["scope", "en"]}"#).send().unwrap();
+    let stuff = client.post("https://toadua.uakci.space/api").body(r#"{"action": "search", "query": ["scope", "en"]}"#).send().unwrap();
     let stuff = serde_json::from_reader::<_, Toadua>(stuff).unwrap();
     for t in stuff.results {
         let the = t.date.split('-').collect::<Vec<_>>();
