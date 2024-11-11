@@ -4,7 +4,11 @@ use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
 use serde::Deserialize;
-use std::{fs, io::Cursor, time::{Duration, Instant}};
+use std::{
+    fs,
+    io::Cursor,
+    time::{Duration, Instant},
+};
 use xml::{reader::XmlEvent, EventReader};
 
 fn main() {
@@ -14,16 +18,41 @@ fn main() {
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
     let mut counter = vec![[(0, 0); 12]; current_year + 1];
-    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
+    let client = Client::builder()
+        .timeout(Duration::from_secs(60))
+        .build()
+        .unwrap();
     // jvs
-    let stuff = client.get(format!("https://jbovlaste.lojban.org/recent.html?days={:?}", (now - Utc::with_ymd_and_hms(&Utc{}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days())).send().unwrap().text().unwrap();
+    let stuff = client
+        .get(format!(
+            "https://jbovlaste.lojban.org/recent.html?days={:?}",
+            (now - Utc::with_ymd_and_hms(&Utc {}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days()
+        ))
+        .send()
+        .unwrap()
+        .text()
+        .unwrap();
     let updates = Html::parse_document(&stuff);
     let sel = Selector::parse(r#"td[width="80%"]"#).unwrap();
-    let mut updates = updates.select(&sel).next().unwrap().text().collect::<Vec<_>>();
+    let mut updates = updates
+        .select(&sel)
+        .next()
+        .unwrap()
+        .text()
+        .collect::<Vec<_>>();
     updates.reverse();
-    // 4                                                       3       2                1         0                    <--- start
-    // dd-mmm-yyyy hh:mm:ss - definition originally entered by whoever was updated; see fhqwhgads in language newspeak
-    let updates = updates.iter().zip(updates.iter().skip(1).zip(updates.iter().skip(4))).filter(|(_, (_, d))| d.contains("definition originally entered")).map(|(l, (w, d))| (*d, w.to_string(), *l)).collect::<Vec<_>>();
+    // 4 dd-mmm-yyyy hh:mm:ss - definition originally entered by
+    // 3 whoever
+    // 2 was updated; see
+    // 1 fhqwhgads
+    // 0 in language newspeak
+    // ^start
+    let iter = updates.iter();
+    let updates = iter
+        .zip(iter.skip(1).zip(iter.skip(4)))
+        .filter(|(_, (_, d))| d.contains("definition originally entered"))
+        .map(|(l, (w, d))| (*d, w.to_string(), *l))
+        .collect::<Vec<_>>();
     // find the ghosts
     let xml = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
     let mut reader = EventReader::new(Cursor::new(xml));
@@ -31,36 +60,73 @@ fn main() {
     let (mut in_score, mut in_def) = (false, false);
     loop {
         match reader.next().unwrap() {
-            XmlEvent::EndDocument{..} => {break;}
-            XmlEvent::StartElement{name, attributes, ..} => {
-                match name.local_name.as_str() {
-                    "valsi" => {
-                        let w = attributes.iter().find(|&x| x.name.local_name == "word").unwrap().value.clone();
-                        if attributes.iter().find(|&x| x.name.local_name == "type").unwrap().value.starts_with('o') {
-                            no.push(w.clone());
-                        } else {
-                            xml_words.push(w.clone());
-                        }
-                    }
-                    "score" => {in_score = true;}
-                    "definition" => {in_def = true;}
-                    _ => ()
-                }
+            XmlEvent::EndDocument { .. } => {
+                break;
             }
+            XmlEvent::StartElement {
+                name, attributes, ..
+            } => match name.local_name.as_str() {
+                "valsi" => {
+                    let w = attributes
+                        .iter()
+                        .find(|&x| x.name.local_name == "word")
+                        .unwrap()
+                        .value
+                        .clone();
+                    if attributes
+                        .iter()
+                        .find(|&x| x.name.local_name == "type")
+                        .unwrap()
+                        .value
+                        .starts_with('o')
+                    {
+                        no.push(w.clone());
+                    } else {
+                        xml_words.push(w.clone());
+                    }
+                }
+                "score" => {
+                    in_score = true;
+                }
+                "definition" => {
+                    in_def = true;
+                }
+                _ => (),
+            },
             XmlEvent::Characters(t) => {
-                if (in_score && t.parse::<i32>().unwrap() < -1) || (in_def && ["with ISO 639-3", "ISO-3166", "ISO-4217"].iter().any(|i| t.contains(i))) {no.push(xml_words.pop().unwrap_or_default());}
+                if (in_score && t.parse::<i32>().unwrap() < -1)
+                    || (in_def
+                        && ["with ISO 639-3", "ISO-3166", "ISO-4217"]
+                            .iter()
+                            .any(|i| t.contains(i)))
+                {
+                    no.push(xml_words.pop().unwrap_or_default());
+                }
                 in_score = false;
                 in_def = false;
             }
-            _ => ()
+            _ => (),
         }
     }
-    xml_words = xml_words.iter().map(|x| Regex::new(" +").unwrap().replace_all(x.replace('.', " ").trim(), " ").to_string()).sorted().dedup().collect();
+    xml_words = xml_words
+        .iter()
+        .map(|x| {
+            Regex::new(" +")
+                .unwrap()
+                .replace_all(x.replace('.', " ").trim(), " ")
+                .to_string()
+        })
+        .sorted()
+        .dedup()
+        .collect();
     println!("{:5} words in xml", xml_words.len());
     let mut ghosts = vec![];
     let (mut en_not_xml, mut not_en_xml, mut not_en_not_xml) = (0, 0, 0);
     for (d, w, l) in updates {
-        let w = Regex::new(" +").unwrap().replace_all(w.replace('.', " ").trim(), " ").to_string();
+        let w = Regex::new(" +")
+            .unwrap()
+            .replace_all(w.replace('.', " ").trim(), " ")
+            .to_string();
         let date = &d.replace('\n', "")[3..11];
         let y = date[4..8].parse::<usize>().unwrap();
         let m = match &date[0..3] {
@@ -76,7 +142,7 @@ fn main() {
             "Oct" => 9,
             "Nov" => 10,
             "Dec" => 11,
-            _ => panic!("wtf kinda month is `{}`?", &date[0..3])
+            _ => panic!("wtf kinda month is `{}`?", &date[0..3]),
         };
         if l.contains("English") {
             if !jvs_words.contains(&w) && !no.contains(&w) {
@@ -87,7 +153,8 @@ fn main() {
                 ghosts.push(format!("{w} - +en-xml"));
                 en_not_xml += 1;
             }
-        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && xml_words.contains(&w) {
+        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && xml_words.contains(&w)
+        {
             if !jvs_words.contains(&w) {
                 ghosts.push(format!("{w} - -en+xml, 'first' defined in {}", &l[13..]));
                 not_en_xml += 1;
@@ -97,7 +164,10 @@ fn main() {
                 // -g -e +x +j
                 // a non english definition was added after an 'original' english one was made
             }
-        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && !xml_words.contains(&w) && !no.contains(&w) {
+        } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -")))
+            && !xml_words.contains(&w)
+            && !no.contains(&w)
+        {
             ghosts.push(format!("{w} - -en-xml"));
             not_en_not_xml += 1;
         } else {
@@ -116,21 +186,36 @@ fn main() {
     ghosts.sort_by(|a, b| a.to_lowercase().partial_cmp(&b.to_lowercase()).unwrap());
     println!("{:5} ghost-adjacents, of which:", ghosts.len());
     println!("      {en_not_xml:5} [x] 'original' def in english   [ ] in xml   <-- real ghosts");
-    println!("      {not_en_xml:5} [ ]                             [x]          <-- not really ghosts");
-    println!("      {not_en_not_xml:5} [ ]                             [ ]          <-- we don't actually care about these");
+    println!(
+        "      {not_en_xml:5} [ ]                             [x]          <-- not really ghosts"
+    );
+    println!(
+        "      {not_en_not_xml:5} [ ]                             [ ]          <-- we don't \
+         actually care about these"
+    );
     let out = ghosts.join("\r\n");
     fs::write("jbosts.txt", out).unwrap();
     let out = jvs_words.iter().sorted().join("\r\n");
     fs::write("jvs.txt", out).unwrap();
     // toadua
     let mut toadua_words = vec![];
-    let stuff = client.post("https://toadua.uakci.space/api").body(r#"{"action": "search", "query": ["scope", "en"]}"#).send().unwrap();
+    let stuff = client
+        .post("https://toadua.uakci.space/api")
+        .body(r#"{"action": "search", "query": ["scope", "en"]}"#)
+        .send()
+        .unwrap();
     let stuff = serde_json::from_reader::<_, Toadua>(stuff).unwrap();
     for t in stuff.results {
         let the = t.date.split('-').collect::<Vec<_>>();
         let y = the[0].parse::<usize>().unwrap();
         let m = the[1].parse::<usize>().unwrap() - 1;
-        if !toadua_words.contains(&t.head) && ![" ", ".", "y", "ou"].iter().any(|x| t.head.contains(x)) && !["oldofficial", "examples", "oldexamples"].iter().any(|x| t.user == *x) && t.score >= -2 {
+        if !toadua_words.contains(&t.head)
+            && ![" ", ".", "y", "ou"].iter().any(|x| t.head.contains(x))
+            && !["oldofficial", "examples", "oldexamples"]
+                .iter()
+                .any(|x| t.user == *x)
+            && t.score >= -2
+        {
             toadua_words.push(t.head);
             counter[y][m].1 += 1;
         }
@@ -157,7 +242,7 @@ fn main() {
 
 #[derive(Deserialize)]
 struct Toadua {
-    results: Vec<Toa>
+    results: Vec<Toa>,
 }
 
 #[derive(Deserialize)]
@@ -165,5 +250,5 @@ struct Toa {
     date: String,
     head: String,
     user: String,
-    score: i32
+    score: i32,
 }
