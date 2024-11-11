@@ -323,6 +323,7 @@ bukterjo'e - +en-xml
 bukykoi - +en-xml
 bumgapci - -en+xml, 'first' defined in lojban
 bunda - -en+xml, 'first' defined in Esperanto
+bundukiia - -en+xml, 'first' defined in lojban
 bunre - -en+xml, 'first' defined in Esperanto
 burcu - -en+xml, 'first' defined in Esperanto
 burgere - -en+xml, 'first' defined in Русский
@@ -3637,7 +3638,6 @@ plukauaii - -en+xml, 'first' defined in Русский
 pluta - -en+xml, 'first' defined in Esperanto
 po - -en+xml, 'first' defined in Español
 po'a - -en+xml, 'first' defined in lojban
-po'aspo - +en-xml
 po'e - -en+xml, 'first' defined in Español
 po'i - -en+xml, 'first' defined in lojban
 po'o - -en+xml, 'first' defined in Español
@@ -6871,7 +6871,6 @@ tolylazni - -en+xml, 'first' defined in lojban
 tolzaupai - +en-xml
 tolzba - +en-xml
 tonga - -en+xml, 'first' defined in Esperanto
-tordakyxa'i - +en-xml
 tordu - -en+xml, 'first' defined in Esperanto
 torga'axa'i - +en-xml
 tormau - +en-xml
@@ -7759,6 +7758,7 @@ zifcru - -en+xml, 'first' defined in lojban
 zifpemci - -en+xml, 'first' defined in Русский
 zifre - -en+xml, 'first' defined in Esperanto
 zifri'a - +en-xml
+zilbri - -en+xml, 'first' defined in lojban
 zilcte - -en-xml
 zildau - -en-xml
 zildika - -en+xml, 'first' defined in lojban
