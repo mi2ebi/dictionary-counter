@@ -49,7 +49,8 @@ fn main() {
     // ^start
     let iter = updates.iter();
     let updates = iter
-        .zip(iter.skip(1).zip(iter.skip(4)))
+        .clone()
+        .zip(iter.clone().skip(1).zip(iter.clone().skip(4)))
         .filter(|(_, (_, d))| d.contains("definition originally entered"))
         .map(|(l, (w, d))| (*d, w.to_string(), *l))
         .collect::<Vec<_>>();
@@ -122,9 +123,9 @@ fn main() {
     println!("{:5} words in xml", xml_words.len());
     let mut ghosts = vec![];
     let (mut en_not_xml, mut not_en_xml, mut not_en_not_xml) = (0, 0, 0);
+    let spaces = Regex::new(" +").unwrap();
     for (d, w, l) in updates {
-        let w = Regex::new(" +")
-            .unwrap()
+        let w = spaces
             .replace_all(w.replace('.', " ").trim(), " ")
             .to_string();
         let date = &d.replace('\n', "")[3..11];
