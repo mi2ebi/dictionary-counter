@@ -111,6 +111,7 @@ aldeia
 alfabeta
 alfabetagam
 alga
+alge
 algebra
 algoritma
 alkai
@@ -821,6 +822,7 @@ bimxra
 bindo
 binigNIT
 binkemgaste'i
+binma
 bino
 binono
 binonovo
@@ -872,6 +874,7 @@ bitmu
 bitni
 bitnrkrati
 bitnymei
+bitnymo'a
 bitybi'o
 bitydu'a
 bitygau
@@ -941,6 +944,7 @@ blofarga'a
 blogre
 bloibu
 bloja'a
+blokanu
 blokla
 blokle
 bloklu
@@ -1907,6 +1911,7 @@ cintrindigo
 cintungau
 cintyfaigau
 cintypu'i
+cintyzbe
 cinvi'i
 cinza
 cinzybatci
@@ -2044,6 +2049,7 @@ ckazbe
 ckeji
 ckemono
 ckenderu
+ckeno
 cketake
 ckiku
 ckilu
@@ -2138,6 +2144,7 @@ clite
 cliva
 clugau
 clupa
+cma'alge
 cma'e'i'o'uvo
 cmabacyborvi'a
 cmabakfu
@@ -2357,6 +2364,7 @@ cmekancu
 cmemo'i
 cmene
 cmenrline
+cmero
 cmesanji
 cmeske
 cmeste
@@ -3404,6 +3412,7 @@ djabege
 djabei
 djabeipre
 djabevycripu
+djaburito
 djacaumro
 djacautsi
 djacickebaba
@@ -3414,6 +3423,7 @@ djagu'ara
 djainu
 djaka'u
 djakare
+djakari
 djakartas
 djakebaba
 djalazani
@@ -3433,6 +3443,7 @@ djasluni
 djasnuji
 djaspi
 djata'e
+djatako
 djatsiku'u
 djaule
 djaumo
@@ -3733,6 +3744,7 @@ dzukansa
 dzukicau
 dzukla
 dzuklaji
+dzuma
 dzumlo
 dzupoi
 dzupoikansa
@@ -3836,6 +3848,7 @@ endo
 enfa
 enfasnu
 enfoka
+engabadiro
 enge
 engranaje
 enka
@@ -4088,6 +4101,7 @@ faumlu
 faunca'a
 faunjdikpe
 faunli
+faunsa
 faunxa'o
 faurbanzu
 faurdu'e
@@ -4198,6 +4212,7 @@ fertis
 feskevlu'a
 fesli'a
 fespli
+fespu'i
 festerplakai
 festerplatci
 festi
@@ -4451,6 +4466,7 @@ fonselrango
 fonskami
 fonsnu
 fonta'a
+fonto
 fonxa
 fonynoi
 forca
@@ -4863,6 +4879,7 @@ girzrdau
 girzu
 gismu
 gismyjvo
+gitrbanjo
 gitsko
 gitytortci
 glabi'a
@@ -4953,6 +4970,7 @@ goi'i
 goilbi'o
 goilgau
 goilka'i
+golfyjvi
 gombesa
 gomsi
 gomsika
@@ -5296,6 +5314,7 @@ ilkai
 ilki
 ilmismu
 ilnu
+ilpofu
 imla
 impera
 imperative
@@ -5471,6 +5490,7 @@ jaclu'a
 jacmakfa
 jacmivbormro
 jacmlo
+jacna'i
 jacnalselgre
 jacpi'o
 jacra'erbi'u
@@ -5571,7 +5591,6 @@ jasysnu
 jatna
 jatnrpapa
 jatny'utka
-jatsu
 jau
 jau'au
 jau'i
@@ -5759,6 +5778,7 @@ jbovoinci
 jboxelmri
 jbozi'u
 jbuboikei
+jbuselkei
 jbusfe
 jbuskami
 jbustu
@@ -5940,6 +5960,7 @@ jgalu
 jganu
 jgarau
 jgari
+jgaunla
 jgegau
 jgena
 jgenanba
@@ -5960,6 +5981,7 @@ jgitrsita
 jgitrvolino
 jgitrxu
 jglandi
+jgorila
 jgu'ai
 jguna
 jguvi
@@ -6481,6 +6503,7 @@ ka'amru
 ka'anri'a
 ka'arbatci
 ka'arbi
+ka'arda'i
 ka'arde'i
 ka'arkakpa
 ka'arkomcu
@@ -6685,6 +6708,7 @@ kamju
 kamjunmre
 kamjybo'u
 kamjybo'usle
+kamjyro'i
 kamjysunga
 kamka'o
 kamlsu
@@ -7039,6 +7063,7 @@ ki'u
 ki'u ma
 ki'unai
 kibdu'a
+kibjo'e
 kibmalmri
 kibmeme
 kibrbrauzero
@@ -7328,6 +7353,7 @@ kopteri
 korbi
 korbipe
 korcu
+kordu
 korfaipletomino
 korgretro
 korka
@@ -7410,8 +7436,10 @@ krilacri
 krilami
 krili
 krilogji
+krilrkalsaiti
 krilrkartso
 kriluui
+krilykevro'i
 krimtauri
 krimuri
 krinu
@@ -7557,6 +7585,7 @@ kulpikta
 kulselgu'a
 kultadni
 kumbartu
+kumdru
 kumfa
 kumjoibimja'i
 kumjoibimselvauja'i
@@ -7681,10 +7710,12 @@ labnyge'u
 labnyjba
 labru'o
 labybi'o
+labybla
 labyblu
 labyblusle
 labyfi'e
 labypiltricu
+labyska
 labyterbi'a
 labyxu'e
 labzilska
@@ -7699,6 +7730,7 @@ lacy'inda
 lacydu'a
 ladjvestagycti
 ladlabrulspa
+ladlo
 ladmatne
 ladru
 ladycange
@@ -8061,6 +8093,7 @@ lilmudri
 lilneia
 lilneia zei cmene
 lilrkerozine
+lilvo
 limfa
 limkla
 limla'u
@@ -8350,6 +8383,9 @@ mai'e'e
 mai'i
 mai'o
 mai'u
+mai'u'au
+mai'u'e
+mai'u'ei
 maiaimit
 maiamis
 mairka'u
@@ -9085,6 +9121,7 @@ molgle
 molja'u
 molki
 molko'a
+molkordu
 molku'o
 molmarxa
 molmla
@@ -9095,11 +9132,13 @@ molselpu'u
 molselputpracro
 moltenva'u
 moltu'u
+molvelylu'i
 molylitki
 momkai
 momlai
 momrai
 momvelru'e
+mondo
 monfu'i
 monfu'igau
 mongolo
@@ -9137,6 +9176,7 @@ mraigo
 mraji
 mrajymledi
 mranmar
+mratipi
 mrecmu
 mrena'u
 mrenilglamlu
@@ -9250,6 +9290,7 @@ mudyspa
 mudyspaske
 mudyxultci
 mufspe
+mujgunma
 mujybukyvro
 mujykanji
 mujyku'e
@@ -9439,6 +9480,7 @@ najyzilska
 nakcei
 nakcinse
 nakfamti
+nakmli
 naknakcinse
 naknalspe
 nakni
@@ -9664,6 +9706,7 @@ natadekokos
 natfe
 natficima
 natladekoko
+natlo
 natmi
 natpa'i
 natpamtrusi'o
@@ -9682,6 +9725,7 @@ naudre
 naun
 naunmu
 naurso'a
+navdine
 navni
 navnlrado
 navnrargo
@@ -9692,6 +9736,7 @@ navytre
 navzmi
 naxle
 nazbi
+nazmo
 ne
 ne'a
 ne'au
@@ -9915,6 +9960,7 @@ nitmu'e
 nitmu'u
 nitpiki
 nitrai
+nitre'e
 nitsa'o
 nitsalpo
 nitybu'u
@@ -9989,6 +10035,7 @@ noltrufe'i
 noltrunau
 noltruni'u
 noltruti'u
+nolxampre
 nolzda
 nolzgi
 nomei
@@ -10151,6 +10198,7 @@ nunflicabybandu
 nunfusra
 nungei
 nungle
+nungubycu'a
 nungumcatra
 nungumdjacaumro
 nungumpra
@@ -11310,6 +11358,7 @@ pruru'a
 pruselpli
 pruselpo'e
 pruslemijyji'e
+prusmi
 prusofto
 prusoi
 pruspe
@@ -12237,6 +12286,7 @@ rutrpiripiri
 rutrpisu
 rutrprunu
 rutrvanila
+rutrxemali
 rutrximene'a
 rutsalta
 rutsfani
@@ -12244,6 +12294,7 @@ rutyjdu
 rutytisna
 rutytricu
 rutyve'u
+ruxla'a
 ruxmai
 ruxpe'o
 ruxpre
@@ -14247,6 +14298,7 @@ seti'u
 setmice
 setmima
 setpistabno
+setro'i
 setu'i
 setxeve
 seva'o
@@ -14745,6 +14797,7 @@ smisi'u
 smitra
 smizu'e
 smoka
+smokino
 smokrtabi
 smorodina
 smu'uni
@@ -14804,6 +14857,7 @@ snaze'a
 snazga
 snebaigau
 snecrofant
+snejo
 sneju'e
 snexu'i
 snicmaci
@@ -14843,11 +14897,19 @@ so
 so'a
 so'au
 so'e
+so'e'a
 so'e'ai
+so'e'e
+so'e'i
+so'e'o
+so'e'u
 so'ei
 so'eroi
 so'etsi
 so'i
+so'i'a
+so'i'e
+so'i'i
 so'imei
 so'inba
 so'iroi
@@ -15422,6 +15484,7 @@ stasrgaspatco
 stasu
 stasysmuci
 stati
+statilju
 staxanovite
 ste'epe
 steba
@@ -15667,6 +15730,7 @@ ta'oi
 ta'onai
 ta'orda'i
 ta'ormu'a
+ta'orselkei
 ta'orskami
 ta'orstizu
 ta'u
@@ -15947,6 +16011,7 @@ tcecrogau
 tcefri
 tcegei
 tcejarso'a
+tcejunri
 tcekau
 tcekitau
 tcekitaujau
@@ -16023,6 +16088,7 @@ tcinguuo
 tcingys
 tcini
 tcintrau
+tcinysligau
 tcipi
 tciromei
 tcita
@@ -16320,6 +16386,7 @@ tercma
 tercme
 tercmo
 tercne
+tercneparbi
 tercni
 tercnu
 tercoi
@@ -17068,6 +17135,7 @@ tigni
 tigra
 tigygusta
 tigypre
+tigytsina
 tijdzu
 tijyfa'u
 tijyjinme
@@ -17123,6 +17191,7 @@ tirxrpardu
 tirxrponka
 tirxu
 tirxyjvecinfo
+tirxyxi'a
 tisna
 tisnanba
 tisycanti
@@ -17395,6 +17464,7 @@ torbrato'a
 torceli
 torcrida
 tordakyxa'i
+tordaxi
 tordu
 torga'axa'i
 torluznaukosta
@@ -17658,6 +17728,7 @@ tumdesku
 tumfakli'u
 tumgapcripu
 tumgre
+tumje'e
 tumjvejaumapti
 tumkupypaumerko
 tumla
@@ -18797,6 +18868,7 @@ xaklogji
 xaksu
 xakto
 xaktoni
+xakyxau
 xakyziflogji
 xalbarja
 xalbebna
@@ -18869,6 +18941,7 @@ xanjanbe
 xanjirnymirli
 xanjoifirsku
 xanka
+xankordu
 xankydji
 xanlai
 xanle'u
@@ -19034,8 +19107,10 @@ xekckafi
 xekcpi
 xekli'ikai
 xekri
+xekri'o
 xekselkre
 xekselskapi
+xekska
 xeksodva
 xekyblabi
 xekykrexruba
@@ -19071,6 +19146,7 @@ xelvet
 xelvetik
 xelveto
 xendo
+xenmu
 xenru
 xermeti
 xerno
@@ -19173,6 +19249,7 @@ xlarai
 xlari'a
 xlatce
 xlati'a
+xlatra
 xlatsu'aci
 xle'edi
 xleserti
@@ -19213,6 +19290,7 @@ xonba
 xonkon
 xonslanykemymlirumjvesimjonkepkemclenykukrypaxryja'i
 xonxoli
+xopfeni
 xorban
 xorbo
 xorjina
@@ -19259,6 +19337,7 @@ xrube'i
 xrubei
 xrucpa
 xrucpe
+xrudja
 xrududu
 xrufle
 xrugau
@@ -19288,6 +19367,8 @@ xu'unrymutcrai
 xubrnre'u
 xubrnrumeksa
 xudvu
+xugri
+xukfuri
 xukmi
 xukmranoni
 xukske
@@ -19387,6 +19468,7 @@ zabdiia
 zabna
 zacfoncu'u
 zacpanka
+zadgau
 zaglamtu'e
 zagvi'agau
 zagyfe'a
@@ -19411,6 +19493,7 @@ zalmlo
 zalre'u
 zaltapla
 zalvi
+zamveka
 zanbe'icku
 zanbebna
 zancari
@@ -19526,6 +19609,7 @@ zdaspe
 zdasta
 zdatru
 zdatutra
+zdaxogani
 zdaxru
 zdazva
 zdeltadirake
@@ -19649,6 +19733,7 @@ zerzu'e
 zetcla
 zetro
 zevla
+zevle'o
 zevlyjvo
 zevlyrafsi
 zevykla
@@ -19696,6 +19781,7 @@ zgiske
 zgisku
 zgitci
 zgito'a
+zgito'acmi
 zgito'apoi
 zgito'axre
 zgizba
@@ -19835,6 +19921,7 @@ zmase
 zmasydju
 zmaumce
 zmazau
+zmiboto
 zmico
 zmicu'a
 zmiku
@@ -19874,6 +19961,7 @@ zoi'u
 zoizoizoi
 zonkai
 zorkru
+zorle'o
 zorpinji
 zorti
 zozno
