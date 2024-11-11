@@ -1,6 +1,7 @@
 name: the
 permissions:
   contents: write
+  pull-requests: write
 on:
   workflow_dispatch:
   schedule:
