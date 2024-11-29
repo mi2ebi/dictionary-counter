@@ -2417,6 +2417,7 @@ cnei'i
 cnelai
 cnemu
 cneparbi
+cnible
 cnici
 cnicni
 cnicro
@@ -2448,6 +2449,7 @@ cnisni
 cnita
 cnita'u
 cnitcini
+cnitsa
 cniva'u
 cnivelmikce
 cnixai
@@ -3295,6 +3297,7 @@ dibmle
 dibrai
 dibyselpa'i
 dibzda
+dicfanri
 dicfatka'u
 dicfle
 dicflecru
@@ -9917,6 +9920,7 @@ nindode
 ninfesyborpli
 ninga'igau
 ningau
+ninja
 ninja'o
 ninke'u
 ninmu
@@ -15776,6 +15780,7 @@ tadycku
 tadypre
 tadyseljibri
 tadysmadyfi'a
+tadzgi
 tafkemlumxu'i
 tafkemvelylumxu'i
 tafkoi
