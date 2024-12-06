@@ -24,4 +24,4 @@ jobs:
           branch: update
           delete-branch: true
           title: 'update'
-          assignees: berrymot
+          assignees: mi2ebi
