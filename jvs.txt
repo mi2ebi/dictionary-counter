@@ -2911,6 +2911,7 @@ dalsauia
 dalske
 daltrixe
 daltsi
+daltsivi'i
 damba
 damfri
 damri
@@ -10990,6 +10991,7 @@ pinpau
 pinpaudu'i
 pinpedi
 pinplin
+pinselba'e
 pinseljupso'a
 pinsi
 pinsi'a
@@ -17245,6 +17247,7 @@ to'emu'inai
 to'eni'inai
 to'eri'anai
 to'i
+to'itci
 to'o
 to'okla
 to'u
