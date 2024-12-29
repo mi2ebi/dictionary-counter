@@ -2049,7 +2049,6 @@ ckazbe
 ckeji
 ckemono
 ckenderu
-ckeno
 cketake
 ckiku
 ckilu
@@ -2364,7 +2363,6 @@ cmekancu
 cmemo'i
 cmene
 cmenrline
-cmero
 cmesanji
 cmeske
 cmeste
@@ -4470,7 +4468,6 @@ fonselrango
 fonskami
 fonsnu
 fonta'a
-fonto
 fonxa
 fonynoi
 forca
@@ -8097,7 +8094,6 @@ lilmudri
 lilneia
 lilneia zei cmene
 lilrkerozine
-lilvo
 limfa
 limkla
 limla'u
@@ -9142,7 +9138,6 @@ momkai
 momlai
 momrai
 momvelru'e
-mondo
 monfu'i
 monfu'igau
 mongolo
@@ -9710,7 +9705,6 @@ natadekokos
 natfe
 natficima
 natladekoko
-natlo
 natmi
 natpa'i
 natpamtrusi'o
@@ -9740,7 +9734,6 @@ navytre
 navzmi
 naxle
 nazbi
-nazmo
 ne
 ne'a
 ne'au
@@ -14865,7 +14858,6 @@ snaze'a
 snazga
 snebaigau
 snecrofant
-snejo
 sneju'e
 snexu'i
 snicmaci
@@ -19367,6 +19359,7 @@ xu'acmu
 xu'andi
 xu'au
 xu'e
+xu'i
 xu'icmu
 xu'o
 xu'o'e
