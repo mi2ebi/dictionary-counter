@@ -233,7 +233,7 @@ fn main() {
             jbo_t += jbo;
             toaq_t += toaq;
             if y >= 2003 && !(y == current_year && m > current_month) {
-                out += &format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\r\n");
+                out = format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\r\n{out}");
             }
         }
     }
