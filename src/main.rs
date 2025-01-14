@@ -52,7 +52,7 @@ fn main() {
         .clone()
         .zip(iter.clone().skip(1).zip(iter.clone().skip(4)))
         .filter(|(_, (_, d))| d.contains("definition originally entered"))
-        .map(|(l, (w, d))| (*d, w.to_string(), *l))
+        .map(|(l, (w, d))| (*d, (*w).to_string(), *l))
         .collect::<Vec<_>>();
     // find the ghosts
     let xml = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
@@ -156,14 +156,14 @@ fn main() {
             }
         } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -"))) && xml_words.contains(&w)
         {
-            if !jvs_words.contains(&w) {
+            if jvs_words.contains(&w) {
+                // -g -e +x +j
+                // a non english definition was added after an 'original' english one was made
+            } else {
                 ghosts.push(format!("{w} - -en+xml, 'first' defined in {}", &l[13..]));
                 not_en_xml += 1;
                 jvs_words.push(w.clone());
                 counter[y][m].0 += 1;
-            } else {
-                // -g -e +x +j
-                // a non english definition was added after an 'original' english one was made
             }
         } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -")))
             && !xml_words.contains(&w)
@@ -238,7 +238,7 @@ fn main() {
         }
     }
     fs::write("out.tsv", out).unwrap();
-    println!("{:?}", Instant::now() - start);
+    println!("{:?}", start.elapsed());
 }
 
 #[derive(Deserialize)]
