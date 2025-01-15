@@ -1228,6 +1228,7 @@ bukcilta
 bukfa'u
 bukfe'a
 buklolgai
+bukmapra
 bukmra
 bukmu'a
 bukprgingamu
@@ -1513,6 +1514,7 @@ carvrama'ecarce
 carvyrictu'a
 casnce
 casnu
+catcku
 catke
 catke zei uidje
 catlpero
@@ -5179,6 +5181,7 @@ gurmu'a
 gurmu'u
 gurni
 gurnrbulguru
+gurnrfagopirumu
 gurnrtefi
 guryre'o
 gusfarborcne
@@ -5902,9 +5905,11 @@ jelbo'i
 jelca
 jelgau
 jelgauca'a
+jeljupmi'i
 jelka'e
 jelnanba
 jelspo
+jeltoknu
 jemja'a
 jemna
 jemnrsapfiro
@@ -6300,6 +6305,7 @@ jonpoi
 jonse
 jonsi'u
 jonsimgau
+jonsimje'a
 jonsnu
 jonsumji
 jordo
@@ -9527,6 +9533,7 @@ nalfadni
 nalfadysmato'a
 nalfau
 nalfi
+nalfo
 nalfrinyna'u
 nalgaixai
 nalgeiselflira
@@ -12005,8 +12012,10 @@ rilsletei
 rilti
 rimni
 rinci
+rincyca'o
 rincyju'e
 rincykabri
+rincytu'u
 rindatni
 rindo
 ringei
@@ -15964,6 +15973,7 @@ tcaci
 tcacpi
 tcadu
 tcaika
+tcaka
 tcakali
 tcakamni
 tcakarni
