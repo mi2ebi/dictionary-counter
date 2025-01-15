@@ -1232,6 +1232,7 @@ fipfalnu - +en-xml
 fipfepri - -en+xml, 'first' defined in 한국어
 fipre'uga'a - -en+xml, 'first' defined in lojban
 firsku - +en-xml
+fizde - -en+xml, 'first' defined in lojban
 fladra - -en+xml, 'first' defined in lojban
 flajecyxlube'e - -en-xml
 flakamni - -en-xml
