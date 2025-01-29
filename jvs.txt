@@ -1070,6 +1070,7 @@ bonjarple
 bonmaksi
 bonsaie
 bonsfe
+bonta
 bordelo
 borxes
 boske
@@ -2482,6 +2483,7 @@ co'urde'a
 co'urdu'u
 co'urfa'o
 co'urji'e
+cocybau
 cocyborcidytse
 cocyci'ekei
 coi
@@ -3221,6 +3223,8 @@ denstela
 denterjo'e
 denvanbi
 denxi'u
+denzalgomboi
+denzalgomja
 denzalvi
 depcni
 depkumfa
@@ -3876,6 +3880,7 @@ entropi
 entuzi
 enva
 envaxire
+enxoiurodni
 enzasti
 enzebra
 enzima
@@ -4635,6 +4640,7 @@ ga'u'au
 gacri
 gacybo'i
 gacydunja
+gacyjau
 gadri
 gaftercu'a
 gafto'a
@@ -4673,6 +4679,7 @@ galpau
 galprurci
 galrai
 galraipau
+galsinma'e
 galsu'a
 galto'a
 galtu
@@ -4976,6 +4983,7 @@ goilgau
 goilka'i
 golfyjvi
 gombesa
+gomja
 gomsi
 gomsika
 gonai
@@ -7262,6 +7270,7 @@ klupe
 klura'a
 kluske
 klusmu
+klusni
 kluza
 kluzei
 kmir
@@ -7427,13 +7436,16 @@ krekalsa
 krekandi
 krekemburpelxu
 krelu'i
+krelumxu'i
 krepelxu
 kreplini
 kresi'e
+kresudyca'a
 krevelylu'i
 kreveta
 krevi'u
 krevi'udakfu
+krexulxu'i
 kricetu
 krici
 kricili
@@ -7749,7 +7761,9 @@ ladyfaigau
 ladykruji
 ladypu'o
 ladzanja
+lafca'a
 lafcpa
+lafma'e
 lafmi'i
 lafmuvgau
 lafre'e
@@ -8275,6 +8289,7 @@ lumpatxu
 lumpu'o
 lumtansi
 lumvau
+lumxu'i
 lunbe
 lunmes
 lunra
@@ -10971,6 +10986,7 @@ pincyvi'itcuga'e
 pindi
 pinflani
 pinfu
+pingau
 pinji
 pinjyca'a
 pinjycarvi
@@ -10992,6 +11008,7 @@ pinpau
 pinpaudu'i
 pinpedi
 pinplin
+pinpu'i
 pinselba'e
 pinseljupso'a
 pinsi
@@ -11404,6 +11421,7 @@ pulce
 pulji
 pulmeduza
 pulni
+pumbli
 pumlumci
 pumvau
 punckabu
@@ -11520,6 +11538,7 @@ rairnei
 rairpe'o
 rairtoi
 rajbi'o
+rajgau
 rajgreke'a
 rajma'a
 rajnacmei
@@ -11533,6 +11552,7 @@ rajykevloi
 rajymudri
 rajypau
 rajypaudu'i
+rajypu'i
 rajyserti
 rajysirdra
 rajyto'agri
@@ -12230,6 +12250,7 @@ ruble
 rucni
 rucyca'a
 rucyzu'e
+rufple
 rufsfe
 rufsu
 rufta'u
@@ -12347,6 +12368,7 @@ sa'ydar
 sa'ydin
 sabis
 sabji
+sabmi'i
 sabnu
 sacki
 sackycmu
@@ -14879,14 +14901,17 @@ sniju
 snile'u
 snima'o
 snime
+snimyma'a
 snipa
 snipeitcini
 snisimsumji
 snisku
+snisna
 snitatu
 snitc
 sniti'i
 sniuenzi
+snixra
 snocanci
 snomabru
 snomau
@@ -14939,6 +14964,8 @@ sobyxinmo
 socku'a
 socni
 socnrpanrnji'akobi
+sodgau
+sodjau
 sodna
 sodnlrubidi
 sodnrcesi
@@ -14946,6 +14973,7 @@ sodnrfransi
 sodnrkali
 sodnrlito
 sodnysodna
+sodri'a
 sodva
 softo
 sofybakni
@@ -15790,14 +15818,18 @@ tadzgi
 tafkemlumxu'i
 tafkemvelylumxu'i
 tafkoi
+taflu'imi'i
 taflumca'a
 taflumpu'o
+taflumxu'i
 tafrcemize
 tafrdulbande
 tafrjerzi
 tafrkardiga
 tafrkimono
+tafsudmi'i
 taftcaci
+tafxulca'a
 tafydi'o
 tafyfe'a
 tafygenxu
@@ -15859,6 +15891,7 @@ tamju'o
 tamjycausmani
 tamle
 tamne
+tamseingu
 tamsmi
 tamtigypre
 tamxri
@@ -17207,6 +17240,7 @@ tirxyxi'a
 tisna
 tisnanba
 tisycanti
+tisydakli
 tisydja
 titla
 titnanba
@@ -18044,6 +18078,8 @@ varbasygauca'a
 varboi
 varcavas
 varganu
+varjau
+varjaumi'i
 varjei
 varkiclaflo'i
 varmebri
@@ -19324,6 +19360,7 @@ xrare'o
 xrarucyca'a
 xraselci'a
 xraski
+xrasni
 xratai
 xrebau
 xrejvejdikybau
@@ -19390,6 +19427,7 @@ xuksle
 xulbu'u
 xulbuktci
 xulgani
+xulgau
 xulta
 xumbe
 xumcacpli
@@ -19406,6 +19444,7 @@ xumrvanila
 xumske
 xumsle
 xumsne
+xumspi
 xumsutri'a
 xumtau
 xumymelmydi'e
@@ -19551,6 +19590,7 @@ zarki'a
 zasmo'isro
 zasnce
 zasni
+zasrirni
 zasti
 zastru
 zasxa'u

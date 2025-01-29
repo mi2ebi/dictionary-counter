@@ -783,7 +783,6 @@ dagme'esni - -en+xml, 'first' defined in lojban
 dagytcityta'o - +en-xml
 dai - -en+xml, 'first' defined in Español
 dainmo - -en-xml
-dajne - -en+xml, 'first' defined in lojban
 dakfu - -en+xml, 'first' defined in Esperanto
 dakli - -en+xml, 'first' defined in Esperanto
 dalsauia - -en+xml, 'first' defined in Español
@@ -7478,6 +7477,7 @@ xampo - -en+xml, 'first' defined in Esperanto
 xamselfi'i - +en-xml
 xamsi - -en+xml, 'first' defined in Esperanto
 xamyzu'e - +en-xml
+xanbau - -en+xml, 'first' defined in Nederlands
 xance - -en+xml, 'first' defined in Esperanto
 xandakyxa'i - +en-xml
 xanjairinsa - -en+xml, 'first' defined in Русский
