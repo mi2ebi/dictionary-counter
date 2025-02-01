@@ -7867,6 +7867,7 @@ lastu
 lasybo'i
 lasydakli
 lasysilka
+latci
 latcmo
 latcribe
 latfekspa
@@ -19122,6 +19123,7 @@ xe'e'o
 xe'e'u
 xe'ei
 xe'enai
+xe'i
 xe'o
 xe'u
 xebe'i
