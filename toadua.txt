@@ -997,6 +997,7 @@ aıtuq
 aıueo
 aıze
 aızoq
+aızıa
 aꝡaꝡa
 aꝡu
 ba
@@ -2177,6 +2178,7 @@ cecoa
 cecoacaq
 cecoe
 cecuao
+cedeaq
 cedıeq
 cefa
 ceha
@@ -3470,6 +3472,7 @@ cıkata
 cıko
 cıkı
 cıkınam
+cıkınamkea
 cıla
 cılakaq
 cılaı
@@ -3694,6 +3697,7 @@ daqsua
 daqsuaı
 daqsıao
 daqsıe
+daqtaı
 daqteı
 daqtuao
 daqtuqsıe
@@ -4341,6 +4345,7 @@ dıeqne
 dıeqnhe
 dıeqnua
 dıeqrıaq
+dıeqse
 dıeqte
 dıese
 dıesoı
@@ -5512,6 +5517,7 @@ geıcheı
 geıcıa
 geıdutao
 geıfao
+geımıq
 geınhoq
 geınua
 geıse
@@ -6030,6 +6036,7 @@ guqgoa
 guqjeoq
 guqjom
 guqjıaq
+guqkaıse
 guqkua
 guqkuatom
 guqlıo
@@ -6771,6 +6778,8 @@ heqtı
 heqtıaı
 heqtıbuq
 herece
+hereq
+hereqsham
 heroe
 heroe'aı
 heruo
@@ -7139,6 +7148,7 @@ huolaı
 huolugaı
 huolıam
 huolıem
+huolım
 huom
 huomoem
 huomoham
@@ -7153,6 +7163,7 @@ huosoeı
 huosuao
 huosı
 huosınaraq
+huosıq
 huosıu
 huotoaı
 huozana
@@ -9024,6 +9035,7 @@ kaqshıashı
 kaqsoeı
 kaqsı
 kaqsıpıo
+kaqsıq
 kaqsıu
 kaqtıe
 kaqtıenua
@@ -9673,6 +9685,8 @@ kuone
 kuopo
 kuopıpa
 kuoq
+kuoq'akaı
+kuoq'akaılıe
 kuoqbeanoso
 kuoqbo
 kuoqbue
@@ -10024,6 +10038,7 @@ kıoqsuoı
 kıoqzıu
 kıoraq
 kıoru
+kıosha
 kıpoetıaetmearmerıaertaefoe
 kıpu
 kıpıso
@@ -11863,6 +11878,7 @@ muaobe
 muaobeaq
 muaoceme
 muaogaı
+muaogaınıu
 muaogaırom
 muaogaıse
 muaoguaq
@@ -12141,6 +12157,7 @@ muıhuısheo
 muıjeq
 muıjeqkue
 muıjeqkuq
+muıjeqnam
 muıjeqtoa
 muıjuoı
 muıjuoıkuqse
@@ -13111,6 +13128,7 @@ nobatao
 nocaq
 nochuq
 nochı
+nochıkue
 nodo
 nodu
 noeq
@@ -14160,6 +14178,7 @@ pasakala
 pasekuq
 pasha
 pasho
+pashose
 pashosueq
 pasıaq
 pata
@@ -14692,11 +14711,14 @@ pupu
 pupuchaq
 puq
 puqbeodaıbeotoaıdıu
+puqbıq
 puqchıo
 puqcoe
 puqdeu
 puqdı
+puqfue
 puqgaıno
+puqheı
 puqhoroq
 puqhueq
 puqja
@@ -16076,6 +16098,7 @@ saqsofoq
 saqsu
 saqsuluaq
 saqsuse
+saqsıesoı
 saqsıoq
 saqtıq
 saqzao
@@ -16598,6 +16621,7 @@ sheıtua
 sheızua
 sho
 shoa
+shoacueme
 shoadaosı
 shoajeoq
 shoajoaı
@@ -17275,6 +17299,8 @@ sorısom
 sorızo
 sosonohakoceaq
 sosuogoıche
+sozı
+sozıgoa
 soı
 soı'aı
 soıbuaq
@@ -17617,6 +17643,7 @@ sıaoheno
 sıaojao
 sıaojeaq
 sıaojuı
+sıaokaıdo
 sıaokaıdoa
 sıaona
 sıaopaq
@@ -18428,6 +18455,7 @@ toaqluo
 toaqlıeı
 toaqme
 toaqmuo
+toaqmuochaq
 toaqmuı
 toaqmuıjuao
 toaqno
@@ -19747,6 +19775,7 @@ zıusoaı
 ínha
 ío
 íra
+îna
 ïba
 ïe
 ïgo
@@ -19823,6 +19852,7 @@ zıusoaı
 ımlaq
 ımo
 ına
+ınaq
 ınaı
 ıne
 ınha
@@ -20043,6 +20073,7 @@ zıusoaı
 ꝡo-
 ꝡoam
 ꝡoamgına
+ꝡoao
 ꝡoaq
 ꝡobakamoqdanhadoa
 ꝡogo
