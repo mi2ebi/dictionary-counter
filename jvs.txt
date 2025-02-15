@@ -29,6 +29,7 @@ a'asna
 a'asnce
 a'au
 a'e
+a'e'i'o'u
 a'ei
 a'enai
 a'enmo
@@ -677,6 +678,7 @@ beicka
 beidle
 beipre
 beircarce
+beirce'i
 beitlaxum
 beitrau
 bejmu'o
@@ -1197,6 +1199,7 @@ bronis
 bropre
 broralmalsi
 bruNAIS
+bruci
 brukobli
 bruloni
 brulu'i
@@ -2576,6 +2579,7 @@ craxra
 cre'udingar
 crebi'o
 crecipra
+crecli
 crejibri
 creka
 crekafpra
@@ -4797,6 +4801,7 @@ gekmau
 geknimi
 gekpanpi
 gekrai
+gelga
 gendra
 genja
 genjrdauko
@@ -7848,6 +7853,7 @@ larfi'i
 larja'ostu
 larjdixau
 larjdixla
+larki
 larkosmylarcu
 larku'a
 larlarborterdau
@@ -11093,6 +11099,7 @@ plantago
 plargoni
 plasema
 plasimi
+plaske
 platano
 platesa
 platipu
@@ -11108,6 +11115,7 @@ plekarni
 pleke'atci
 pleplolarcmaci
 pleplolarcu
+pleroma
 plesigja
 plesiio
 pleta'e
@@ -14590,6 +14598,7 @@ sinso
 sinsynatis
 sinxa
 sinxrmanji
+sipfli
 sipfru
 sipkemdjusa'a
 sipku'a
@@ -14840,6 +14849,7 @@ smuci
 smudra
 smudu'a
 smudu'i
+smudu'o
 smudukti
 smugau
 smuge'a
@@ -15454,6 +15464,7 @@ sputnike
 sputu
 sra'akpa
 sradjine
+srafanu
 srai'a
 sraji
 sraki'e
