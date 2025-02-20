@@ -61,7 +61,7 @@ fn main() {
     let (mut in_score, mut in_def) = (false, false);
     loop {
         match reader.next().unwrap() {
-            XmlEvent::EndDocument { .. } => {
+            XmlEvent::EndDocument => {
                 break;
             }
             XmlEvent::StartElement {
