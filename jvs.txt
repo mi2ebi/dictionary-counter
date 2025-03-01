@@ -546,6 +546,7 @@ bargu
 barja
 barjygu'a
 barjyja'a
+barjymabla
 barjyse'u
 barkalri
 barkalyle'o
@@ -761,6 +762,7 @@ bi'au
 bi'e
 bi'ei
 bi'i
+bi'i'u
 bi'in zei uanta
 bi'o
 bi'oi
@@ -812,8 +814,10 @@ bilma
 bilmrtuberkulosi
 bilni
 bilnomu
+bilpre
 bilpulji
 bilske
+bilvedeve
 bimei
 bimkemnipyple
 bimoi
@@ -1122,6 +1126,7 @@ brapatxu
 braplu
 brarafsi
 brarai
+brarapa
 braro'i
 braronvoimabru
 brasa'o
@@ -3439,6 +3444,8 @@ djakari
 djakartas
 djakebaba
 djalazani
+djalekmi'i
+djalekta'e
 djalitki
 djamila
 djankixadas
@@ -3498,6 +3505,7 @@ djonstiuetMIL
 djordj
 djucpe
 djugei
+djukemdatygu'e
 djukra
 djuliio
 djumxuri'a
@@ -3749,6 +3757,8 @@ dzixejbo'u
 dzizani
 dzoli
 dzu'enba
+dzubilni
+dzubilsoi
 dzucpi
 dzudagypli
 dzuga'a
@@ -4594,6 +4604,7 @@ fuzraikamni
 fuzyji'i
 fuzyka'eji'i
 fuzypai
+fuzysi'u
 fy
 fy zei sance
 fy'ai
@@ -4964,6 +4975,7 @@ glivla
 glixi'o
 glokesi
 glosa
+gluli
 glumamela
 glupreselkei
 gluta
@@ -5297,6 +5309,7 @@ ienceri
 ientrau
 ierbamate
 ierbamatei
+iersini'a
 ierucaly'im
 iesys
 ietnu
@@ -5583,6 +5596,7 @@ janco
 jangalgau
 janguru
 janjaknyxa'i
+janka
 janli
 jansu
 janta
@@ -5678,6 +5692,7 @@ jaxyvlile
 jaxyxai
 jaxyxaksu
 jbabaji
+jbagu'arana
 jbakiui
 jbama
 jbari
@@ -5951,6 +5966,7 @@ jerxo
 jeske'a
 jesni
 jespezli
+jestu'u
 jesycilta
 jesycro
 jesymabru
@@ -7482,6 +7498,7 @@ krodenmikce
 krogarna
 krokete
 krokinole
+krokodili
 krokodilo
 krokurfa
 krokuta
@@ -8709,6 +8726,7 @@ meirmoi
 meizma
 mejgu'e
 mejru'u
+mekca
 mekfancu
 mekna'u
 meko'es
@@ -9806,6 +9824,7 @@ nelci
 nelcymau
 neldu'e
 nelrai
+nelsi'u
 nelti'i
 nemdu'a
 nemtoda
@@ -9897,6 +9916,7 @@ nildumu
 nildzau
 nilga'u
 nilgla
+nilglasto
 nilglatro
 nilguskli
 nilji'a
@@ -11089,6 +11109,7 @@ placazgau
 plageni
 plai'o
 plaina
+plajamna
 plajva
 plana
 planemo
@@ -11130,6 +11151,7 @@ plicu'a
 plijaspu
 plika'e
 plikai
+pliki'u
 plikra
 plini
 plinybinsenta
@@ -11276,6 +11298,7 @@ posytmo
 potcindu
 potsmo
 potybau
+praci
 pracmu
 prali
 prama'eru
@@ -13057,6 +13080,7 @@ seldasni
 seldasysudri'ami'i
 seldatka
 seldatni
+seldatygu'e
 seldau
 seldaumupli
 selde'a
@@ -13092,6 +13116,7 @@ seldjine
 seldjixau
 seldjo
 seldju
+seldjukemdatygu'e
 seldo'i
 seldo'o
 seldra
@@ -13176,6 +13201,7 @@ selfro
 selfu
 selfu'a
 selfu'e
+selfu'esi'u
 selfu'i
 selfusra
 selga'a
@@ -13584,6 +13610,8 @@ selni'a
 selni'e
 selni'i
 selni'o
+selniglasto
+selnilglasto
 selnimre
 selnirna
 selnivji
@@ -13655,6 +13683,7 @@ selpinta
 selpinxe
 selpla
 selplabau
+selplajamna
 selplana
 selple
 selpli
@@ -14014,6 +14043,7 @@ selti'ifla
 selti'ismu
 selti'o
 selti'u
+seltictra
 seltigni
 seltikpa
 seltilju
@@ -14424,6 +14454,7 @@ sfaxili
 sfe'ero
 sfecmaci
 sfecra
+sfefa'e
 sfefli
 sfero
 sfesti
@@ -15475,6 +15506,7 @@ sralybau
 sralygu'e
 sralytu'a
 srana
+srarapa
 sraseldau
 srasramofila
 srasrofi'opogo
@@ -15881,6 +15913,7 @@ taktapla
 takybli
 talgaka
 talko
+talno
 talpide
 talsa
 tamca
@@ -16511,6 +16544,7 @@ terdirgo
 terdji
 terdjine
 terdju
+terdjukemdatygu'e
 terdlun
 terdo'i
 terdra
@@ -16820,6 +16854,7 @@ terni'a
 terni'e
 terni'i
 terni'o
+ternilglasto
 ternivji
 ternoi
 ternrorci
@@ -16859,6 +16894,7 @@ terpinka
 terpinsi
 terpinxe
 terpla
+terplajamna
 terpli
 terplicru
 terplini
@@ -17177,6 +17213,7 @@ tibmli
 ticpre
 ticprije
 ticta'u
+tictra
 ticyja'o
 ticyjifsku
 ticysku
@@ -18094,6 +18131,7 @@ varjau
 varjaumi'i
 varjei
 varkiclaflo'i
+varlekmi'i
 varmebri
 varmuvgau
 varmuvmi'i
@@ -18305,6 +18343,7 @@ velna'o
 velnarge
 velne'u
 velni'o
+velnilglasto
 velnoi
 velnuzba
 velpambe
@@ -19374,6 +19413,7 @@ xrarucyca'a
 xraselci'a
 xraski
 xrasni
+xrata
 xratai
 xrebau
 xrejvejdikybau

@@ -827,7 +827,6 @@ datni - -en+xml, 'first' defined in Esperanto
 datnydatni - -en+xml, 'first' defined in lojban
 datpavycinpampre - +en-xml
 datru - -en+xml, 'first' defined in 中文
-datygu'e - +en-xml
 datyzu'e - +en-xml
 dau - -en+xml, 'first' defined in Español
 daupro - +en-xml
@@ -4664,7 +4663,6 @@ selkenra - +en-xml
 selkerlo - +en-xml
 selki'e - +en-xml
 selki'i - +en-xml
-selki'o - +en-xml
 selki'u - +en-xml
 selkinli - +en-xml
 selkisto - +en-xml
@@ -7195,7 +7193,6 @@ velranmi - +en-xml
 velre'e - +en-xml
 velrei - +en-xml
 velrelprevelma'e - +en-xml
-velri'e - +en-xml
 velri'i - +en-xml
 velrimni - +en-xml
 velrinci - +en-xml
