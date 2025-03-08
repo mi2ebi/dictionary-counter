@@ -9,11 +9,14 @@ use std::{
     io::Cursor,
     time::{Duration, Instant},
 };
+use unicode_normalization::{char::is_combining_mark, UnicodeNormalization};
 use xml::{reader::XmlEvent, EventReader};
 
+#[allow(clippy::too_many_lines)]
 fn main() {
     let start = Instant::now();
     let now = Utc::now();
+    #[allow(clippy::cast_sign_loss)]
     let current_year = now.year() as usize;
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
@@ -143,7 +146,7 @@ fn main() {
             "Oct" => 9,
             "Nov" => 10,
             "Dec" => 11,
-            _ => panic!("wtf kinda month is `{}`?", &date[0..3]),
+            x => panic!("wtf kinda month is `{x}`?"),
         };
         if l.contains("English") {
             if !jvs_words.contains(&w) && !no.contains(&w) {
@@ -211,11 +214,23 @@ fn main() {
         let y = the[0].parse::<usize>().unwrap();
         let m = the[1].parse::<usize>().unwrap() - 1;
         if !toadua_words.contains(&t.head)
-            && ![" ", ".", "y", "ou"].iter().any(|x| t.head.contains(x))
+            && ![" ", ".", "@", "y", "ou", "ae", "au", "ꝡı", "ꝡu", "nhı"]
+                .iter()
+                .any(|x| {
+                    t.head
+                        .to_lowercase()
+                        .nfd()
+                        .filter(|&c| !is_combining_mark(c))
+                        .collect::<String>()
+                        .contains(x)
+                })
+            && !"\u{0300}\u{0303}\u{0304}\u{0309}"
+                .chars()
+                .any(|c| t.head.nfd().contains(&c))
             && !["oldofficial", "examples", "oldexamples"]
                 .iter()
-                .any(|x| t.user == *x)
-            && t.score >= -2
+                .any(|x| t.user == *x && t.head.contains(' '))
+            && t.score >= -1
         {
             toadua_words.push(t.head);
             counter[y][m].1 += 1;

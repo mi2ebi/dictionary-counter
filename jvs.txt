@@ -3716,6 +3716,7 @@ dusyjvejboselterspukezycni
 dusyva'u
 dutcinse
 dutkai
+dutmai
 dutpamcinse
 dutpi'i
 dutsinso
@@ -3940,6 +3941,7 @@ etmoi
 etre'o
 etxani
 etxanoli
+exlesxe
 ezga
 ezli
 fa
@@ -5965,6 +5967,7 @@ jerxa'u
 jerxo
 jeske'a
 jesni
+jespambe
 jespezli
 jestu'u
 jesycilta
@@ -10552,6 +10555,7 @@ palxima
 pamai
 pambasti
 pambe
+pambyse'a
 pamcinse
 pamcro
 pamcta

@@ -11,4 +11,5 @@ reqwest = {version = "0.12.4", features = ["blocking"]}
 scraper = "0.19.0"
 serde = {version = "1.0.199", features = ["serde_derive"]}
 serde_json = "1.0.116"
+unicode-normalization = "0.1.24"
 xml = "0.8.20"
