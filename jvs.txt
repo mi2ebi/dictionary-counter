@@ -1078,6 +1078,7 @@ bonsaie
 bonsfe
 bonta
 bordelo
+borma
 borxes
 boske
 bosnan
@@ -2597,6 +2598,7 @@ crepu
 creti'i
 cretro
 crexalbo
+creze
 crezenzu'e
 cribe
 cribyjba
@@ -6709,6 +6711,7 @@ kalke'a
 kalke'asrumu'a
 kalmari
 kalmebykre
+kalpi
 kalpupila
 kalri
 kalsa
@@ -8947,6 +8950,7 @@ mirlanxe
 mirli
 mirlyre'u
 mirlyxarju
+mirpi'e
 mirsarxe
 mirsi'o
 mirsna
@@ -11821,6 +11825,7 @@ relpamcinse
 relpezvi'ospa
 relpi'i
 relpi'irna'u
+relpijne
 relplin
 relplini
 relpru

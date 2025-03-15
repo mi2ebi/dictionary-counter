@@ -2517,6 +2517,7 @@ leko'a - -en+xml, 'first' defined in Español
 lekselblu - -en-xml
 lekseme - -en-xml
 lekyze'a - -en-xml
+lelxe - -en+xml, 'first' defined in 中文
 lemi - -en+xml, 'first' defined in Español
 lenjo - -en+xml, 'first' defined in Esperanto
 lenku - -en+xml, 'first' defined in Esperanto
