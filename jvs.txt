@@ -2742,7 +2742,6 @@ cuklitry'utka
 cukmakyvelvei
 cukmirvelvei
 cukmu'o
-cukna'u
 cukpabna'u
 cukplita
 cukre
@@ -3770,6 +3769,7 @@ dzukansa
 dzukicau
 dzukla
 dzuklaji
+dzuli
 dzuma
 dzumlo
 dzupoi
@@ -4084,6 +4084,7 @@ farmu'u
 farna
 farnadu
 farnxilbrti
+farpanra
 farsni
 fartci
 fartra
@@ -4423,6 +4424,9 @@ flacfatrugri
 flaci'e
 fladju
 fladra
+flaka'i
+flaka'idjupre
+flaka'ipre
 flalu
 flama'u
 flamingo
@@ -11895,6 +11899,7 @@ remxeb
 remxei
 remyladru
 remyma'utei
+renfu'e
 rengarna
 renkla
 reno
@@ -14923,6 +14928,7 @@ snaku'ocukca'a
 snaku'ocukla
 snaku'ocukyzmi
 snalubma
+snami'i
 snanu
 snapisa
 snasni
@@ -18081,11 +18087,14 @@ vacri
 vacycti
 vacysai
 vai
+vaicme
 vaicni
 vairsoi
 vairxu'a
 vajba'u
 vajlani
+vajme'ejdika
+vajme'eze'a
 vajmli
 vajni
 vajrai
@@ -18183,6 +18192,7 @@ vaxydicra
 vaxydjuca'a
 vaxyju'e
 vaxyke'a
+vaxykevgai
 vaxyvi'i
 vazdzu
 ve
@@ -19271,6 +19281,7 @@ xesysalta
 xetmele
 xexso
 xextane
+xexto
 xi
 xi'e
 xi'ei
@@ -19692,6 +19703,7 @@ zbepi
 zbero'i
 zbibo'u
 zbibu'u
+zbijoimolpunli
 zbike'a
 zbikre
 zbipe'u
