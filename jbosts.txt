@@ -2597,6 +2597,7 @@ lo'i - -en+xml, 'first' defined in Español
 lo'o - -en+xml, 'first' defined in Español
 lo'u - -en+xml, 'first' defined in lojban
 logji - -en+xml, 'first' defined in Esperanto
+loglo - -en+xml, 'first' defined in Русский
 loi - -en+xml, 'first' defined in Español
 lojbab - -en+xml, 'first' defined in 中文
 lojban - -en+xml, 'first' defined in 中文
