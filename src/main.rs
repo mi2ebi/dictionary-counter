@@ -1,5 +1,5 @@
-use chrono::{Datelike, TimeZone, Utc};
-use itertools::Itertools;
+use chrono::{Datelike as _, TimeZone as _, Utc};
+use itertools::Itertools as _;
 use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
@@ -9,7 +9,7 @@ use std::{
     io::Cursor,
     time::{Duration, Instant},
 };
-use unicode_normalization::{char::is_combining_mark, UnicodeNormalization};
+use unicode_normalization::{char::is_combining_mark, UnicodeNormalization as _};
 use xml::{reader::XmlEvent, EventReader};
 
 #[allow(clippy::too_many_lines)]
