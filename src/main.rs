@@ -183,7 +183,7 @@ fn main() {
     for g in &ghosts {
         let w = g.split(" -").next().unwrap();
         if !ghosts2.contains(&w.to_string()) {
-            ghosts2.push(g.to_string());
+            ghosts2.push(g.clone());
         }
     }
     let mut ghosts = ghosts2;
