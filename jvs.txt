@@ -3464,6 +3464,7 @@ djasnuji
 djaspi
 djata'e
 djatako
+djatofu
 djatsiku'u
 djaule
 djaumo
@@ -5609,6 +5610,7 @@ janli
 jansu
 janta
 japkla
+japtapla
 japyvla
 jarbu
 jarcindu
@@ -7924,6 +7926,7 @@ latxli
 latydja
 latyrebla
 lau
+lau'a
 lau'au
 lau'e
 lau'imsa
@@ -8582,6 +8585,7 @@ marbela
 marbi
 marce
 marci'ale
+marcimalo
 marcrfi'akre
 marcynacme'etcita
 marcytermi'utcita
@@ -8641,6 +8645,7 @@ masyce'u
 matce
 matce'u
 matci
+matfrili
 matkarozipcpi
 matklu
 matli
@@ -9486,6 +9491,7 @@ nabysmi
 nabysnuji
 nabyspi
 nabysu'a
+nabzai
 nabzba
 nacfa'i
 nackai
@@ -20117,6 +20123,7 @@ zubra
 zucna
 zugyxu'a
 zukcfu
+zukcu'a
 zukcu'i
 zukmo'i
 zukmu'i
