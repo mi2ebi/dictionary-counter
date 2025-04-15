@@ -7814,7 +7814,7 @@ zu'o - -en+xml, 'first' defined in Esperanto
 zu'u - -en+xml, 'first' defined in Español
 zu'unai - -en+xml, 'first' defined in Español
 zukcpe - -en-xml
-zukcu'a - -en-xml
+zukcu'a - -en+xml, 'first' defined in lojban
 zukmu'i - -en+xml, 'first' defined in lojban
 zuksutra - -en+xml, 'first' defined in lojban
 zukte - -en+xml, 'first' defined in Esperanto
