@@ -5366,6 +5366,7 @@ impofu
 importe
 imposta
 impute
+imsa
 imxu
 in
 inaja
@@ -5517,6 +5518,7 @@ ja'urjukni
 ja'urjuknis
 ja'urxe'a
 jabre
+jabrybu'u
 jabyselsna
 jabytu'u
 jacfa'u
@@ -6283,6 +6285,8 @@ jivgau
 jivna
 jivnlragbi
 jivnrfarzu'e
+jivnrgolfo
+jivnrpinpongo
 jivrei
 jivyfrica
 jizvanbi
@@ -8152,6 +8156,7 @@ lilmudri
 lilneia
 lilneia zei cmene
 lilrkerozine
+limbirka
 limfa
 limkla
 limla'u
@@ -10115,6 +10120,7 @@ nonjavycimni
 nonjdi
 nonka
 nonkansa
+nonlingeni
 nonmajga
 nonmau
 nonmauna'u
@@ -10547,6 +10553,7 @@ pajni
 pakfiko
 paki'o
 pakskaci
+paksmo
 palbi'o
 palcau
 palci
@@ -12437,6 +12444,7 @@ sagdraci
 sagjalra
 sagjvetavdraci
 sagypemci
+sagzgi
 sai
 sai'e
 sai'ei
@@ -15907,6 +15915,7 @@ tai
 tai da'i
 tai da'inai
 tai'a
+tai'e
 tai'e'i
 tai'i
 tai'i'au
