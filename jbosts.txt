@@ -1866,7 +1866,6 @@ jifyjovnarje'u - +en-xml
 jiglanxe - +en-xml
 jijnu - -en+xml, 'first' defined in Esperanto
 jikca - -en+xml, 'first' defined in Esperanto
-jikce'u - +en-xml
 jikci'e - -en-xml
 jikfanza - +en-xml
 jikfazgau - +en-xml
