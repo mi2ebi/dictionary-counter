@@ -18543,6 +18543,7 @@ vi'olta
 vi'onri'ozgu
 vi'orbisloi
 vi'orji'e
+vi'orxai
 vi'u
 vi'umde
 vibgle
@@ -18711,15 +18712,35 @@ vo
 vo zei sumtika
 vo zei zgabube
 vo'a
+vo'a'e
+vo'a'e'i
+vo'a'ei
+vo'a'o'e
 vo'ai
 vo'au'u
 vo'e
+vo'e'e
+vo'e'e'i
+vo'e'ei
+vo'e'o'e
 vo'ei'a
 vo'i
+vo'i'e
+vo'i'e'i
+vo'i'ei
+vo'i'o'e
 vo'o
+vo'o'e
+vo'o'e'i
+vo'o'ei
+vo'o'o'e
 vo'oi
 vo'otka
 vo'u
+vo'u'e
+vo'u'e'i
+vo'u'ei
+vo'u'o'e
 vob
 vobmipri
 vocpi'e
