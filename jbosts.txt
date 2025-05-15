@@ -5157,7 +5157,6 @@ seltunba - +en-xml
 seltunta - +en-xml
 seltutra - +en-xml
 seltutrai - +en-xml
-selva'i - +en-xml
 selva'u - +en-xml
 selvacri - +en-xml
 selvaixu'a - +en-xml
@@ -5792,7 +5791,6 @@ stiseji - -en+xml, 'first' defined in lojban
 stizu - -en+xml, 'first' defined in Esperanto
 stodatni - +en-xml
 stodi - -en+xml, 'first' defined in Esperanto
-stufa'i - +en-xml
 stula'i - +en-xml
 stuna - -en+xml, 'first' defined in Esperanto
 stura - -en+xml, 'first' defined in Esperanto
@@ -7225,7 +7223,6 @@ veltivni - +en-xml
 veltre - +en-xml
 veltsina - +en-xml
 veltu'i - +en-xml
-velva'i - +en-xml
 velvei - +en-xml
 velvenfu - +en-xml
 velvi'i - +en-xml
@@ -7436,10 +7433,8 @@ xadni - -en+xml, 'first' defined in Esperanto
 xadri'u - -en-xml
 xadycarna - +en-xml
 xadykro - +en-xml
-xadysku - +en-xml
 xadytaixau - +en-xml
 xadyti'e - +en-xml
-xadyxai - +en-xml
 xadzengu'a - -en-xml
 xafxafa - -en+xml, 'first' defined in lojban
 xagji - -en+xml, 'first' defined in Esperanto
