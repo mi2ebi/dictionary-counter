@@ -256,6 +256,7 @@ Hıqdıa
 Hıqdıagua
 Hıqdızu
 Ibozu
+Idıshızu
 Ilakıshızu
 Iqdonesıa
 Iqdonesıagua
@@ -733,6 +734,7 @@ aluboe
 aluboeche
 alumıq
 alumıq'ıum
+alıo
 alısı
 alıu
 alạıtuıfua
@@ -925,6 +927,7 @@ araı
 aroha
 aruꝡezım
 arıeq
+asabuoı
 asaı
 asaıdashı
 asaımeaı
@@ -940,6 +943,8 @@ asheadaıdıu
 ashelaı
 asholo
 ashu
+aso
+asola
 asu
 asuchu
 asuhaq
@@ -947,6 +952,7 @@ asurıaq
 asuım
 asuımte
 ası
+asıaq
 asıla
 asımıq
 asımıqzeo
@@ -1196,6 +1202,7 @@ beacıq
 beagoa
 beajıoqkea
 beakuoq
+beam
 beamuao
 beanoso
 beapue
@@ -1609,6 +1616,7 @@ buba
 bubeı
 bubu
 bubue
+bubuetıeq
 bubula
 bubuo
 buca
@@ -1685,6 +1693,7 @@ bulotı
 bulua
 bulureıfeoq
 bulıaq
+bumarıq
 bumeraq
 bumuojuı
 bumı
@@ -1922,6 +1931,7 @@ bıdeoluaqmu
 bıdeoluaqmukuqhuı
 bıdeolucu
 bıdeozıa
+bıdıesem
 bıe
 bıecoetoa
 bıedaq
@@ -1969,6 +1979,7 @@ bıosapoq
 bıosazu
 bıosıqkea
 bıoı
+bıoıbuq
 bıoıchoa
 bıoıchuao
 bıoıcue
@@ -2030,6 +2041,7 @@ bıuzeum
 bọreo
 bọtao
 bọtua
+bụceoq
 bụhuosoeı
 bụkaqsoeı
 bụqduı
@@ -2037,6 +2049,7 @@ bụqjoe
 bụshe
 bụsoeı
 bụsura
+bụzıq
 c
 ca
 ca-
@@ -2168,6 +2181,8 @@ carı
 casaı
 casaı'aı
 case
+casese
+casesedıu
 cashe
 cashue
 casuao
@@ -2270,6 +2285,7 @@ cecegusho
 cechue
 cecoa
 cecoacaq
+cecoatıeq
 cecoe
 cecuao
 cedeaq
@@ -2285,6 +2301,7 @@ cekebaıche
 cekecheapıo
 cekekoaı
 cekesıoq
+cekoaı
 celadoa
 cem
 cembalo
@@ -2318,6 +2335,7 @@ ceoqcoe
 ceoqdo
 ceoqdubaq
 ceoqgearı
+ceoqgıta
 ceoqgıu
 ceoqhıao
 ceoqjeaq
@@ -2493,7 +2511,6 @@ chealaıcıa
 chealaıpaq
 chealıao
 cheaq
-cheaq(gı)chı
 cheaqchı
 cheaqchıa
 cheaqdoe
@@ -2558,6 +2575,7 @@ cheonue
 cheoq
 cheoqbe
 cheoqla
+cheoqlam
 cheoqleje
 cheoqshıma
 cheosoa
@@ -2570,6 +2588,7 @@ cheq
 cheq-
 cheqbo
 cheqcho
+cheqchuaq
 cheqjeo
 cheqnha
 cherem
@@ -2688,6 +2707,7 @@ choaısoq
 choaısıa
 choaıtuao
 choaıtıao
+chobonoa
 chocheo
 chocho
 chochı
@@ -3042,6 +3062,7 @@ chute
 chutoa
 chutoaı
 chutı
+chutıaı
 chuze
 chuzu
 chuı
@@ -3563,6 +3584,7 @@ cutao
 cutaohaq
 cutaq
 cutua
+cuzuao
 cuı
 cuıchaq
 cuıcuao
@@ -3604,6 +3626,7 @@ cıbu
 cıcı'a
 cıduao
 cıe
+cıe-
 cıebeaq
 cıebıu
 cıeche
@@ -3680,6 +3703,8 @@ cıurıaq
 cıuse
 cıuze
 cẹızamıe
+cụaqkeaı
+cụaqshuıkeaı
 da
 da-
 dache
@@ -4061,7 +4086,6 @@ doachıu
 doajuoq
 doakıu
 doam
-doanua
 doao
 doaofeaq
 doaq
@@ -4160,6 +4184,7 @@ dolom
 dolomhua
 dolomme
 dolomrueqguhu
+dolı
 dom
 domcıoq
 domeı
@@ -4201,6 +4226,7 @@ dosıkaokı
 dosısodı
 dote
 doteaı
+dotene
 dotoeq
 doı
 doıbeo
@@ -4302,7 +4328,6 @@ duasue
 duasuq
 duasuqhı
 duasıa
-duatua
 duatuataq
 duatuatoeq
 duatuq
@@ -4589,6 +4614,7 @@ dıosıaohaq
 dıosıaotao
 dıozıq
 dıq
+dıq-
 dıqbo
 dıqcıa
 dıqdoa
@@ -4700,7 +4726,6 @@ ekınopıu
 ekınoıdea
 elabo
 elaoka
-elapo
 ele
 eleme
 eletom
@@ -4840,6 +4865,7 @@ fao
 fao-
 faobo
 faoce
+faochaq
 faocıa
 faodo
 faogoe
@@ -5070,6 +5096,7 @@ feoqcheo
 feoqmukam
 feoqtıoq
 feorıeq
+feosı
 feotao
 feotua
 feotı
@@ -5197,6 +5224,7 @@ fotokea
 fotola
 fotolea
 fotom
+fototao
 foı
 foıca
 foıcem
@@ -5287,6 +5315,7 @@ fuokuaı
 fuom
 fuome
 fuoq
+fuora
 fuorue
 fuq
 fuqbore
@@ -5468,6 +5497,7 @@ gam
 gama
 gamalaı
 gamashuao
+gambıq
 gameı
 gamhueq
 gamroaıtoq
@@ -5479,6 +5509,7 @@ ganetoq
 gao
 gao-
 gaobıoı
+gaochıaı
 gaocoa
 gaodeaq
 gaodı
@@ -5494,6 +5525,7 @@ gaogureq
 gaojeaq
 gaojıaı
 gaojıqzıu
+gaokaı
 gaokoı
 gaokoıchuo
 gaokoıfua
@@ -5685,10 +5717,12 @@ geaı
 geaıdıu
 gebo
 gecaı
+geceaı
 gecha
 gecıkı
 gedejoq
 gefeao
+gefuı
 gegaı
 gegege
 gegu
@@ -6474,6 +6508,7 @@ gıaobıa
 gıaoca
 gıaocao
 gıaoguaq
+gıaokea
 gıaome
 gıaonam
 gıaonao
@@ -6578,6 +6613,7 @@ gıemshıe
 gıeq
 gıeqge
 gıeqlıe
+gıeqshoem
 gıeshıo
 gıeshıobeaq
 gıeshıobeaqkoı
@@ -6675,7 +6711,6 @@ gıpo
 gıq
 gıq-
 gıqbuoq
-gıqbı
 gıqchu
 gıqchıo
 gıqduı
@@ -7067,10 +7102,12 @@ heosıca
 heosıu
 heotoı
 heotı
+heotıo
 hepe
 hepete
 hepetesıu
 heq
+heqbeam
 heqbeq
 heqcheo
 heqcheose
@@ -7316,7 +7353,6 @@ hoqseq
 hoqshıu
 hoqsıe
 hoqsıu
-hoqtekı
 hoqtua
 hora
 horabaq
@@ -7412,7 +7448,6 @@ huaı
 huaıchao
 huaıchuo
 huaıchuofuaq
-huaıfaı
 huaıgeo
 huaıgeodıu
 huaıgeopoq
@@ -7755,10 +7790,12 @@ hıejeoqne
 hıeku
 hıekunoso
 hıekutıaqbıa
+hıem
 hıemeaq
 hıemzam
 hıena
 hıeq
+hıeq-
 hıeqboe
 hıeqbıa
 hıeqbıu
@@ -7915,10 +7952,13 @@ jajeo
 jajıq
 jake
 jala
+jalam
 jam
 jam-
 jama
 jamchıu
+jamfeo
+jamshaq
 jamtı
 jana
 jane
@@ -8272,6 +8312,7 @@ jeqtu
 jeqtı
 jeqtıaı
 jeqtıem
+jeqtıeq
 jesa
 jeu
 jeı
@@ -8433,9 +8474,11 @@ joqshaqteı
 joqshaqteıbo
 joqshaqtıe
 joqsoı
+joqsuꝡe
 joqteı
 joqtoaı
 joqtoaıhuı
+joqtıaı
 joqtıe
 joqzıam
 joqzıq
@@ -8647,6 +8690,7 @@ jukutoı
 julu
 julutoame
 jumam
+jumbotoq
 jume
 jumecıu
 jumoe
@@ -9495,6 +9539,7 @@ kasuarı
 kası
 kasıaq
 kasıchuo
+kasıno
 kata
 katala
 katam
@@ -9553,7 +9598,6 @@ kaımoa
 kaımuoq
 kaımıeq
 kaına
-kaınao
 kaıno
 kaınua
 kaıpam
@@ -9641,6 +9685,8 @@ keaıleı
 keaıpeq
 kebo
 kebo'aqshe
+kebochuım
+kebojıo
 kebu
 kebıq
 keca
@@ -9738,6 +9784,7 @@ ketea
 keto
 ketojuku
 ketoselaq
+keu
 keza
 kezu
 kezu'acı
@@ -9747,6 +9794,8 @@ kezutua
 keı-
 keıcıu
 keıke
+keıso
+keısosaı
 khfr
 khr
 ko
@@ -9890,6 +9939,7 @@ komodobarala
 komorebı
 kompıuta
 komu
+konha
 konosho
 konu
 konı
@@ -9949,6 +9999,7 @@ koıceaq
 koıceaqbo
 koıcha
 koıche
+koıchuo
 koıcoa
 koıfa
 koıfuq
@@ -10785,6 +10836,7 @@ latıqhoe
 latıu
 lazanha
 lazaqnha
+lazeo
 lazulıpıo
 laı
 laı-
@@ -10884,6 +10936,7 @@ leaqjıome
 leaqlıa
 leaqshıu
 leaqsıe
+leaseom
 leası
 leata
 leatao
@@ -10945,7 +10998,7 @@ leoqhıesıu
 leoqraı
 leoqrıaq
 leoqrıo
-leoqrıoboe
+leoqrıozuao
 leoqtao
 leoqtaq
 leoqtemoe
@@ -11001,6 +11054,7 @@ leıbo
 leıdı
 leıfuıdua
 leıguqmuı
+leıko
 leılı
 leımuo
 leımuı
@@ -11241,6 +11295,7 @@ loqtıaı
 loqzıa
 loqꝡe
 lorem
+lorem'ımsum
 loreı
 loreılaı
 lorı
@@ -11652,8 +11707,10 @@ lıeı'ıq
 lıeıcua
 lıeıdao
 lıeıma
+lıeınoraı
 lıeınuq'o
 lıeıruo
+lıeısıu
 lıeıtao
 lıeıtaq
 lıfıeq
@@ -11776,9 +11833,11 @@ mabu
 mabula
 mabuluaı
 mabuq
+mabusuoı
 mace
 macha
 machachaı
+machı
 mada
 madamada
 madao
@@ -11963,6 +12022,7 @@ maıjuo
 maıjıaı
 maıkuaq
 maıkuaı
+maıkueq
 maılaı
 maıleı
 maıloha
@@ -12481,6 +12541,8 @@ muaogıetuaq
 muaogım
 muaohoaqpıo
 muaojıo
+muaokoaı
+muaokoaıme
 muaolaı
 muaoluo
 muaome
@@ -12527,6 +12589,7 @@ muaqmajı
 muaqmeo
 muaqmeopoqnuasoı
 muaqpıo
+muaqpıu
 muaqrıo
 muaqshao
 muaqsho
@@ -12656,6 +12719,7 @@ muoıshoaıchao
 muoıshua
 muoıtoq
 muoıtoı
+muoıtua
 mupao
 mupe
 muq
@@ -12991,6 +13055,7 @@ mıezue
 mıezueq
 mıezıam
 mıeı
+mıeıkuo
 mıeꝡaqtoı
 mıhao
 mıja
@@ -13078,6 +13143,8 @@ mırupıo
 mısaosao
 mıshı
 mıso
+mısosham
+mısotuze
 mıto
 mıtum
 mıtıeq
@@ -13180,7 +13247,6 @@ nambeaq
 nambıu
 namche
 namco
-namdashı
 namdıem
 namka
 nammuao
@@ -13205,6 +13271,7 @@ namısoq
 namısoqgıo
 namısımo
 nanaq
+nanaqkıaq
 nanasa
 nanopaı
 nanu
@@ -13350,6 +13417,7 @@ nate
 natutıum
 natı
 naze
+nazo
 naı
 naı'aona
 naıbı
@@ -13454,7 +13522,6 @@ neom
 neome
 neomzujuaokao
 neonua
-neopaq
 neopaqkueqbeqpuao
 neopaqnuofua
 neopaqpuao
@@ -13479,6 +13546,7 @@ neqfaq
 neqgam
 neqgeq
 neqgochıq
+neqgue
 neqgı
 neqgıq
 neqjoı
@@ -13492,9 +13560,11 @@ neqla
 neqle
 neqluaq
 neqlucu
+neqnaoro
 neqnıeq
 neqpeq
 neqraı
+neqruoq
 neqrıaq
 neqse
 neqteq
@@ -13569,6 +13639,7 @@ nhaqla
 nhaqluaı
 nhaqnhaq
 nhaqpoq
+nhaqrıaq
 nhara
 nharu
 nharuaq
@@ -13636,6 +13707,7 @@ nhom
 nhomcheq
 nhomgoaı
 nhomtoı
+nhonho
 nhoq
 nhoqbeaq
 nhoqchıeq
@@ -13644,11 +13716,13 @@ nhoqcoe
 nhoqcıoq
 nhoqduna
 nhoqgu
+nhoqgıo
 nhoqhua
 nhoqkem
 nhoqnhuo
 nhoqsaheq
 nhoqtıoq
+nhora
 nhoruaq
 nhorızı
 nhu
@@ -13687,6 +13761,8 @@ nhuosaıheq
 nhuosheaq
 nhuotuoı
 nhuotı
+nhuozu
+nhuozıa
 nhuoı
 nhuoıjıe
 nhuoınhe
@@ -13794,6 +13870,7 @@ noeqshe
 noeqtuoı
 nofıeq
 noga
+nogama
 noge
 nohenoshuaq
 noheo
@@ -13978,6 +14055,7 @@ nubo
 nue
 nuebuaq
 nuechıaı
+nuegue
 nuejuq
 nuekao
 nuepo
@@ -14631,6 +14709,7 @@ o'aomo
 o'eaꝡa
 o'o
 o-
+oa
 oao
 oaı
 oaımoe
@@ -15693,6 +15772,7 @@ pıubeo
 pıuchealıao
 pıuchoaq
 pıuchom
+pıuchıaı
 pıucıa
 pıucıu
 pıuhuna
@@ -15899,6 +15979,7 @@ raꝡom
 re
 rea
 rea'ıq
+reace
 reacıa
 reacıkı
 readıa
@@ -15925,6 +16006,7 @@ reaqsofa
 reaqtuım
 reatuq
 reatı
+reatıaı
 reaı
 reaıluapoq
 reaıtao
@@ -15955,6 +16037,7 @@ reochaq
 reochuo
 reocuaq
 reodo
+reodıu
 reoge
 reohua
 reohıaq
@@ -15984,6 +16067,7 @@ reoqsıaq
 reorue
 reoruq
 reosaı
+reoshıa
 reosıa
 reotoq
 reotuaı
@@ -16086,6 +16170,7 @@ reıtıno
 reıtınorıum
 reızuoı
 reꝡa
+reꝡatoq
 rhr
 ro
 ro'aq
@@ -16153,6 +16238,7 @@ rodoqmuao
 roe
 roeba
 roeduo'akaı
+roege
 roeguaı
 roegı
 roehaq
@@ -16392,6 +16478,7 @@ ruohuı
 ruojeq
 ruojuao
 ruojuq
+ruolea
 ruolua
 ruoluaq
 ruolıeı
@@ -16408,11 +16495,14 @@ ruoqteı
 ruoqteıtu
 ruoqtıem
 ruorueq
+ruoruoq
 ruosom
 ruosua
 ruosuacıa
 ruosuım
 ruosıu
+ruoteı
+ruoteıjuao
 ruotuoıja
 ruotıao
 ruozıam
@@ -16448,6 +16538,7 @@ ruqroq
 ruqshua
 ruqshuanaı
 ruqshıq
+ruqshıqsaı
 ruqtoaı
 ruqtue
 ruqtıe
@@ -16533,6 +16624,7 @@ rıaıbo
 rıaıbıru
 rıaıceaq
 rıaıchaı
+rıaıchuo
 rıaıhua
 rıaıhuafuq
 rıaıjeotue
@@ -16588,7 +16680,6 @@ rıeıse
 rıhı
 rıje
 rıjuru
-rıjuruchaqduna
 rıkatao
 rıkısha
 rım
@@ -17069,6 +17160,7 @@ seomrıaq
 seonue
 seoq
 seoq(gaı)chuo
+seoqbıoı
 seoqceoq
 seoqceoq'acı
 seoqceoqbeaq
@@ -17236,6 +17328,7 @@ shaqbeq
 shaqbeqkuoq
 shaqboaq
 shaqchea
+shaqchıaı
 shaqduo
 shaqfa
 shaqfana
@@ -17299,6 +17392,7 @@ sheagoa
 sheaguaq
 sheahaq
 sheaja
+sheajaı
 sheakoı
 shealaı
 shealaıcıoq
@@ -17306,6 +17400,7 @@ sheam
 sheamchao
 sheame
 sheameame
+sheameo
 sheamoe
 sheamoı
 sheamuoq
@@ -17442,6 +17537,7 @@ sho
 shoa
 shoacueme
 shoadaosı
+shoajaı
 shoajeoq
 shoajoaı
 shoakum
@@ -17684,6 +17780,7 @@ shuıjueq
 shuıjuodıeq
 shuıjuq
 shuıkaq
+shuıkeaı
 shuıkeoı
 shuıla
 shuıleı
@@ -17932,6 +18029,7 @@ shıu
 shıubuaq
 shıucha
 shıuchı
+shıuchıaı
 shıucoetoa
 shıucuo
 shıucuose
@@ -18074,6 +18172,7 @@ soenampoaı
 soezeo
 soezeoze
 soeı
+soeıchuo
 soeıgı
 soeıtıao
 sofa
@@ -18175,6 +18274,9 @@ soıhuaq
 soıhuaıtıeq
 soıjam
 soıjeoqtıeq
+soıkeoılea
+soıkeoıse
+soıkueq
 soıkulo
 soıkulozıadoroq
 soıluaq
@@ -18226,6 +18328,7 @@ suaq
 suaqche
 suaqfua
 suaqgıaq
+suaqgıta
 suaqkuq
 suaqkuqse
 suaqlaq
@@ -18441,10 +18544,12 @@ suımcha
 suımche
 suımde
 suımea
+suımgea
 suımgeaq
 suımjeq
 suımma
 suımmuo
+suımsaq
 suımse
 suımsıq
 suımsıu
@@ -18655,6 +18760,7 @@ sıetoı
 sıetu
 sıetueme
 sıezı
+sıfırıq
 sıga
 sıgaro
 sıgom
@@ -18913,6 +19019,7 @@ tajızao
 taka
 takao
 takaogegu
+takataq
 tako
 takorıaq
 takukao
@@ -19083,6 +19190,7 @@ taqtua
 taqzoaı
 taqzu
 tarampagua
+taro
 tarom
 taromchaq
 taromreo
@@ -19922,6 +20030,7 @@ tuıkuoq
 tuım
 tuımara
 tuımna
+tuımnhaq
 tuınıu
 tuıpa
 tuısho
@@ -20561,6 +20670,9 @@ zu
 zu-
 zua
 zuacıa
+zuao
+zuaosaq
+zuaoshıgu
 zuaq
 zuataq
 zuaı
@@ -20707,8 +20819,10 @@ zuıtea
 zéı
 zí
 zóq
+zóı
 zûam
 zı
+zı-
 zıa
 zıabıdeo
 zıace
@@ -20721,6 +20835,8 @@ zıakea
 zıam
 zıameıpıo
 zıammuo
+zıammıa
+zıamnoraı
 zıamsıo
 zıamtaq
 zıamıa
@@ -20783,6 +20899,7 @@ zıqtıdıbu
 zıqtıq
 zıqzea
 zıqzeache
+zıra
 zırıkonıum
 zırıkoq
 zıshuao
@@ -20822,9 +20939,9 @@ zıusoaı
 écheq
 ém
 énı
+éoı
 ésuna
 étu
-éum
 éumo
 êaq
 ë
@@ -21130,6 +21247,7 @@ zıusoaı
 ꝡaqꝡaq
 ꝡara
 ꝡaraı
+ꝡarı
 ꝡasabıu
 ꝡasamıq
 ꝡase

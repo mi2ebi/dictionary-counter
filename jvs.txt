@@ -2571,6 +2571,7 @@ cplancu
 cple'ijdu
 cpolinomi'a
 cpubakni
+cpuca'a
 cpudalcarce
 cpuga'ablo
 cpuga'ali'u
@@ -3179,6 +3180,7 @@ degygutci
 degyke'a
 degypri
 degysni
+degysrasu
 degzbe
 dei
 dei'a
@@ -3988,6 +3990,7 @@ fa'oi
 fa'orma'o
 fa'u
 fa'u'ai
+fa'u'i
 fa'u'u'u'u'u'u'u'u
 facfau
 facki
@@ -4171,6 +4174,7 @@ fausto
 fautce
 favgau
 favmapti
+favyke'u
 favytcini
 favytcinymupli
 faxpikci
@@ -5547,6 +5551,7 @@ jabre
 jabrybu'u
 jabyselsna
 jabytu'u
+jabyxrula
 jacfa'u
 jacfalstu
 jacfebmatra
@@ -5592,6 +5597,7 @@ jai'i
 jaica
 jaicpu
 jaigau
+jairca'a
 jairtai
 jairxa'e
 jaitci
@@ -7132,6 +7138,7 @@ ki'inmau
 ki'inmoi
 ki'irgau
 ki'irgrafu
+ki'irmapti
 ki'irpoi
 ki'irsi
 ki'irxu'a
@@ -7967,6 +7974,7 @@ latrbirmani
 latrnorgo
 latrtai
 latxli
+latybonta
 latydja
 latyrebla
 lau
@@ -8488,6 +8496,7 @@ magmiltre
 magyxre
 mai
 mai'a
+mai'ai
 mai'e
 mai'e'e
 mai'i
@@ -11234,6 +11243,7 @@ pleta'e
 pletomino
 pletu'u
 plexa'a
+pli'aje
 pli'ula
 plibu
 plicme
@@ -11255,6 +11265,7 @@ plinyxabykoi
 plinyxadba
 plipe
 plipovypo'e
+plipu'ija'e
 pliri'a
 plise
 plisesumu
@@ -12402,6 +12413,8 @@ rulnakyganti
 rulpezli
 rulpurdi
 rulralpezli
+rulralumu
+rulrflaksa
 rulrlantana
 rulsantyspa
 rulspa
@@ -14415,6 +14428,7 @@ selzva
 sema'ai
 sema'e
 sema'i
+semai'ai
 semau
 semaunai
 seme'a
@@ -15551,6 +15565,7 @@ spatrxardenberga
 spatrxokroma
 spatrxorki
 spatrxosta
+spatrxukera
 spatsina
 spatumo
 spaune
@@ -15896,6 +15911,7 @@ sutyta'asre
 sutyterjvi
 sutyzbadja
 sutyze'a
+sutyzu'e
 suvyco'e
 suzdektyki'o
 suzdza
@@ -16434,6 +16450,7 @@ teli'e
 tema'ai
 tema'e
 tema'i
+temai'ai
 temau
 tembalvi
 tembavdei
@@ -17367,6 +17384,7 @@ tigygusta
 tigypre
 tigytsina
 tijdzu
+tijlafmi'i
 tijyfa'u
 tijyjinme
 tikpa
@@ -17424,6 +17442,8 @@ tirxyjvecinfo
 tirxyxi'a
 tisna
 tisnanba
+tisnbei
+tisybei
 tisycanti
 tisydakli
 tisydja
@@ -18590,6 +18610,7 @@ velylu'i
 velylumxu'i
 velylunsa
 velzga
+vemai'ai
 vemau
 veme'a
 venci'e
