@@ -609,6 +609,7 @@ cmaci - -en+xml, 'first' defined in Esperanto
 cmacifnu - +en-xml
 cmacinfo - +en-xml
 cmacpi - +en-xml
+cmafi'a - -en+xml, 'first' defined in Français facile
 cmagu'e - +en-xml
 cmakarzga - -en+xml, 'first' defined in lojban
 cmala'u - +en-xml
@@ -1997,6 +1998,7 @@ jutsi - -en+xml, 'first' defined in Esperanto
 juvykanxe - -en-xml
 juxre - -en+xml, 'first' defined in Español
 jvige'u - +en-xml
+jvikei - -en+xml, 'first' defined in Deutsch
 jvinu - -en+xml, 'first' defined in Esperanto
 jvipai - +en-xml
 jvofi'i - -en-xml

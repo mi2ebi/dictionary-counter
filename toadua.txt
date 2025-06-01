@@ -3542,7 +3542,6 @@ cuetue
 cueı
 cuga
 cuja
-cukapoaq
 cukı
 cula
 cum
@@ -5388,6 +5387,7 @@ fıakaıse
 fıako
 fıam-
 fıamaq
+fıaona
 fıapoha
 fıaq
 fıarurıtoa
@@ -5415,6 +5415,7 @@ fıeqkuaıge
 fıeqkuı
 fıeqno
 fıeqnıeq
+fıeqrıaq
 fıeqse
 fıeqtoa
 fıeqzu
@@ -5490,6 +5491,7 @@ galeche
 galejı
 galekeoı
 galese
+galesoache
 galeı
 galeıpuq
 galıum
@@ -10476,6 +10478,8 @@ kıbumıetoaı
 kıbutoaı
 kıbutua
 kıbı
+kıbım
+kıbımılaı
 kıce
 kıcecheı
 kıceheq
@@ -15144,7 +15148,6 @@ poanıe
 poaq
 poaqbo
 poaqchuq
-poaqcuka
 poaqdea
 poaqfuı
 poaqgıu
@@ -20122,6 +20125,7 @@ tıaqtaqpıo
 tıaqtıuq
 tıaraı
 tıarom
+tıashaq
 tıasoq
 tıazıu
 tıaı
@@ -20819,7 +20823,6 @@ zuıtea
 zéı
 zí
 zóq
-zóı
 zûam
 zı
 zı-

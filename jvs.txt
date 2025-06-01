@@ -632,6 +632,7 @@ baxso
 baxydinkarda
 baze'e
 bazroi
+bazycuxlanli
 bazyjvesa'u
 bazypru
 bazysa'u
@@ -1288,6 +1289,7 @@ ca'abna
 ca'arcadgau
 ca'arcando
 ca'arcau
+ca'arsacki
 ca'arxe
 ca'au
 ca'e
@@ -3796,6 +3798,7 @@ dzuklaji
 dzuli
 dzuma
 dzumlo
+dzununsla
 dzupoi
 dzupoikansa
 dzusoi
@@ -5297,6 +5300,7 @@ i'inai
 i'izva
 i'o
 i'oi
+i'oi'a'o
 i'onai
 i'u
 i'unai
@@ -6884,6 +6888,7 @@ kanzutla'i
 kapcikna
 kapkandi
 kapkevna
+kapkruji
 kapsi
 kapsiku
 kapsle
@@ -7297,6 +7302,7 @@ kleide
 kleinzu
 kleivmu
 kleivmykai
+klematisi
 klemi'u
 klenilbra
 klerafsi
@@ -11360,6 +11366,8 @@ popri'a
 popselgu'i
 popsna
 poptono
+popxra
+popxrata'o
 popygau
 porci'u
 porcnegau
@@ -15181,8 +15189,10 @@ soldei
 solgu'i
 solgu'idicyborprami'i
 solgusli'i
+soljelca
 solji
 soljunla
+solkruji
 solmapku
 solminli
 solnavni
@@ -20043,6 +20053,7 @@ zerxaizu'e
 zerzu'e
 zetcla
 zetro
+zevblutu'u
 zevla
 zevle'o
 zevlyjvo
@@ -20276,6 +20287,7 @@ zoi'o'e
 zoi'u
 zoizoizoi
 zonkai
+zorblutu'u
 zorkru
 zorle'o
 zorpinji
@@ -20312,6 +20324,7 @@ zukmu'i
 zukpei
 zukselpla
 zuksi'a
+zuksmi
 zuksutra
 zuktadji
 zuktce
