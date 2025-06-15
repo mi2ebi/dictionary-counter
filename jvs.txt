@@ -567,6 +567,7 @@ basklepli
 basme'e
 basna
 basnce
+basnypau
 basti
 basxarfri
 basygau
@@ -2493,9 +2494,11 @@ co'asku
 co'au'a
 co'au'e
 co'e
+co'e'i
 co'e'i'au'i
 co'e'o'e
 co'i
+co'i'e
 co'i'e'au'i
 co'o
 co'o'e
@@ -3549,9 +3552,14 @@ do'ai
 do'anai
 do'au
 do'e
+do'e'e
+do'e'e'au'i
+do'e'o
+do'e'o'au'i
 do'ei
 do'i
 do'o
+do'o'e
 do'o'o
 do'oi
 do'u
@@ -4810,9 +4818,11 @@ gau'i'o
 gau'o
 gauncri
 gaupli
+gaurcando
 gaurkalsa
 gaurki'u
 gaurtcini
+gaurtolcando
 gaurzu'e
 gaxlumple
 gaxmolgle
@@ -5300,6 +5310,7 @@ i'inai
 i'izva
 i'o
 i'oi
+i'oi'a
 i'oi'a'o
 i'onai
 i'u
@@ -6930,6 +6941,7 @@ karmolcinba
 karna'ano
 karnauba
 karnavali
+karncau
 karni
 karnivora
 karnyfi'u
@@ -8276,6 +8288,7 @@ livla
 livyxrukla
 lixfarci'a
 lixtci
+lixycna
 lizdu'o
 lo
 lo'a
@@ -8354,6 +8367,8 @@ lu
 lu bu
 lu li'u
 lu'a
+lu'a'au
+lu'a'ei
 lu'au
 lu'e
 lu'ei
@@ -8361,6 +8376,7 @@ lu'erfu
 lu'erma
 lu'i
 lu'o
+lu'o'au
 lu'odna
 lu'oi
 lu'onru'u
@@ -9540,6 +9556,7 @@ na'efa'a
 na'ei
 na'epu'i
 na'i
+na'i'a
 na'icmo
 na'ircmacrida
 na'irmabru
@@ -9793,6 +9810,7 @@ nantrau
 nanvi
 narbanzu
 narbanzuni
+narbilga
 narca'acadgau
 narca'acando
 narcando
@@ -10259,6 +10277,7 @@ norvu'e
 norvudzvi
 norxagji
 norxau
+norykarncau
 noryra'e
 noryraclyte'a
 norzau
@@ -10297,6 +10316,7 @@ nukni
 nuktu
 nukyxu'e
 nukyzilska
+nulcni
 nuljarso'a
 nulpa
 nulpa'a
@@ -10862,6 +10882,7 @@ paxlai
 paxra
 paxrmari
 paxrykacma
+paxryzga
 paze
 pazn
 paznu
@@ -14906,6 +14927,7 @@ slacfagau
 slacti
 sladei
 sladu'a
+sladzu
 slafagri
 slagei
 slaka
@@ -14917,6 +14939,7 @@ slakypaucibmei
 slakypaupavmei
 slakypaurelmei
 slakypevgra
+slali'edzu
 slami
 slamrmiristika
 slamycarvi
@@ -16567,12 +16590,14 @@ terbo'u
 terbra
 terbradi
 terbri
+terbricnetau
 terbriju
 terbrikazmi
 terbrimei
 terbrimoi
 terbripaubri
 terbrisni
+terbristotau
 terbrisu'a
 terbru
 terbu'a
@@ -17402,6 +17427,7 @@ tiktaki
 tikygau
 tilcau
 tilcfu
+tildenmi
 tilju
 tilmau
 tilminski
@@ -17679,6 +17705,7 @@ tolsisti
 tolsnuti
 tolspe
 tolspofu
+tolsra
 tolsraseldau
 tolstace
 tolsti
@@ -17688,6 +17715,7 @@ tolta'i
 toltankomo
 toltaske
 toltce
+toltcila
 tolte'i
 tolte'igau
 toltelgau
@@ -17711,6 +17739,7 @@ tolxanka
 tolxarna'u
 tolxregau
 tolxu'a
+tolykarncau
 tolylau
 tolylaxygau
 tolylazni
@@ -18361,6 +18390,7 @@ vaxyvi'i
 vazdzu
 ve
 ve'a
+ve'a'ai
 ve'ai
 ve'arda
 ve'e
@@ -18369,12 +18399,15 @@ ve'e'i
 ve'e'u
 ve'ei
 ve'i
+ve'i'ai
 ve'irsau
 ve'irsau'utka
 ve'o
+ve'o'ai
 ve'obu
 ve'oi
 ve'u
+ve'u'ai
 ve'urzvocma
 vebe'i
 vebo'ai
@@ -19578,6 +19611,7 @@ xo'a
 xo'ai
 xo'au
 xo'e
+xo'e'o
 xo'e'o'e
 xo'e'o'ei
 xo'ei
