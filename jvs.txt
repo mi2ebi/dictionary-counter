@@ -139,6 +139,7 @@ amble
 amblipigi
 ambuci
 ambulance
+amfeta
 amfite'atro
 amfora
 amgidala
@@ -685,6 +686,7 @@ beidle
 beipre
 beircarce
 beirce'i
+beirsai
 beitlaxum
 beitrau
 bejmu'o
@@ -800,6 +802,7 @@ bifyvilcarvi
 bigji'i
 biglogji
 bigygau
+bigysoi
 bijgri
 bijyjbu
 bijyku'a
@@ -895,7 +898,6 @@ bityjmina
 bityvelcki
 bityzba
 bivjetka'u
-bivli'itai
 bivma'i
 bivmast
 bivmasti
@@ -3534,6 +3536,7 @@ djordj
 djubakfu
 djucpe
 djugei
+djugri
 djukemdatygu'e
 djukra
 djuliio
@@ -3739,6 +3742,7 @@ dusfri
 duskemsezlacri
 duslirpai
 dusnei
+duspei
 dusroi
 dusta'i
 dusto'u
@@ -4727,7 +4731,6 @@ gairvau
 gajnafauke
 galbirka
 galcatlu
-galckule
 galcla
 galcpare
 galfi
@@ -4885,6 +4888,7 @@ gerdja
 gerkene
 gerki'a
 gerkrtciuaua
+gerkrxaski
 gerku
 gerkuuono
 gerkyzda
@@ -5276,6 +5280,7 @@ gustytigni
 gusybatke
 gusybi'o
 gusycai
+gusycfine
 gusycinki
 gusydicra
 gusygutci
@@ -5718,6 +5723,7 @@ jaurjunla
 jaurmabru
 jaursabji
 jaursabypatxu
+jaursanra
 jaurselylu'i
 jaursfeblo
 jaurskiji
@@ -7072,6 +7078,7 @@ kelpanka
 kelpi'e
 kelproga
 kelrslinki
+kelskami
 kelsnada
 kelto
 keltrmanvano
@@ -7240,6 +7247,7 @@ kinzga
 kipsi
 kirbibaitni
 kirbibitni
+kirbosu
 kircaiu
 kirdei
 kirilits
@@ -7474,6 +7482,7 @@ kordu
 korfaipletomino
 korgretro
 korka
+korle
 korliiande
 korlma
 korlu'a
@@ -7481,6 +7490,7 @@ korpora
 korporalo
 korsari
 korsenta
+korsova
 korvo
 korzeti
 kosmu
@@ -9723,6 +9733,7 @@ nalremda'u
 nalri'i
 nalrolmei
 nalrolmeilei
+nalsa'u
 nalsa'uslakyskute'a
 nalsajypei
 nalsanji
@@ -11165,6 +11176,7 @@ pinselba'e
 pinseljupso'a
 pinsi
 pinsi'a
+pinspi
 pinta
 pintada
 pintu'a
@@ -11243,6 +11255,7 @@ planemo
 planeta
 plank
 plankexu
+plankona
 plantago
 plargoni
 plasema
@@ -11756,6 +11769,7 @@ ramymei
 ranbo'u
 ranbu'u
 rancara
+rance
 rancimde'u
 rancimderke'a
 rancindu
@@ -12664,6 +12678,7 @@ samkai
 samkei
 samki'o
 samlat
+samlu
 samnarca'igau
 sampei
 sampetso
@@ -14716,6 +14731,7 @@ sigyfri
 sigyple
 sigyplebo'o
 sigypli
+sijge'u
 sijycutci
 sijykla
 sijypi'e
@@ -17957,6 +17973,7 @@ tsipejgau
 tsipi'u
 tsirkuso
 tsirmiristika
+tsirnagova
 tsirvanila
 tsise'a
 tsiselcigla
@@ -18053,6 +18070,7 @@ turdida
 turdu'i
 turing zei sucyskami
 turko
+turkrkirbo
 turne'i
 turnela
 turnersei
