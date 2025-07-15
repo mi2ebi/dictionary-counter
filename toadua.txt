@@ -43,6 +43,9 @@ Asıa
 Atalaqnaomıq
 Azebaı
 Azebaıgua
+Azerı
+Azerıgua
+Azerızu
 Aımarazu
 Aꝡereshozu
 Babado
@@ -2610,10 +2613,14 @@ chetue
 cheu
 cheubuq
 cheuchea
+cheufuı
 cheuhataı
+cheuhufuı
+cheuhunoa
 cheujoe
 cheukuq
 cheukuqse
+cheunoa
 cheupı
 cheuruaq
 cheuruo
@@ -3761,6 +3768,7 @@ daofeoqme
 daofoq
 daofuı
 daogaı
+daogoqra
 daohuaı
 daohıu
 daojaolaq
@@ -5253,6 +5261,7 @@ fu
 fu'u
 fua
 fuafuq
+fuakea
 fuaq
 fuaqchue
 fuaqchuekue
@@ -5799,6 +5808,7 @@ geom
 geom'ıq
 geomanızu
 geomtoeq
+geomıedıu
 geomıq
 geone
 geonhe
@@ -6002,6 +6012,7 @@ goqfechaohuaıtıeqsedaq
 goqgıeı
 goqloeq
 goqpuao
+goqra
 goqtıaı
 goqzıa
 gorılaı
@@ -6662,6 +6673,7 @@ gıkuaochaq
 gıkuıcıa
 gıla
 gıle
+gılıaq
 gılıe
 gım
 gımajı
@@ -12247,6 +12259,7 @@ mereu
 mereuchu
 mero
 merıeqda
+mesekao
 mesho
 mesofa
 mesıq
@@ -14664,6 +14677,7 @@ nıqjatoı
 nıqjua'aobı
 nıqjıu
 nıqkao
+nıqkato
 nıqkaı
 nıqkue
 nıqkıutua
@@ -15299,6 +15313,7 @@ pokesao
 pokesaosıu
 pokesıu
 polaq'ıum
+poloboroq
 pom
 pomu
 pomı
@@ -16147,6 +16162,7 @@ reqbu
 reqchuq
 reqdaku
 reqde
+reqdırı
 reqdıu
 reqga
 reqgaq
@@ -17545,6 +17561,7 @@ sheheraı
 shejuna
 shejuoı
 shekeo
+shekute
 shele
 shelo
 shem
@@ -17866,6 +17883,7 @@ shuıkeoı
 shuıla
 shuıleı
 shuıluakuq
+shuılıam
 shuım
 shuıpeo
 shuıreaı
@@ -19388,6 +19406,7 @@ tehurıtı
 tehusaose
 teka
 teketeke
+tekıla
 teluo
 tem-
 teme
@@ -20185,6 +20204,7 @@ tıaojoaı
 tıaojıe
 tıaokuq
 tıaokuqse
+tıaolaq
 tıaoluoq
 tıaoluoqja
 tıaomoe
@@ -20487,6 +20507,7 @@ udo
 ufa
 ufu
 ufumoe
+ufuı
 ugu
 ugujı
 ugı
@@ -20525,6 +20546,7 @@ umılaı
 umızeq
 une
 unho
+unoa
 unu
 unıola
 uo
@@ -20933,6 +20955,7 @@ zıajuo
 zıakea
 zıam
 zıameıpıo
+zıamlaq
 zıammuo
 zıammıa
 zıamnoraı

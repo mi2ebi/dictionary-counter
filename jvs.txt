@@ -214,6 +214,7 @@ arde
 ardolfo
 arkada
 arkadi'u
+arkasa
 arkeke
 arko
 arktik
@@ -1438,6 +1439,7 @@ caldectre
 caljvetei
 calku
 calkyguzme
+calsamxra
 calse
 calsle
 caltai
@@ -8200,6 +8202,7 @@ li'urxa'u
 lianzi
 libjo
 libru'u
+licne
 lidbi'e
 lidgusyjinme
 lidne
@@ -11842,6 +11845,7 @@ ratsru
 ratyjunla
 ratypo'i
 rau
+rau'e
 rau'o
 rau'oi
 raumei
@@ -12315,6 +12319,7 @@ robin
 roda
 rogjinme
 roi
+roi'e
 roi'i
 rokci
 rokcmaplini
@@ -13939,6 +13944,7 @@ selre'o
 selre'u
 selrebla
 selrei
+selreli
 selrepydja
 selrerkru
 selrespa
@@ -20248,6 +20254,7 @@ zilska
 zilsno
 zilsutra
 ziltau
+zilterju'o
 zilterle'u
 ziltida
 ziltodi
