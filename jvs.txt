@@ -380,6 +380,7 @@ badyta'u
 badzga
 badzu'e
 bafcolkercrakre
+bagDAD
 bagyce'a
 bagyxai
 bai
@@ -491,6 +492,7 @@ bangrnozmi'o'o'i'o'i'i'o'e'au'ai'u'u'o'o'o'i'i'o'o'i'o'i'o'i'o'i'o'o'i'e'au'au'a
 bangrpolska
 bangrportuGAL
 bangrsfe'enska
+bangrsomali
 bangrsu'omi
 bangrtai
 bangrtala
@@ -515,6 +517,7 @@ banpliske
 banra'a
 banro
 banskepre
+bansomali
 banta'a
 bantadni
 banvelsku
@@ -751,6 +754,7 @@ betka
 betovn
 betri
 bevgundi
+bevjai
 bevma'e
 bevma'elai
 bevri
@@ -1039,6 +1043,7 @@ boijme
 boirlokra
 bolbi'i
 bolbi'o
+bolboba
 bolcartu
 bolci
 boldi'u
@@ -1313,6 +1318,7 @@ ca'icru
 ca'idbo
 ca'irci'a
 ca'irdi'a
+ca'irfanta
 ca'irpai
 ca'irselzau
 ca'irvei
@@ -2172,6 +2178,7 @@ clinoi
 clira
 clite
 cliva
+clizu'e
 clugau
 clupa
 cma'alge
@@ -2237,6 +2244,7 @@ cmarai
 cmari'e
 cmaro'i
 cmasai
+cmaselpre
 cmastani
 cmaste
 cmata'orskami
@@ -2938,6 +2946,7 @@ dalku'i
 dalma'e
 dalmasi
 dalmikce
+dalmra
 dalmustela
 dalpe'o
 dalpe'odja
@@ -2947,6 +2956,7 @@ dalremnei
 dalrodente
 dalroktopoda
 dalsauia
+dalselxa'u
 dalske
 daltrixe
 daltsi
@@ -4583,6 +4593,8 @@ frigau
 frikadeli
 frikasi
 friko
+frikojirna
+frikoxazdo
 frikytu'a
 frikyxasli
 frili
@@ -5516,6 +5528,7 @@ istanbul
 iste
 isxa
 itca
+itiiopiias
 itka
 itki
 itku'ile
@@ -5617,6 +5630,7 @@ jai'ai
 jai'e
 jai'i
 jaica
+jaicpa
 jaicpu
 jaigau
 jairca'a
@@ -6136,6 +6150,7 @@ jibni
 jibnije
 jibri
 jibybre
+jibycatra
 jibycu'e
 jibykai
 jibykansa
@@ -7014,7 +7029,6 @@ kavzi
 kaxyje'u
 kaxykemlojvro
 kazmi
-kazra
 kazrybitnrkrati
 ke
 ke'a
@@ -7303,7 +7317,6 @@ klanrzimenzi
 klapri
 klasazri
 klasiko
-klaso
 klasta
 klasti
 klastigau
@@ -7376,6 +7389,7 @@ klunu'i
 klupanido
 klupau
 klupe
+klupefo
 klura'a
 kluske
 klusmu
@@ -8891,6 +8905,7 @@ mensku
 mentapiperita
 mentu
 mentufa
+menxai
 menynunda'a
 menytcaci
 menzda
@@ -9166,6 +9181,7 @@ mleselza'u
 mlesrasu
 mletritra
 mliba'u
+mlibato
 mlibdena
 mlibi'e
 mlibra
@@ -9454,6 +9470,7 @@ mudyspa
 mudyspaske
 mudyxultci
 mufspe
+mugdicos
 mujgunma
 mujybukyvro
 mujykanji
@@ -11588,6 +11605,8 @@ puba
 puca'a
 puca'o
 pucymapra
+pudlu'a
+pudlu'avalsi'ipo'ato
 pudydi'u
 pudykurji
 pudzgu
@@ -12319,6 +12338,7 @@ robin
 roda
 rogjinme
 roi
+roi'a
 roi'e
 roi'i
 rokci
@@ -15186,6 +15206,7 @@ so'o'o'oi
 so'oi
 so'u
 so'uroi
+soMAliias
 sobde
 sobgrasu
 sobjau
@@ -15719,6 +15740,7 @@ sriba'armifra
 sriba'axi'a
 srimakyvelvei
 srito
+srokajna
 sropanka
 srota'e
 srubo'u
@@ -17580,7 +17602,6 @@ toi
 toi'e
 toi'o
 toirca'a
-toirsti
 toisti
 tokmeki
 toknoma
@@ -17883,6 +17904,7 @@ trostiseji
 trotci
 trovlicauja'a
 troxeii
+troxili
 troxilidai
 trubadura
 trubasti
@@ -19949,6 +19971,7 @@ zbaske
 zbasu
 zbatadji
 zbaveljmina
+zbazai
 zbepi
 zbero'i
 zbibo'u
