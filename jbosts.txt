@@ -114,6 +114,7 @@ balrai - +en-xml
 balre - -en+xml, 'first' defined in Esperanto
 balvi - -en+xml, 'first' defined in lojban
 balzai - -en+xml, 'first' defined in lojban
+balzgibe'e - -en+xml, 'first' defined in Deutsch
 banckle - -en+xml, 'first' defined in lojban
 bancu - -en+xml, 'first' defined in Esperanto
 bandu - -en+xml, 'first' defined in Esperanto
@@ -7737,6 +7738,7 @@ zetcla - +en-xml
 zetro - -en+xml, 'first' defined in Esperanto
 zgama'o - +en-xml
 zgana - -en+xml, 'first' defined in Esperanto
+zgibe'e - -en+xml, 'first' defined in Deutsch
 zgijvexajmi - +en-xml
 zgikalsa - +en-xml
 zgike - -en+xml, 'first' defined in Esperanto
