@@ -165,7 +165,7 @@ fn main() {
             } else {
                 ghosts.push(format!("{w} - -en+xml, 'first' defined in {}", &l[13..]));
                 not_en_xml += 1;
-                jvs_words.push(w.clone());
+                jvs_words.push(w);
                 counter[y][m].0 += 1;
             }
         } else if !ghosts.iter().any(|g| g.starts_with(&format!("{w} -")))
@@ -173,6 +173,7 @@ fn main() {
             && !no.contains(&w)
         {
             ghosts.push(format!("{w} - -en-xml"));
+            jvs_words.push(w);
             not_en_not_xml += 1;
         } else {
             // already a ghost
@@ -189,17 +190,12 @@ fn main() {
     let mut ghosts = ghosts2;
     ghosts.sort_by(|a, b| a.to_lowercase().partial_cmp(&b.to_lowercase()).unwrap());
     println!("{:5} ghost-adjacents, of which:", ghosts.len());
-    println!("      {en_not_xml:5} [x] 'original' def in english   [ ] in xml   <-- real ghosts");
-    println!(
-        "      {not_en_xml:5} [ ]                             [x]          <-- not really ghosts"
-    );
-    println!(
-        "      {not_en_not_xml:5} [ ]                             [ ]          <-- we don't \
-         actually care about these"
-    );
-    let out = ghosts.join("\r\n");
+    println!("      {en_not_xml:5} [x] 'original' def in english   [ ] in xml");
+    println!("      {not_en_xml:5} [ ]                             [x]");
+    println!("      {not_en_not_xml:5} [ ]                             [ ]");
+    let out = ghosts.join("\n");
     fs::write("jbosts.txt", out).unwrap();
-    let out = jvs_words.iter().sorted().join("\r\n");
+    let out = jvs_words.iter().sorted().join("\n");
     fs::write("jvs.txt", out).unwrap();
     // toadua
     let mut toadua_words = vec![];
@@ -237,7 +233,7 @@ fn main() {
         }
     }
     println!("{:5} words in toadua", toadua_words.len());
-    let out = toadua_words.iter().sorted().join("\r\n");
+    let out = toadua_words.iter().sorted().join("\n");
     fs::write("toadua.txt", out).unwrap();
     // the
     let mut out = String::new();
@@ -248,10 +244,11 @@ fn main() {
             jbo_t += jbo;
             toaq_t += toaq;
             if y >= 2003 && !(y == current_year && m > current_month) {
-                out = format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\r\n{out}");
+                out = format!("{y}-{m:02}\t{jbo_t}\t{toaq_t}\n{out}");
             }
         }
     }
+    out = format!("month\tjvs\ttoadua\n{out}");
     fs::write("out.tsv", out).unwrap();
     println!("{:?}", start.elapsed());
 }
