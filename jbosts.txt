@@ -2150,7 +2150,6 @@ kasydzu - +en-xml
 kasygri - +en-xml
 kasystu - +en-xml
 kasysu'a - +en-xml
-katcpi - +en-xml
 katna - -en+xml, 'first' defined in Esperanto
 katstu - +en-xml
 kau - -en+xml, 'first' defined in Español

@@ -605,6 +605,7 @@ bartu
 basfa
 baskle
 basklepli
+baslu
 basme'e
 basna
 basnce
@@ -1703,6 +1704,7 @@ celxa
 celxa'i
 cemci'e
 cemci'eske
+cemjgu
 cemlanzu
 cempre
 cemra'a
@@ -1966,6 +1968,7 @@ cimnytei
 cimnyterjunta
 cimnyterjuntasucyxe'idaiseldi'e
 cimoi
+cimra
 cimri'a
 cimsna
 cimtu'a
@@ -2177,6 +2180,7 @@ ckisku
 ckoiote
 ckoki'e
 ckopalku
+ckopi
 ckraiji
 ckudi'u
 ckufi'i
@@ -2211,6 +2215,7 @@ cladjine
 cladu
 cladzu
 clafi
+clafi'e
 claga'u
 clagaldi'u
 clagau
@@ -2498,6 +2503,7 @@ cmicfu
 cmicu'a
 cmicu'akrali
 cmigau
+cmiju
 cmila
 cmima
 cmimei
@@ -5808,6 +5814,7 @@ jacyfepri
 jacysenta
 jacysocla'u
 jacyvro
+jadji
 jadjukpa
 jadni
 jadnoi
@@ -5848,6 +5855,7 @@ jaklu'a
 jakne
 jakob
 jakto'a
+jaktu
 jaldiga
 jalge
 jalke'a
@@ -6119,6 +6127,7 @@ jdacuvgau
 jdadapma
 jdagu'epa'i
 jdaja'a
+jdajgu
 jdajinru
 jdaka'i
 jdami'u
@@ -6164,6 +6173,7 @@ je
 je'a
 je'abo
 je'ai
+je'ajgu
 je'au
 je'aucu'i
 je'aunai
@@ -6606,6 +6616,7 @@ jmatajycalku
 jmatamji
 jmati'e
 jmavra
+jmedu
 jmeja'i
 jmekunra
 jmero'i
@@ -7217,6 +7228,7 @@ kargu
 karinas
 karkade
 karkaju
+karki
 karkino
 karli
 karloka
@@ -7698,6 +7710,7 @@ kofimitcidus
 kognato
 kogno
 koi
+koi'ai
 koi'au
 koi'e
 koi'i
@@ -7771,6 +7784,7 @@ korcu
 kordu
 korfaipletomino
 korgretro
+korja
 korka
 korle
 korliiande
@@ -8898,6 +8912,7 @@ maksriveikarda
 maktcaxe
 makydicflecru
 makyvelvei
+malbu
 malceisni
 malclaxu
 malcme
@@ -9604,6 +9619,7 @@ modzi zei bangu
 mogle
 moi
 moi'a
+moi'ai
 moi'e
 moi'i
 moi'icu'i
@@ -10558,6 +10574,7 @@ nofkovi
 noi
 noi'a
 noi'a'u
+noi'ai
 noi'au
 noi'e
 noi'i
@@ -11095,6 +11112,7 @@ palsita
 palta
 paltydamri
 paltylu'i
+paltylu'imi'i
 paltylumca'a
 paludizm
 palxima
@@ -12787,6 +12805,7 @@ roda
 rogjinme
 roi
 roi'a
+roi'ai
 roi'e
 roi'i
 rokci
@@ -15260,6 +15279,7 @@ silja
 silka
 silna
 silnycpina
+silnyjau
 silru
 siltci
 silto'a
@@ -18356,6 +18376,7 @@ tordakyxa'i
 tordaxi
 tordu
 torga'axa'i
+torka
 torluznaukosta
 tormau
 torneio
@@ -18498,6 +18519,7 @@ tsaini
 tsaitkaiste
 tsajoible
 tsakarce
+tsako
 tsakura
 tsalagi
 tsalami
@@ -18635,6 +18657,7 @@ tumsfe
 tumsfeni'a
 tumskiji
 tumspa
+tumtorka
 tumyma'e
 tumymre
 tunba
@@ -19333,6 +19356,7 @@ veslelxe
 vesyspa
 vetai
 veti'u
+vetno
 vi
 vi ma
 vi'a
@@ -19809,6 +19833,8 @@ xadytaixau
 xadyti'e
 xadyxadba
 xadyxai
+xadyxau
+xadyxla
 xadzengu'a
 xadzu'i
 xafxafa
@@ -19967,6 +19993,7 @@ xarci
 xarcufu
 xarjrgiri
 xarju
+xarmi
 xarmonika
 xarna'u
 xarnu
@@ -19989,12 +20016,14 @@ xasne
 xasni'a
 xasnycigla
 xasnypanzunmai
+xastorka
 xasxelkla
 xasycakrespa
 xasycurnu
 xasyda'u
 xasydanti
 xasydja
+xasyjau
 xasyjbama
 xasyjukni
 xasymabru
@@ -20279,6 +20308,7 @@ xoi
 xoi'ei'a
 xoi'u
 xoi'u'oi
+xoltu
 xomeros
 xomxeci
 xonba
@@ -20600,6 +20630,7 @@ zbibu'u
 zbijoimolpunli
 zbike'a
 zbikre
+zbimuxne
 zbipe'u
 zbisakci
 zbiselcigla
