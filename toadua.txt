@@ -1707,6 +1707,7 @@ bukero
 bukuıbu
 bula
 bula'alaı
+bulaboe
 bulacesa
 bulachaı
 bulafeao
@@ -5891,6 +5892,7 @@ geıfao
 geıkıaq
 geımıq
 geımıqche
+geınamoq
 geınhoq
 geınua
 geıse
@@ -6689,6 +6691,7 @@ gıeshıobeaqkoı
 gıeshıoboe
 gıeı
 gıeıchom
+gıeıla
 gıeımara
 gıfaq
 gıfoa
@@ -9364,6 +9367,7 @@ kafe
 kafeche
 kafefaseo
 kafehıaq
+kafekea
 kafepeq
 kafepuo
 kaferıaq
@@ -9719,6 +9723,7 @@ kaꝡaboe
 kaꝡaboenoso
 kaꝡajeoq
 kaꝡasoeı
+kaꝡatıe
 ke
 ke-
 kea
@@ -12809,6 +12814,7 @@ muoıbeaq
 muoıbomna
 muoıbıao
 muoıbıaoge
+muoıchu
 muoıcıoq
 muoıfoq
 muoıfurı
@@ -14666,7 +14672,6 @@ nıoka
 nıokato
 nıokoaq
 nıoq
-nıoqbeaq
 nıoqche
 nıoqchuo
 nıoqchuım
@@ -14677,6 +14682,7 @@ nıoqgoıche
 nıoqguka
 nıoqgukanıaı
 nıoqgıa
+nıoqgıeı
 nıoqjıaı
 nıoqketea
 nıoqketo
@@ -16431,6 +16437,7 @@ rona
 roneu
 roq
 roqdıao
+roqgulaq
 roqja
 roqkuaı
 roqkuaıge
@@ -18959,6 +18966,7 @@ sıjotao
 sıju
 sıjuche
 sıjucokı
+sıjuka
 sıjıa
 sıka
 sıkaı
@@ -20474,12 +20482,14 @@ tıoq
 tıoqbue
 tıoqchue
 tıoqchuetoaı
+tıoqgıeı
 tıoqheq
 tıoqla
 tıoqmı
 tıoqpeo
 tıoqpoa
 tıoqrıa
+tıoqsheq
 tıoqtua
 tıoqtı
 tıoqtıaı
