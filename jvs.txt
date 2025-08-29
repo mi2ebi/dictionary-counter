@@ -4144,6 +4144,7 @@ fa'irgau
 fa'o
 fa'o'o
 fa'oi
+fa'onai
 fa'orma'o
 fa'u
 fa'u'ai
@@ -6288,6 +6289,7 @@ jesni
 jespambe
 jespezli
 jestu'u
+jesxarmi
 jesycilta
 jesycro
 jesymabru
@@ -9489,6 +9491,7 @@ mivyslebi'u
 mivyslerango
 mivyslerebla
 mivyvelvicyvauro'i
+mivyxanka
 mivyxu'i
 mivzu'e
 mixa,IL
@@ -18176,6 +18179,7 @@ tokmeki
 toknoma
 toknu
 tokpisina
+tokpo
 tokpona
 tokpono
 toksina
@@ -18984,6 +18988,7 @@ varbasygauca'a
 varboi
 varcavas
 varganu
+varglami'i
 varjau
 varjaumi'i
 varjei
@@ -19751,6 +19756,7 @@ vy
 vy bu
 vy zei sance
 vy'y
+vy'ybu
 vybu
 xa
 xa zei sumtika
@@ -20524,6 +20530,7 @@ zairko
 zairsnucu'u
 zaisle
 zajba
+zajdi'u
 zajyctu
 zajyjirsu'u
 zaky'IL
