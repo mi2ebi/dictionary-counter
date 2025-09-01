@@ -3063,6 +3063,7 @@ daltsi
 daltsivi'i
 damba
 damfri
+damko
 damri
 damselzdi
 damtu'u
@@ -5073,6 +5074,7 @@ gerku
 gerkuuono
 gerkyzda
 gerkyzdani
+germo
 gerna
 gernciba'inu
 gerpre
@@ -13384,6 +13386,7 @@ se'au
 se'au'e
 se'e
 se'e'i
+se'ei
 se'i
 se'i'a'o
 se'i'i
