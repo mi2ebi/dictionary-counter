@@ -316,6 +316,7 @@ Kakuqtoaı
 Kamaızu
 Kameruq
 Kameruqgua
+Kamfaraglızu
 Kamrı
 Kamrıgua
 Kanada
@@ -1732,6 +1733,7 @@ buo
 buofuq
 buoja
 buojuq
+buonao
 buoq
 buoqbıa
 buoqcha
@@ -1763,6 +1765,7 @@ buqhıe
 buqjeoq
 buqjıaı
 buqkuoq
+buqkuoqfeqnhoq
 buqkıaq
 buqkıaqlıao
 buqkıaqnua
@@ -2587,6 +2590,7 @@ chefuaı
 chefuq
 cheheomıeq
 cheja
+chejafeqnhoq
 chejakuoq
 chekaq
 chekuaı
@@ -4930,6 +4934,7 @@ faochaq
 faocıa
 faodo
 faofepı
+faofeqnhoq
 faofıshoem
 faogoe
 faoguao
@@ -7631,6 +7636,7 @@ huonu
 huonueqhua
 huopuao
 huoraı
+huoseqju
 huosoakea
 huosoeı
 huosuao
@@ -9548,6 +9554,7 @@ kaqdeqcıa
 kaqdu
 kaqduı
 kaqdıum
+kaqfeqnhoq
 kaqfoa
 kaqfuq
 kaqfuı
@@ -9745,9 +9752,11 @@ kaızeq
 kaꝡa
 kaꝡaboe
 kaꝡaboenoso
+kaꝡafeqnhoq
 kaꝡajeoq
 kaꝡasoeı
 kaꝡatıe
+kaꝡazuoıfeqnhoq
 ke
 ke-
 kea
@@ -9885,6 +9894,7 @@ keqnıu
 keqpueq
 keqseao
 kera
+kerafeqnhoq
 keramoham
 kerapıu
 kerapıusaı
@@ -11151,12 +11161,14 @@ leqfuo
 leqfuochue
 leqfuoduao
 leqfurılaq
+leqguqfeqnhoq
 leqgushoaı
 leqhuaı
 leqhuaıcheo
 leqjıeqcha
 leqkuoq
 leqlıacha
+leqparuqfeqnhoq
 leqroıluao
 leqshaqcha
 leqtoqcha
@@ -11656,6 +11668,7 @@ luoqfıe
 luoqgaı
 luoqhu
 luoqhua
+luoqhuofeqnhoq
 luoqkea
 luoqko
 luoqkoe
@@ -11737,6 +11750,7 @@ lû
 lı
 lı-
 lıa
+lıabagafeqnhoq
 lıacu
 lıadao
 lıafeonuo
@@ -13397,6 +13411,7 @@ nam-
 nama
 namako
 namakocıa
+namakofeqnhoq
 namakoguaı
 namakola
 namakolaı
@@ -13716,6 +13731,7 @@ neqjueq
 neqkoe
 neqkoese
 neqkoı
+neqkoıfeqnhoq
 neqkuq
 neqkuı
 neqla
@@ -14267,6 +14283,7 @@ nujuı
 nuka
 nukoa
 nukuq
+nula
 nulaqcaı
 nuloq
 nulı
@@ -14389,6 +14406,7 @@ nuq
 nuq'o
 nuq'osoa
 nuq'ozua
+nuqchaku
 nuqchuao
 nuqkoı
 nuqleq
@@ -17169,6 +17187,7 @@ saqgoa
 saqgoano
 saqgochıq
 saqguao
+saqguaofeqnhoq
 saqgıu
 saqja
 saqjue
@@ -17802,6 +17821,7 @@ shom
 shomde
 shomdea
 shomdu
+shomfeqnhoq
 shomfuq
 shomgeq
 shomkuaq
@@ -18188,6 +18208,7 @@ shıqdaogaı
 shıqde
 shıqdenao
 shıqduao
+shıqfeqnhoq
 shıqgaı
 shıqge
 shıqgegaı
@@ -19256,6 +19277,7 @@ tajıkao
 tajızao
 taka
 takao
+takaofeqnhoq
 takaogegu
 takataq
 tako
@@ -19760,7 +19782,6 @@ toaleaq
 toaluaq
 toaluaqse
 toaluoqrıoq
-toam
 toame
 toamefıa
 toamelaqteı
@@ -21167,6 +21188,7 @@ zıqkıtıemu
 zıqma
 zıqnhuo
 zıqnuaı
+zıqpaqkı
 zıqpeq
 zıqreum
 zıqrıaq
