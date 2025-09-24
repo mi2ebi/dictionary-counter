@@ -1,14 +1,15 @@
+use std::{
+    fs,
+    io::Cursor,
+    time::{Duration, Instant},
+};
+
 use chrono::{Datelike as _, TimeZone as _, Utc};
 use itertools::Itertools as _;
 use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
 use serde::Deserialize;
-use std::{
-    fs,
-    io::Cursor,
-    time::{Duration, Instant},
-};
 use unicode_normalization::{char::is_combining_mark, UnicodeNormalization as _};
 use xml::{reader::XmlEvent, EventReader};
 
@@ -21,10 +22,7 @@ fn main() {
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
     let mut counter = vec![[(0, 0); 12]; current_year + 1];
-    let client = Client::builder()
-        .timeout(Duration::from_secs(60))
-        .build()
-        .unwrap();
+    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
     // jvs
     let stuff = client
         .get(format!(
@@ -37,12 +35,7 @@ fn main() {
         .unwrap();
     let updates = Html::parse_document(&stuff);
     let sel = Selector::parse(r#"td[width="80%"]"#).unwrap();
-    let mut updates = updates
-        .select(&sel)
-        .next()
-        .unwrap()
-        .text()
-        .collect::<Vec<_>>();
+    let mut updates = updates.select(&sel).next().unwrap().text().collect::<Vec<_>>();
     updates.reverse();
     // 4 dd-mmm-yyyy hh:mm:ss - definition originally entered by
     // 3 whoever
@@ -67,9 +60,7 @@ fn main() {
             XmlEvent::EndDocument => {
                 break;
             }
-            XmlEvent::StartElement {
-                name, attributes, ..
-            } => match name.local_name.as_str() {
+            XmlEvent::StartElement { name, attributes, .. } => match name.local_name.as_str() {
                 "valsi" => {
                     let w = attributes
                         .iter()
@@ -100,9 +91,7 @@ fn main() {
             XmlEvent::Characters(t) => {
                 if (in_score && t.parse::<i32>().unwrap() < -1)
                     || (in_def
-                        && ["with ISO 639-3", "ISO-3166", "ISO-4217"]
-                            .iter()
-                            .any(|i| t.contains(i)))
+                        && ["with ISO 639-3", "ISO-3166", "ISO-4217"].iter().any(|i| t.contains(i)))
                 {
                     no.push(xml_words.pop().unwrap_or_default());
                 }
@@ -114,12 +103,7 @@ fn main() {
     }
     xml_words = xml_words
         .iter()
-        .map(|x| {
-            Regex::new(" +")
-                .unwrap()
-                .replace_all(x.replace('.', " ").trim(), " ")
-                .to_string()
-        })
+        .map(|x| Regex::new(" +").unwrap().replace_all(x.replace('.', " ").trim(), " ").to_string())
         .sorted()
         .dedup()
         .collect();
@@ -128,9 +112,7 @@ fn main() {
     let (mut en_not_xml, mut not_en_xml, mut not_en_not_xml) = (0, 0, 0);
     let spaces = Regex::new(" +").unwrap();
     for (d, w, l) in updates {
-        let w = spaces
-            .replace_all(w.replace('.', " ").trim(), " ")
-            .to_string();
+        let w = spaces.replace_all(w.replace('.', " ").trim(), " ").to_string();
         let date = &d.replace('\n', "")[3..11];
         let y = date[4..8].parse::<usize>().unwrap();
         let m = match &date[0..3] {
@@ -161,7 +143,8 @@ fn main() {
         {
             if jvs_words.contains(&w) {
                 // -g -e +x +j
-                // a non english definition was added after an 'original' english one was made
+                // a non english definition was added after an 'original'
+                // english one was made
             } else {
                 ghosts.push(format!("{w} - -en+xml, 'first' defined in {}", &l[13..]));
                 not_en_xml += 1;
@@ -210,19 +193,15 @@ fn main() {
         let y = the[0].parse::<usize>().unwrap();
         let m = the[1].parse::<usize>().unwrap() - 1;
         if !toadua_words.contains(&t.head)
-            && ![" ", ".", "@", "y", "ou", "ae", "au", "ꝡı", "ꝡu", "nhı"]
-                .iter()
-                .any(|x| {
-                    t.head
-                        .to_lowercase()
-                        .nfd()
-                        .filter(|&c| !is_combining_mark(c))
-                        .collect::<String>()
-                        .contains(x)
-                })
-            && !"\u{0300}\u{0303}\u{0304}\u{0309}"
-                .chars()
-                .any(|c| t.head.nfd().contains(&c))
+            && ![" ", ".", "@", "y", "ou", "ae", "au", "ꝡı", "ꝡu", "nhı"].iter().any(|x| {
+                t.head
+                    .to_lowercase()
+                    .nfd()
+                    .filter(|&c| !is_combining_mark(c))
+                    .collect::<String>()
+                    .contains(x)
+            })
+            && !"\u{0300}\u{0303}\u{0304}\u{0309}".chars().any(|c| t.head.nfd().contains(&c))
             && !["oldofficial", "examples", "oldexamples"]
                 .iter()
                 .any(|x| t.user == *x && t.head.contains(' '))
