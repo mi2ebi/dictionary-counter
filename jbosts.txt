@@ -2666,7 +2666,6 @@ macyva'uzasysti - +en-xml
 mafmi'e - +en-xml
 maftufa - -en-xml
 mai - -en+xml, 'first' defined in Español
-maixra - +en-xml
 majmi'u - +en-xml
 makcu - -en+xml, 'first' defined in Esperanto
 makfa - -en+xml, 'first' defined in Esperanto
