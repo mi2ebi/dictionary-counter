@@ -645,6 +645,7 @@ bauspi
 bavdji
 bavgaupei
 bavji'i
+bavjijnu
 bavla'i
 bavla'ima'i
 bavlamcerni
@@ -999,6 +1000,7 @@ blikubli
 blina
 blita'o
 blixra
+blobarmatra
 bloblobloblo
 blobonjacta'o
 bloca'ega'a
@@ -1007,6 +1009,7 @@ blocra
 blocripu
 blofanga'a
 blofarga'a
+blogi'adi'u
 blogre
 bloibu
 bloja'a
@@ -1738,6 +1741,7 @@ cesri'a
 cesri'isi'a
 cestoldapma
 cestu'a
+cestuzvi'e
 cesycku
 cesyjvedotla'okemsorgugject
 cesyske
@@ -2085,6 +2089,7 @@ cirlrstilto
 cirlrxalumi
 cirlrxauda
 cirlydakfu
+cirlynanba
 cirmi'o
 ciroi
 cirpe'i
@@ -3478,6 +3483,7 @@ dicra
 dicre'e
 dictergu'i
 dicyba'ogaumi'i
+dicybo'i
 dicycau
 dicydenmi
 dicydinfanza
@@ -3526,6 +3532,7 @@ dimcei
 dimna
 dimnu'e
 dimri'a
+dimsni
 dinalit
 dincfu
 dincpa
@@ -3831,7 +3838,6 @@ dugri
 dugyste
 dujmi'i
 dujricyblu
-dujro'i
 dujyca'a
 dujyku'a
 dukmai
@@ -4988,6 +4994,7 @@ gaspo
 gaspu'a
 gasta
 gastcica
+gasyga'a
 gasyju'o
 gasyjvemu'utcini
 gau
@@ -5422,6 +5429,7 @@ gugypa'i
 gugypau
 gugypausle
 gukcanre
+guktci
 gulpli
 gulrota
 gumcatra
@@ -6076,6 +6084,7 @@ jboklu
 jbokravla
 jbolanci
 jbole'u
+jbolotomi
 jbomi'u
 jbomidju
 jbonobo
@@ -6322,6 +6331,7 @@ jganu
 jgarau
 jgari
 jgaunla
+jgauzi
 jgegau
 jgena
 jgenanba
@@ -6424,6 +6434,7 @@ jifsku
 jifxu'a
 jifyjovnarje'u
 jifyjunxu'a
+jifyzanpei
 jiglanxe
 jigycitri
 jijgi
@@ -6865,6 +6876,7 @@ jvomi'u
 jvonu'oblo
 jvopro
 jvosmicme
+jvoso
 jvoste
 jvotau
 jvotauborkra
@@ -7366,6 +7378,7 @@ kelgrimi'u
 kelka'u
 kelkansa
 kelkarda
+kelkardygri
 kelkubli
 kelmuvdai
 kelnemka'u
@@ -7642,6 +7655,7 @@ kli'iki
 kli'ikmo'u
 kli'ikru'i
 kligau
+kligo
 klikeco'a
 klikeia
 klikemo'u
@@ -8711,6 +8725,7 @@ lorsmani
 lorvera
 lorxu
 losanjylys
+losmo
 losto
 losupan
 lotkle
@@ -8993,6 +9008,7 @@ manbu'e
 manci
 mandala
 mandarina
+mandi'oka
 mandoka
 manfo
 manfybli
@@ -9399,6 +9415,7 @@ minde
 mindy'utka
 minguuo
 minji
+minle'u
 minli
 minlytolcacra
 minra
@@ -9702,6 +9719,7 @@ mosra
 mosriksna
 mosrnmu
 mosycpu
+mosyguktci
 mosyjgita
 mosysna
 mosyvi'u
@@ -9710,6 +9728,7 @@ motcis
 moxna
 mradi'u
 mraigo
+mrajane
 mraji
 mrajymledi
 mranmar
@@ -10382,6 +10401,7 @@ nermolre'u
 nerpalku
 nerta'u
 neryrelbolbi'i
+ng bu
 ni
 ni bu
 ni'a
@@ -10716,6 +10736,7 @@ notci'a
 notcreka
 notcrida
 notcripu
+notpanci
 notsku
 novmbero
 noxtcin
@@ -11076,6 +11097,7 @@ pagbu
 pagbybirti
 pagdu'a
 pagre
+pagro
 pagyca'o
 pagygu'e
 pagzai
@@ -11928,7 +11950,6 @@ precitri
 precme
 predatni
 predenmi
-predi
 prefere
 pregri
 pregunma
@@ -12009,6 +12030,7 @@ prugei
 prujbi
 prujeftu
 prujungau
+prukai
 prula'i
 prula'ima'i
 prulamcerni
@@ -12807,6 +12829,7 @@ ro'unai
 roMAN
 robin
 roda
+roflma'o
 rogjinme
 roi
 roi'a
@@ -15164,6 +15187,7 @@ sfecmaci
 sfecra
 sfefa'e
 sfefli
+sfeno
 sfero
 sfesti
 sfestigau
@@ -15439,6 +15463,7 @@ skeku'a
 skepre
 skestu
 skezu'e
+skibo
 skicu
 skicu zei uidje
 skicyuidje
@@ -17010,6 +17035,7 @@ te'oi
 te'oi'i
 te'oi'oi
 te'u
+te'y
 te'yRON
 tebau
 tebe'i
@@ -18243,6 +18269,7 @@ tolfrinyna'u
 tolganzu
 tolgei
 tolgeitce
+tolgli
 tolgurgau
 tolja'e
 toljgari
@@ -18376,6 +18403,7 @@ tolzilo
 tonberi
 tonga
 tonsi
+tonzo
 torbrato'a
 torceli
 torcrida
@@ -18942,12 +18970,15 @@ vajyje'ipoi
 vajyje'ipoitau
 vajyki'i
 vajymecyboryraipavmompoi
+valcrimtu
 valenTIN
 valentinas
 valerias
 valeris
 valfa
 valkra
+valrfa'a
+valrmodla
 valrtosmabru
 valrxazdomru
 valsi
@@ -19425,6 +19456,7 @@ vijyja'a
 vijysazri
 vijysoi
 vijytcana
+vijyzda
 vikcigla
 vikmi
 viknu
@@ -19614,6 +19646,7 @@ voki'o
 vokle'u
 vokpravelpe'u
 voksa
+voksaroido
 voksli
 voksna
 voksnaske
@@ -21155,6 +21188,7 @@ zvaxru
 zvidiri
 zvijonse
 zviki
+zvomo
 zvuzu
 zy
 zy zei sance
