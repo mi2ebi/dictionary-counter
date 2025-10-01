@@ -1409,6 +1409,7 @@ boa
 boa'oguı
 boafuq
 boagıa
+boaluqsıbı
 boalıem
 boam
 boao
@@ -9705,6 +9706,7 @@ kası
 kasıaq
 kasıchuo
 kasıno
+kasıtıqtı
 kata
 katala
 katam
@@ -10057,7 +10059,6 @@ koeduna
 koedı
 koefaq
 koefaı
-koejaqbushu
 koejoaı
 koejıaq
 koekuaq
@@ -10575,6 +10576,7 @@ kıachaq
 kıacuao
 kıage
 kıageıchı
+kıagıazeo
 kıahupı
 kıajo
 kıakambe
@@ -17480,6 +17482,7 @@ seoqmı
 seoqmıo
 seoqmıorua
 seoqpıo
+seoqpıoruagıa
 seoqpıoruqshua
 seoqraq
 seoqrea
@@ -18233,6 +18236,7 @@ shım
 shıma
 shımagoeq
 shımakuoq
+shımashıma
 shımeo
 shımıedaosaı
 shına
