@@ -699,6 +699,7 @@ be'u
 be'ucu'i
 be'udzu
 be'unai
+bebgau
 bebgei
 bebna
 bebna'ive
@@ -902,6 +903,7 @@ bintu'a
 binxo
 binynalvokselba'u
 bircidni
+birco
 birdadykla
 birgutci
 birja'i
@@ -3034,6 +3036,7 @@ dakfu
 dakli
 daklycka
 daklyflani
+daklystizu
 daklytcati
 dakrmatcete
 dakyba'e
@@ -3905,6 +3908,7 @@ dutydikca
 dutyku'arka
 duvma'i
 dy
+dy bu
 dy zei sance
 dy'ei
 dylez
@@ -5502,6 +5506,7 @@ gutrygapru
 gutryne'o
 gutrynebypunli
 gutrypilcri
+gutrytunba
 gutyjamkarce
 guzme
 guzmrkukurbita
@@ -6620,6 +6625,8 @@ jivyfrica
 jizvanbi
 jizyselpre
 jmacidni
+jmadakli
+jmadaklyjvi
 jmadegji
 jmadegycalku
 jmagle
@@ -7813,6 +7820,7 @@ korporalo
 korsari
 korsenta
 korsova
+kortilo
 korvo
 korzeti
 kosmu
@@ -9165,6 +9173,7 @@ me
 me'a
 me'ai
 me'ajbi
+me'amfetamina
 me'andi
 me'au
 me'e
@@ -18734,6 +18743,7 @@ tutra'a
 tutske
 tutytu'a
 ty
+ty bu
 ty zei creka
 ty zei sance
 tyBIlisis
@@ -19471,6 +19481,7 @@ vilgunma
 vilka'a
 vilkla
 vilmu'u
+vilselte'azu'e
 vilsi'e
 viltce
 vilti'a
@@ -19984,6 +19995,7 @@ xandegji
 xandegji'o
 xandegycalku
 xandi'i
+xanfirfra
 xangle
 xango
 xangulu
