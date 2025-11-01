@@ -112,6 +112,7 @@ aksiptrina
 akti
 aktigau
 aktinidja
+aktygau
 akuuas
 alba'aka
 albatro
@@ -1037,6 +1038,7 @@ blosormei
 blotcana
 bloti
 blotrkanu
+blovinji
 bloxadni
 blozeile'a
 bluble
@@ -1738,6 +1740,7 @@ cerni
 cersai
 certu
 ceryrig
+cesmakfa
 cespre
 cesri'a
 cesri'isi'a
@@ -3362,7 +3365,6 @@ demri'a
 demsilka
 demspa
 demtse
-demxa'e
 denbi'i
 denbru
 denburcu
@@ -3664,6 +3666,7 @@ djikri
 djine
 djintrau
 djirafa
+djiranda
 djiroi
 djisku
 djizu'e
@@ -4232,6 +4235,7 @@ famgau
 famli'a
 famnalka'e
 fampi'i
+famselre'e
 famsku
 famstu
 famti
@@ -4509,6 +4513,7 @@ fi'u zei re zei cinse
 fi'unri'abau
 fi'ure
 fi'urgau
+fi'urvo
 fibra
 fibrycmu
 fickanpe
@@ -5750,6 +5755,7 @@ itka
 itki
 itku'ile
 itku'ilybau
+itkygau
 itlgu'e
 itlnrasno
 itlo
@@ -7520,6 +7526,7 @@ kibyka'i
 kibyka'ixra
 kibykarni
 kibypapri
+kibypedli'u
 kibypidyfi'a
 kibyse'u
 kibysku
@@ -7830,6 +7837,7 @@ kosmyka'u
 kosmyselgu'a
 kosmyvrici
 kosne'ota'u
+kosplei
 kosta
 kosycreka
 kotledona
@@ -8795,6 +8803,7 @@ lurcmu
 lurcukla
 lurdei
 lurminli
+lurnanba
 lurtina
 luska
 lusto
@@ -9215,6 +9224,7 @@ megygra
 mei
 mei zei ni'orsu
 mei'a
+mei'ai
 mei'e
 mei'i
 mei'o
@@ -10319,6 +10329,7 @@ nauas
 naudre
 naun
 naunmu
+naurfamti
 naurso'a
 nauspe
 navdine
@@ -10507,6 +10518,7 @@ nimbau
 nimci'o
 nimcre
 nimfaia
+nimfamti
 nimjizdunkri
 nimnaujizdunkri
 nimpinji
@@ -10585,6 +10597,7 @@ nityta'u
 nitytse
 nitytu'u
 nivji
+nivmapku
 nivycreka
 nix
 nixli
@@ -11846,6 +11859,7 @@ po'onai
 po'orno
 po'u
 pocli
+pogbau
 poi
 poi'a
 poi'a'u
@@ -11926,6 +11940,7 @@ porto
 porveljmina
 porzu'e
 posfai
+posko
 posnei
 posri'a
 posterfai
@@ -12375,6 +12390,7 @@ raxyckasu
 raxyxajmi
 razbau
 razgu'e
+razru'u
 razyporto
 re
 re zei brinefa
@@ -15485,6 +15501,7 @@ skinoi
 skiueli
 skli'iparte
 sko'opu
+skocau
 skogace
 skogarce'a
 skola'a
@@ -16253,6 +16270,7 @@ spezau
 spicku
 spidani
 spijbama
+spiluri
 spinaca
 spinori
 spirofu
@@ -17174,6 +17192,7 @@ tepcai
 tepcau
 tepi'o
 tepmoso
+tepnunsla
 tepo'i
 teprai
 tepri'a
@@ -19461,6 +19480,7 @@ vidvi
 vidyplin
 vifne
 vijblo
+vijdilnu
 vijli'a
 vijyja'a
 vijysazri
@@ -20394,6 +20414,7 @@ xraski
 xrasni
 xrata
 xratai
+xrazme
 xrebau
 xrejvejdikybau
 xremi'i
@@ -20658,6 +20679,7 @@ zatygau
 zau
 zau'e
 zau'e'u
+zau'ei
 zau'u
 zaurskupemci
 zausku
@@ -21048,6 +21070,7 @@ zmase
 zmasydju
 zmaumce
 zmazau
+zmelamdu
 zmiboto
 zmico
 zmicre

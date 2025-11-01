@@ -10,8 +10,8 @@ use regex::Regex;
 use reqwest::blocking::Client;
 use scraper::{Html, Selector};
 use serde::Deserialize;
-use unicode_normalization::{char::is_combining_mark, UnicodeNormalization as _};
-use xml::{reader::XmlEvent, EventReader};
+use unicode_normalization::{UnicodeNormalization as _, char::is_combining_mark};
+use xml::{EventReader, reader::XmlEvent};
 
 #[allow(clippy::too_many_lines)]
 fn main() {
@@ -22,13 +22,11 @@ fn main() {
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
     let mut counter = vec![[(0, 0); 12]; current_year + 1];
-    let client = Client::builder().timeout(Duration::from_secs(60)).build().unwrap();
+    let client = Client::builder().timeout(Duration::from_secs(120)).build().unwrap();
     // jvs
+    let days = (now - Utc::with_ymd_and_hms(&Utc {}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days();
     let stuff = client
-        .get(format!(
-            "https://jbovlaste.lojban.org/recent.html?days={:?}",
-            (now - Utc::with_ymd_and_hms(&Utc {}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days()
-        ))
+        .get(format!("https://jbovlaste.lojban.org/recent.html?days={days:?}"))
         .send()
         .unwrap()
         .text()
@@ -51,7 +49,15 @@ fn main() {
         .map(|(l, (w, d))| (*d, (*w).to_string(), *l))
         .collect::<Vec<_>>();
     // find the ghosts
-    let xml = client.get("https://jbovlaste.lojban.org/export/xml-export.html?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl").send().unwrap().bytes().unwrap();
+    let xml = client
+        .get(concat!(
+            "https://jbovlaste.lojban.org/export/xml-export.html",
+            "?lang=en&positive_scores_only=0&bot_key=z2BsnKYJhAB0VNsl"
+        ))
+        .send()
+        .unwrap()
+        .bytes()
+        .unwrap();
     let mut reader = EventReader::new(Cursor::new(xml));
     let (mut xml_words, mut jvs_words, mut no) = (vec![], vec![], vec![]);
     let (mut in_score, mut in_def) = (false, false);
