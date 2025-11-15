@@ -1922,6 +1922,7 @@ cidjrtcilekonkarne
 cidjrxaluxalo
 cidjrxametsa
 cidjrxonido
+cidnaxo
 cidni
 cidro
 cidydzu
@@ -8924,8 +8925,8 @@ mairza'i
 maisru
 maixra
 majbi'o
-majga
 majgau
+majgo
 majgybra
 majmi'u
 majrsto
@@ -9502,6 +9503,7 @@ mitpavycinpampre
 mitre
 mitsi'u
 mitsmuvla
+mitsmuvlaste
 mitsnavla
 mitxondriio
 mitybe'isi'u
@@ -15404,6 +15406,8 @@ sipfli
 sipfru
 sipkemdjusa'a
 sipku'a
+sipmi'e
+sipmidvelmikce
 sipna
 sipnybzu
 sipsa'a
@@ -19004,7 +19008,6 @@ valenTIN
 valentinas
 valerias
 valeris
-valfa
 valkra
 valrfa'a
 valrmodla
