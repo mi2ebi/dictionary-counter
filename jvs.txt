@@ -136,6 +136,7 @@ alkai
 alkanse
 alma
 almapamla
+almini
 almu
 alna
 alpaka
@@ -497,6 +498,7 @@ balzgibe'e
 bambola
 bambu
 bamrdinamite
+bamri
 bamrti'enti
 bamvinji
 ban
@@ -1473,6 +1475,7 @@ cagzai
 cagzaita'u
 cai
 cai'e
+cai'i
 caibra
 caicni
 caicpe
@@ -2788,6 +2791,7 @@ ctera
 cternalmat
 ctesa'acpi
 ctesai
+ctetoldi
 cti'omni
 cticinza
 cticpe
@@ -2886,6 +2890,7 @@ cukpabna'u
 cukplita
 cukre
 cukrerkavjvi
+cukse
 cukselba'a
 cukseltai
 cukta
@@ -3018,6 +3023,7 @@ dafyfa'i
 dagme'esni
 dagmlaterdzu
 dagyke'a
+dagyko'u
 dagykoi
 dagypli
 dagysfe
@@ -3070,6 +3076,7 @@ dalroktopoda
 dalsauia
 dalselxa'u
 dalske
+dalti
 daltrixe
 daltsi
 daltsivi'i
@@ -3602,6 +3609,7 @@ djacpi
 djacu
 djagru
 djagu'ara
+djaikoni
 djainu
 djaka'u
 djakare
@@ -4698,6 +4706,7 @@ fo'i
 fo'o
 fo'orma
 fo'u
+fofsori
 foi
 foi'e
 foi'i
@@ -4913,6 +4922,7 @@ gairbu'u
 gairgau
 gairja'i
 gairjaudu'e
+gairjbome'o
 gairki'e
 gairkosta
 gairmasti
@@ -5059,6 +5069,7 @@ gejrdauko
 gejystani
 gek zei uanta
 gekcisma
+gekfegdripu'a
 gekmau
 geknimi
 gekpanpi
@@ -5452,6 +5463,7 @@ gumni'i
 gumpe'i
 gumpra
 gumri
+gumsko
 gunbre
 gunde'a
 gundi
@@ -6764,6 +6776,7 @@ jukremnas
 jukte'a
 jukyju'e
 julbaco
+juljudri
 julne
 julpuco
 julra'o
@@ -7048,6 +7061,7 @@ kairdu'a
 kairdusmei
 kairji'i
 kairmobmei
+kairni'i
 kairpai
 kairpau
 kairpavmei
@@ -7089,6 +7103,7 @@ kalgaisligau
 kaljba
 kalke'a
 kalke'asrumu'a
+kalkumi
 kalmari
 kalmebykre
 kalpi
@@ -7284,6 +7299,7 @@ karpo'ijbe
 karsna
 kartamo
 kartapuno
+kartaroko
 kartecu
 kartilago
 kartuli
@@ -7552,6 +7568,7 @@ kilcrigau
 kilga
 kilga'a
 kilga'axa'i
+kilma
 kilmru
 kilpunli
 kilrango
@@ -8903,6 +8920,7 @@ mafni'u
 mafpli
 mafre'o
 mafta'a
+maftaroko
 maftufa
 magdaro
 magmiltre
@@ -9218,6 +9236,7 @@ mecyxlarai
 medlara
 medomoi
 medzo
+meftasi
 megbivysamsle
 megdje
 megdo
@@ -9778,6 +9797,7 @@ mroke'a
 mromakfa
 mromlu
 mromu'e
+mromumi
 mronalspe
 mronunsla
 mrori'a
@@ -9910,10 +9930,12 @@ mumcte
 mumdei
 mumdo'i
 mumei
+mumjgatai
 mumkulpikta
 mumoi
 mumplin
 mumplini
+mumtartai
 mumvanbi
 mumvanci
 mumvlabivli'i
@@ -10283,6 +10305,7 @@ nargrkara
 nargrpistaco
 narje'u
 narjista'u
+narjmifri
 narju
 narju'odza
 narka'e
@@ -12284,6 +12307,7 @@ ralnirci'e
 ralseldauju'a
 ralselva'i
 ralselylispre
+ralsi'o
 raltca
 ralte
 raltu'a
@@ -12337,6 +12361,7 @@ rarmu'e
 rarna
 rarnsibe
 rarselfra
+rarsevda
 rarske
 rartapla
 rarvanbi
@@ -13003,6 +13028,7 @@ rulbifce
 rulcmapezli
 rulfe'iganti
 rulkemjinziljivbu
+rulkobli
 rulnakyganti
 rulpezli
 rulpurdi
@@ -13534,6 +13560,7 @@ seka'a
 seka'i
 sekai
 sekai ma
+sekfoia
 seki'i
 seki'u
 seki'unai
@@ -15129,6 +15156,7 @@ setxeve
 seva'o
 seva'u
 sevan
+sevda
 sevzi
 sevzypixra
 sexipa
@@ -15891,6 +15919,7 @@ sorgle
 sorgu
 sorgugje'a
 sorjaknykarce
+sorjgatai
 sorjontai
 sorju'o
 sorkai
@@ -18887,6 +18916,7 @@ ulmu
 ulsa
 ultime
 umbe
+umfi
 umpalumpa
 umre
 umri'a
@@ -19730,9 +19760,11 @@ vonpaso
 vonpitytai
 vonplin
 vonplini
+vonrafpemjvo
 vonseldansu
 vonselmla
 vonseltu'e
+vonserakto
 vonskosa'e
 vonvanbi
 vonvanci
@@ -20329,6 +20361,8 @@ xisyjbedetri
 xisyjbenunsla
 xisyjbesla
 xiuas
+xivba'a
+xivgau
 xlabebna
 xlabu'u
 xladani

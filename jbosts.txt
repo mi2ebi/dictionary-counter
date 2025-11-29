@@ -3096,6 +3096,7 @@ narfaubanzuni - -en-xml
 narfaunarcu'i - -en+xml, 'first' defined in lojban
 nargaubasyvla - -en-xml
 narge - -en+xml, 'first' defined in Esperanto
+narjmifri - -en-xml
 narju - -en+xml, 'first' defined in Esperanto
 narmitsi'u - +en-xml
 narplixla - -en+xml, 'first' defined in lojban
