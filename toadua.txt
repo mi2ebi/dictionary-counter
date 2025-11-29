@@ -577,6 +577,7 @@ Suomıgua
 Suqda
 Síaobom
 Sírıtıeq
+Súqbıu
 Sıaomerıka
 Sıaoreılıa
 Sıkaqdına
@@ -1216,6 +1217,7 @@ baıgeo
 baıgı
 baıgıq
 baıhıu
+baıkua
 baılea
 baıloha
 baılıeq
@@ -3937,6 +3939,7 @@ daqguaı
 daqguo
 daqgı
 daqgıa
+daqgıapaq
 daqgıfaq
 daqgıu
 daqhe
@@ -4020,6 +4023,7 @@ daımoı
 daımuı
 daımuıbo
 daıne
+daıneq
 daınoeq
 daırabu
 daıshe'ao
@@ -4092,6 +4096,7 @@ dekuq
 dekuqse
 dekuı
 dekı
+dela
 delaı
 delua
 dem
@@ -4490,6 +4495,7 @@ dujıqjıaq
 duku
 dukuı
 dula
+dum
 dumoe
 duna
 dunafuom
@@ -6933,6 +6939,7 @@ gıuchuım
 gıudetoa
 gıuduo
 gıufa
+gıume
 gıumeı
 gıunhuo
 gıunuı
@@ -7334,6 +7341,7 @@ heubuo
 heum
 heumgeq
 heumjıaq
+heumlua
 heunaosaı
 heunaraq
 hezo
@@ -8630,6 +8638,7 @@ jolaqteı
 jolıaq
 jom
 jom'aı
+jomcaq
 jomgaq
 jomlaıme
 jommana
@@ -9471,6 +9480,7 @@ jıꝡa
 jạjea
 jạnua
 jạteq
+jị̂aq-
 jꝡa
 k
 ka
@@ -9614,6 +9624,7 @@ kaokıum
 kaola
 kaolaı
 kaolıq
+kaome
 kaomojı
 kaomuao
 kaomıeq
@@ -9825,6 +9836,8 @@ kaıgıq
 kaıgıqchuo
 kaıheq
 kaıhue
+kaıjom
+kaıjomrıaq
 kaıkabo
 kaıkea
 kaıkeatoaı
@@ -12831,6 +12844,7 @@ moıtıeq
 moıtıumoı
 moızana
 moꝡa
+mshr?
 mu
 mu'uq
 mu'uı
@@ -13380,6 +13394,8 @@ mıezue
 mıezueq
 mıezıam
 mıeı
+mıeıchua
+mıeıkata
 mıeıkuo
 mıeꝡaqtoı
 mıhao
@@ -15234,6 +15250,7 @@ pamnua
 pampam
 pamrea
 pamu
+pamze
 pana
 panama
 panamagua
@@ -16835,6 +16852,7 @@ rugajı
 rugaıjı
 rugo
 rujı
+rujımıa
 ruka
 rukabeaq
 rukacea
@@ -17482,6 +17500,7 @@ seaha
 seaja
 seajaı
 seakoı
+seakua
 seakuaı
 seamoe
 seao
@@ -20539,6 +20558,7 @@ túnı
 túq
 túqnanı
 túqnı
+túqshı
 tútu
 tı
 tı-
@@ -20915,7 +20935,7 @@ umarele
 umbo
 ume
 umechuoq
-umfu
+umfı
 umobo
 umodaq
 umpoaq
@@ -21076,6 +21096,7 @@ zearaı
 zeareq
 zeasea
 zeatao
+zeceaı
 zejeo
 zejuq
 zejı
@@ -21231,6 +21252,7 @@ zugaı
 zugoeq
 zugoeqpoe
 zuheno
+zuhenoche
 zuhenofıeq
 zuhua
 zujeqgıu
@@ -21266,6 +21288,7 @@ zuo
 zuo-
 zuocha
 zuohı
+zuohıra
 zuokea
 zuoluoq
 zuom
