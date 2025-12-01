@@ -575,6 +575,7 @@ bapselfu
 baptizo
 bapu
 barat
+barbaganuji
 barbei
 barbekeiu
 barca'e
@@ -1136,6 +1137,7 @@ boltsemaku
 bolxa'e
 bolxada
 bolxadba
+bolxanda'i
 bombiksiia
 bombila
 bonfemu
@@ -1727,6 +1729,7 @@ cenmige
 cenmildje
 cenrini
 censa
+censuso
 centaureia
 centero
 centi
@@ -5507,6 +5510,7 @@ gustci
 gustytigni
 gusybatke
 gusybi'o
+gusybo'i
 gusycai
 gusycfine
 gusycinki
@@ -5525,6 +5529,7 @@ gutryne'o
 gutrynebypunli
 gutrypilcri
 gutrytunba
+gutselzu'e
 gutyjamkarce
 guzme
 guzmrkukurbita
@@ -5792,6 +5797,7 @@ iunbau
 iunkoda
 iunmo
 iupna
+iupre
 iuris
 iutkata
 ivla
@@ -12059,6 +12065,7 @@ pronabi
 pronalka'e
 proradyxarnysti
 prosa
+proselzu'e
 prosi'u
 prostituta
 protagonista
@@ -12938,6 +12945,7 @@ rolterdi
 rolterslidi'e
 roltru
 rolxracu'a
+rolylerju'a
 rolza'i
 rolzda
 romai
@@ -17045,6 +17053,7 @@ tciromei
 tcita
 tcita zei uidje
 tcitama
+tcitani
 tcitcarone
 tcitigi
 tcitygau
@@ -20038,6 +20047,7 @@ xamxeinmo
 xamyzu'e
 xanbau
 xanbe'u
+xanbikyda'i
 xanboi
 xance
 xancidja'i
