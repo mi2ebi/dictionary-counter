@@ -914,6 +914,7 @@ birdadykla
 birgutci
 birja'i
 birjai
+birjaktu
 birjanco
 birjanke'a
 birje
@@ -943,6 +944,7 @@ bisycla
 bisycmaplini
 bisyladru
 bitcan
+bitco
 bitkoine
 bitmu
 bitni
@@ -955,6 +957,7 @@ bitygau
 bityjmina
 bityvelcki
 bityzba
+bivjaktu
 bivjetka'u
 bivma'i
 bivmast
@@ -1029,6 +1032,7 @@ blolei
 bloli'u
 blolo
 blomatryga'a
+blomra
 blomuvga'a
 blonare
 blonaresmi
@@ -1052,6 +1056,7 @@ bluda'emre
 bluda'emretci
 blufle
 blujisra
+bluju'emi'i
 blupinxe
 blurdrakono
 blusakci
@@ -1116,6 +1121,7 @@ bolji'openbi
 boljipe
 bolkei
 bolkeijvi
+bolmunpi
 bolplita
 bolrbasketo
 bolrbeiso
@@ -1964,6 +1970,7 @@ ciladulumu
 cilbi'u
 cilce
 cilfu
+cilga
 ciljongau
 cilkan
 cilkane
@@ -2949,6 +2956,7 @@ cuska'i
 cusku
 cusku'i
 cusna
+cuspe
 custerzi'e
 cutci
 cutlunbe
@@ -5766,6 +5774,7 @@ irga
 irinas
 irk
 irkasa
+irmu
 irnodela
 irstoni
 isemu'ibo
@@ -7348,6 +7357,7 @@ katcpi
 katcti
 katkana
 katlana
+katmunpi
 katna
 katnymikce
 katpre
@@ -7693,6 +7703,7 @@ klebana
 kleci'e
 klecmi
 klecmiri'a
+klegeni
 kleide
 kleinzu
 kleivmu
@@ -7743,6 +7754,7 @@ klombiia
 klovano
 klubarcreka
 kluce'u
+klugi'u
 klulei
 klulele
 kluni'i
@@ -7993,6 +8005,7 @@ kruca
 krudakyxa'i
 kruji
 krumami
+krutace
 kruuaiti
 kruvi
 ksenias
@@ -8171,6 +8184,7 @@ kustru
 kusyja'a
 kutlerpoi
 kutpoi
+kutsa'a
 kutselcmi
 kutsfeca'u
 kutydza
@@ -8179,6 +8193,7 @@ kutyje'u
 kutysetmima
 kutytu'a
 kutyuenzi
+kutyzgimi'i
 kuualalumpur
 kuzycmi
 ky
@@ -8338,6 +8353,7 @@ landa
 landegmei
 landegna'u
 lange'u
+langi
 lanjanbe
 lanka
 lanku'i
@@ -8522,6 +8538,7 @@ lekta'e
 lektoni
 lektu'a
 lekyze'a
+lelde
 lelxe
 lemi
 lemkai
@@ -9459,6 +9476,7 @@ mijyselpevysmacu
 mijyzva
 mikce
 mikri
+miksampau
 miksini
 miksnidu
 mikybontoknu
@@ -10040,6 +10058,7 @@ na'asmi
 na'au
 na'azma
 na'e
+na'e'o'e
 na'ebo
 na'efa'a
 na'ei
@@ -10055,6 +10074,7 @@ na'irxi'a
 na'itfa
 na'itsi
 na'o
+na'o'e
 na'oi
 na'onai
 na'u
@@ -10731,6 +10751,7 @@ nonceikri
 noncinse
 noncte
 nondei
+nondi'a
 nondo'i
 nonglecinse
 nonjavycimni
@@ -13204,6 +13225,7 @@ sai'au
 sai'e
 sai'ei
 sai'i
+sai'o
 saibu
 sailce
 sailon
@@ -15499,6 +15521,7 @@ sirjga
 sirji
 sirjrneuei
 sirmpetu
+sirmu
 sirsunla
 sirtaki
 sirxo
@@ -15534,6 +15557,7 @@ ska'ai
 ska'ando
 skacau
 skaci
+skacyjaktu
 skadu'i
 skai'i
 skaip
@@ -15941,6 +15965,7 @@ songri
 songripau
 songripausle
 sonjamkarce
+sonli
 sono
 sonono
 sonralju
@@ -16871,6 +16896,7 @@ tanxebentou
 tapflifa'u
 tapkla
 tapla
+taplylatci
 taplytai
 tapsni
 tapydansu
@@ -16953,6 +16979,7 @@ tcaka
 tcakali
 tcakamni
 tcakarni
+tcame
 tcamoru
 tcampurado
 tcana
@@ -17102,6 +17129,7 @@ tcokobo
 tcokolatle
 tcokumte
 tcomolunmas
+tcondari
 tcotu'a
 tcoxarju
 tcubi'a
@@ -20571,6 +20599,7 @@ xulbuktci
 xulgani
 xulgau
 xulta
+xulylatci
 xumbe
 xumcacpli
 xumjice
