@@ -1081,6 +1081,7 @@ ba-
 baaaadı
 baba
 baba'ıqga
+bababa
 babakoa
 babakoakueq
 babue
@@ -1296,6 +1297,7 @@ bego
 begokası
 begonueqlıao
 beheq
+bejemaı
 bekerele
 bela
 beladaq
@@ -2672,6 +2674,7 @@ cheosuaq
 cheosıa
 cheotao
 cheoteq
+cheotıem
 chepo
 cheq
 cheq-
@@ -3678,6 +3681,7 @@ cuoısuım
 cupı
 cupısaı
 cuq
+cuqceo
 cuqdere
 cuqdo
 cuqga
@@ -3946,6 +3950,7 @@ daqfeme
 daqfıa
 daqgoa
 daqgoabo
+daqgoachıu
 daqgoajaq
 daqgoamoa
 daqgoasueq
@@ -4425,6 +4430,7 @@ duaoboe
 duaobıu
 duaocea
 duaochaı
+duaodoao
 duaodu
 duaoduaoreı
 duaofaseo
@@ -6906,6 +6912,7 @@ gıotıcıa
 gıotıe
 gıotıtuao
 gıozıa
+gıozıachom'aı
 gıpa
 gıpo
 gıq
@@ -11321,6 +11328,7 @@ leoqbosıu
 leoqchao
 leoqche
 leoqchea
+leoqchom
 leoqchuo
 leoqfuom
 leoqfuombo
@@ -14313,6 +14321,7 @@ noqcıkı
 noqde
 noqdoa
 noqdoase
+noqdu
 noqfuı
 noqgaı
 noqge
@@ -15076,6 +15085,7 @@ nıtuao
 nıtuq
 nıtı
 nıtırao
+nıtırıu
 nıu
 nıube
 nıubeboe
@@ -15971,6 +15981,7 @@ puoqbo
 puoqceoq
 puoqchoq
 puoqcıa
+puoqdu
 puoqgı
 puoqhuı
 puoqmuı
@@ -16338,6 +16349,7 @@ ranhe
 ranı
 rao
 raofaza
+raogaqme
 raogı
 raoheq
 raohı
@@ -16358,6 +16370,7 @@ raoru
 raosa
 raoshe
 raoshı
+raoshıaı
 raoshıdaq
 raotu
 raotuq
@@ -17884,6 +17897,7 @@ shaqtıe
 shaqzıu
 shara
 sharalaı
+shashaı
 shasoa
 shata
 shatashuo
@@ -18087,6 +18101,7 @@ shoaıcıaloekımı
 shoaıcıapahukorı
 shoaıcıarıochao
 shoaıheku
+shoaıleoq
 shoaıpıano
 shoaısaora
 shocheo
@@ -18372,6 +18387,7 @@ shıaqrıe
 shıaqtefa
 shıaqtıe
 shıaı
+shıaıtıem
 shıbeboe
 shıbo
 shıbu
@@ -18504,6 +18520,7 @@ shıqdao
 shıqdaogaı
 shıqde
 shıqdenao
+shıqdu
 shıqduao
 shıqfeqnhoq
 shıqgaı
@@ -20480,6 +20497,7 @@ tuku
 tukuaq
 tukue
 tukıu
+tulaıkune
 tulı
 tumao
 tumaı
@@ -20818,6 +20836,7 @@ tıetıem
 tıfao
 tıfaı
 tıgaq
+tıgaqme
 tıgaı
 tıgıq
 tıhao
@@ -20927,6 +20946,7 @@ tısho
 tıshu
 tıshue
 tıshuı
+tıshıaı
 tısope
 tısue
 tısupu
@@ -21734,6 +21754,7 @@ zıusoaı
 ıqdu
 ıqdua
 ıqdıu
+ıqfa
 ıqfaı
 ıqfeu
 ıqfoaq
