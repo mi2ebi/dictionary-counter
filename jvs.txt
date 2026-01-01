@@ -1807,6 +1807,7 @@ ci'a
 ci'ai
 ci'ai'u
 ci'ajbu
+ci'angu
 ci'anti
 ci'arfi'i
 ci'arse'u
@@ -2198,6 +2199,8 @@ ckeji
 ckemono
 ckenderu
 cketake
+ckikindelai
+ckikindelidai
 ckiku
 ckilu
 ckilus
@@ -7313,7 +7316,6 @@ karli
 karloka
 karmikorselte
 karmine
-karmo
 karmolcinba
 karna'ano
 karnauba
@@ -16010,6 +16012,7 @@ sorprekarcytcana
 sorprema'e
 sorprevinji
 sorpruda'i
+sorsabysai
 sorselcei
 sorselsle
 sorselsmu
