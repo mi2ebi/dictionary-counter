@@ -694,6 +694,7 @@ adaso
 adasokumıq
 adı
 adı'acı
+afuna
 agehacho
 agora
 agoralua
@@ -1110,6 +1111,7 @@ bakero
 bakuqtoaı
 bala
 balaq
+bale
 balı
 bam'a
 bam'aı
@@ -3021,6 +3023,7 @@ chuepatı
 chueq
 chueqbeaq
 chueqdoao
+chueqdoaomuıq
 chueqnıoq
 chueqse
 chuesaı
@@ -3525,6 +3528,7 @@ cuabom
 cuaboq
 cuabıa
 cuadeoq
+cuadeq
 cuage
 cuagı
 cuaja
@@ -4968,6 +4972,7 @@ eıtua
 fa
 fa-
 faba
+fabaı
 faboq
 faboqchuo
 fabuka
@@ -5952,6 +5957,7 @@ geomıedıu
 geomıq
 geone
 geonhe
+geonuaq
 geopalatıdı
 geopoq
 geoshue
@@ -7557,7 +7563,6 @@ holıme
 hom
 homalı
 homaqrıoq
-homje
 homo
 homro
 honı
@@ -7575,6 +7580,7 @@ hoqseq
 hoqshıu
 hoqsıe
 hoqsıu
+hoqtoa
 hoqtua
 hora
 horabaq
@@ -7596,6 +7602,7 @@ hotao
 hotaı
 hoteo
 hoto
+hotoa
 hotı
 hoı
 hoı-
@@ -9212,10 +9219,13 @@ jıaqkoaıluaqchuo
 jıaqkoaıluaqmu
 jıaqkoaırıaq
 jıaqkıoq
+jıaqloq
+jıaqloqroam
 jıaqloqtue
 jıaqme
 jıaqnoı
 jıaqrao
+jıaqroam
 jıaqsahu
 jıaqsha
 jıaqtu
@@ -9303,7 +9313,6 @@ jıetue
 jıfuaq
 jıgı
 jıhao
-jıheo
 jıhu
 jıjeo
 jıjeı
@@ -10974,7 +10983,7 @@ kıutoame
 kızı
 kızıa
 kızıkaı
-kịuzoaq
+kı̣uzoaq
 kꝡ
 la-
 labeo
@@ -11083,6 +11092,7 @@ laqgearı
 laqgeateı
 laqgeateılaı
 laqgeateızu
+laqgoeq
 laqgu
 laqguao
 laqguaobıa
@@ -12021,6 +12031,7 @@ lıbo
 lıbı
 lıca
 lıcagı
+lıce
 lıchu
 lıchı
 lıco
@@ -12665,6 +12676,7 @@ moaqshuetao
 moaqshuo
 moaqsıo
 moaqtao
+moaqzea
 moarao
 moashuao
 moashıu
@@ -14700,6 +14712,7 @@ nuıkıoq
 nuılaı
 nuım
 nuımbo
+nuımbuaq
 nuımchaı
 nuımdam
 nuımeaq
@@ -14789,6 +14802,7 @@ nıao
 nıao(neo)koı
 nıaoboe
 nıaochao
+nıaoguqto
 nıaokılıao
 nıaokıoq
 nıaoloaı
@@ -15247,7 +15261,9 @@ osaraısıu
 ose
 oshe
 osherem
+oso
 osomı
+ososa
 osı
 ota
 otakasha
@@ -16681,6 +16697,7 @@ roajoe
 roajıaq
 roakuaı
 roalueq
+roam
 roamıaqjıe
 roamıu
 roanıaı
@@ -19422,6 +19439,7 @@ sıoqteı
 sıoqtıe
 sıoqtıeq
 sıoqzıu
+sıoraı
 sıorıa
 sıotuoı
 sıozıam
@@ -19432,6 +19450,7 @@ sıpuatua
 sıpuatuache
 sıpuaı
 sıq
+sıqche
 sıqchuaq
 sıqchuaqgı
 sıqchuım
@@ -19659,7 +19678,9 @@ taocıuq
 taodaı
 taodaıgı
 taodua
+taoduaı
 taodutao
+taodı
 taodıe
 taodıeq
 taodıetaı
@@ -20183,6 +20204,7 @@ toaqzıam
 toaqꝡeloq
 toaraq
 toaraqluaq
+toarom
 toasao
 toashuaq
 toasıao
@@ -21571,6 +21593,7 @@ zıubeoq
 zıubuzıu
 zıuchue
 zıuchune
+zıudoku
 zıudueq
 zıudıu
 zıugıu
@@ -21754,7 +21777,6 @@ zıusoaı
 ıqdu
 ıqdua
 ıqdıu
-ıqfa
 ıqfaı
 ıqfeu
 ıqfoaq
@@ -21891,11 +21913,11 @@ zıusoaı
 ıutea
 ızı
 ızıu
+ı̣qrıta
+ı̣qtarı
 ıꝡe
 ıꝡenuo
 ẹ'e
-ịqrıta
-ịqtarı
 ụteq
 Ꝡomıq
 ꝡa

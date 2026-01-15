@@ -2853,6 +2853,7 @@ mlisnosli - +en-xml
 mlisutsli - +en-xml
 mlitoinandu - +en-xml
 mlixai - +en-xml
+mlongena - -en+xml, 'first' defined in Français
 mluni - -en+xml, 'first' defined in Esperanto
 mluri'a - +en-xml
 mo - -en+xml, 'first' defined in Español
@@ -7080,7 +7081,6 @@ veirse'u - +en-xml
 veirseljibri - +en-xml
 veka'a - -en+xml, 'first' defined in Español
 velbinryve'u - +en-xml
-velbunda - +en-xml
 velcaxno - +en-xml
 velce'i - +en-xml
 velcerda - +en-xml
