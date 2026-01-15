@@ -728,6 +728,7 @@ bei
 bei'a
 bei'au
 bei'e
+bei'i
 bei'oi
 bei'u'i
 beiDJIN
@@ -1556,6 +1557,7 @@ camnei
 campa'i
 campana
 campei
+campinoni
 camselci'i
 camselci'igri
 camskamolcpi
@@ -2884,6 +2886,7 @@ cu'ei'u
 cu'i
 cu'i'a
 cu'o
+cu'oi
 cu'oi'e
 cu'u
 cu'u ko'a
@@ -2949,6 +2952,7 @@ cupsri
 cupterplo
 cupypijne
 cupypoi
+curbanfi
 curfi'e
 curmi
 curnu
@@ -3252,6 +3256,7 @@ datnyfle
 datnynoi
 datnyselklo
 datnysri
+datnysro
 datnyvau
 datnyvaugunma
 datnyvei
@@ -3401,6 +3406,7 @@ denbru
 denburcu
 dencaupin
 denci
+dencilta
 dencro
 dendi
 denfi'e
@@ -3637,6 +3643,7 @@ djagu'ara
 djaikoni
 djainu
 djaka'u
+djakaranda
 djakare
 djakari
 djakartas
@@ -5684,6 +5691,7 @@ ilmismu
 ilnu
 ilpofu
 imla
+imli
 impera
 imperative
 imperatora
@@ -5795,6 +5803,7 @@ istanbul
 iste
 isxa
 itca
+itco
 itiiopiias
 itka
 itki
@@ -6864,8 +6873,10 @@ junri'a
 junske
 junta
 juntycau
+juntyjdika
 juntymre
 juntytri
+juntyze'a
 jupfi'i
 jupklu
 jupkosta
@@ -6887,6 +6898,7 @@ jurpei
 jursa
 juryri'a
 jusysku
+jutcme
 jutcmi
 jutlei
 jutmi'u
@@ -7918,6 +7930,7 @@ krakida
 krakozabra
 krakuf
 krali
+kralyle'a
 kralyma'u
 kralyxaigle
 krama'o
@@ -8403,6 +8416,7 @@ lasysilka
 latci
 latcmo
 latcribe
+latcybanfi
 latfekspa
 latfi'e
 latfrotrikusi
@@ -8764,6 +8778,7 @@ loibru
 loisli
 lojbab
 lojban
+lojban org
 lojban zei simsa
 lojbangirz
 lojbangirzu
@@ -9047,6 +9062,7 @@ malmliselgu'i
 malmys
 malne'u
 malpanci
+malpasobivo
 malpavyselbau
 malpli
 malpre
@@ -11566,6 +11582,7 @@ pempra
 pemsa'a
 pemsoneto
 pemsuua
+pemvontau
 pemxaiku
 penbi
 pencu
@@ -12512,6 +12529,7 @@ re'umnu
 rebdesygau
 rebjukma'i
 rebla
+rebybanfi
 rebybo'u
 rebyrespa
 recpiltu'u
@@ -17110,6 +17128,7 @@ tcingys
 tcini
 tcintrau
 tcinysligau
+tcinyza'i
 tcipi
 tcipli
 tciromei
@@ -18958,6 +18977,7 @@ uespi
 uftu
 ui
 ui'a
+ui'ei
 ui'i
 ui'o
 ui'y
@@ -20597,6 +20617,7 @@ xukmi
 xukmranoni
 xukske
 xuksle
+xulbanfi
 xulbu'u
 xulbuktci
 xulgani
