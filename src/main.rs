@@ -22,7 +22,7 @@ fn main() {
     let current_month = now.month() as usize;
     // this is a very silly way of doing things but it works
     let mut counter = vec![[(0, 0); 12]; current_year + 1];
-    let client = Client::builder().timeout(Duration::from_secs(120)).build().unwrap();
+    let client = Client::builder().timeout(Duration::from_mins(2)).build().unwrap();
     // jvs
     let days = (now - Utc::with_ymd_and_hms(&Utc {}, 2003, 1, 1, 0, 0, 0).unwrap()).num_days();
     let stuff = client
