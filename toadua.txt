@@ -1558,6 +1558,7 @@ boqle
 boqleo
 boqloq
 boqmıaq
+boqnhoa
 boqnua
 boqraı
 boqsa
@@ -2059,6 +2060,7 @@ bıoq
 bıosapoq
 bıosazu
 bıosıqkea
+bıota
 bıoı
 bıoıbuq
 bıoıchoa
@@ -4368,6 +4370,7 @@ doqjoqcaqche
 doqkopı
 doqkıoq
 doqmuı
+doqnueq
 doqnuo
 doqshaı
 doqshıu
@@ -8371,6 +8374,7 @@ jasaq
 jashı
 jasu
 jaza
+jazıra
 jaı
 jaıbo
 jaıbuq
@@ -9917,8 +9921,6 @@ karı
 karısham
 karıtuelızu
 kasha
-kashe
-kashese
 kasuarı
 kası
 kasıaq
@@ -10732,6 +10734,7 @@ kurı
 kurınıu
 kusera
 kushe
+kushenam
 kushu
 kushuaı
 kusu
@@ -10794,6 +10797,7 @@ kéo
 kéobu
 kéomao
 kéı
+kíqkeape
 kïo
 kóm
 kóna
@@ -12595,12 +12599,16 @@ meatuq
 meatushıbo
 meazua
 meaı
+meaıcadıu
 meaıdıu
 meaıdıuche
 meaıfıem
+meaıfıeqdıu
 meaımeaq
 meaımeaqme
+meaımıedıu
 meaımıq
+meaınıoqdıu
 meaıpoq
 meaıshua
 mebo
@@ -13679,6 +13687,7 @@ mıshı
 mıso
 mısosham
 mısotuze
+mıta
 mıto
 mıtochu
 mıtum
@@ -15922,6 +15931,7 @@ poqshıreq
 poqsom
 poqsoqmea
 poqsuao
+poroq
 poroı
 posa
 poso
@@ -16179,6 +16189,7 @@ puqmeame
 puqmuı
 puqneoqsuq
 puqnuadeq
+puqraku
 puqsuq
 puqsı
 puqto
@@ -18224,6 +18235,7 @@ sheu
 sheu'acı
 sheuchuoıtıuq
 sheuduaonulı
+sheume
 sheupıo
 sheze
 sheı
@@ -20152,6 +20164,7 @@ teqluaq
 teqne
 teqpeq
 teqrıkıo
+teqsaı
 teqse
 teqsom
 teqsue
@@ -20284,6 +20297,7 @@ toafıa
 toafıeq
 toaguı
 toagıu
+toagıushı
 toaheo
 toahua
 toahıa
@@ -20429,6 +20443,7 @@ toegoıche
 toegoıkua
 toegoıtue
 toejı
+toejıchırı
 toejıkea
 toejınu
 toekaro
@@ -20603,6 +20618,7 @@ tuaqbosa
 tuaqbosıu
 tuaqnam
 tuaruao
+tuashao
 tuasheo
 tuası
 tuasıa
@@ -21900,6 +21916,7 @@ zıusoaı
 ıjo
 ıjoboe
 ıjoboeme
+ıjopatı
 ıjose
 ıju
 ıjı
@@ -22089,6 +22106,7 @@ zıusoaı
 ıu
 ıu-
 ıubı
+ıuchı
 ıudaıjıaq
 ıuha
 ıujaı
@@ -22181,6 +22199,7 @@ zıusoaı
 ꝡetom
 ꝡetuba
 ꝡeu
+ꝡeume
 ꝡezım
 ꝡeı
 ꝡeıge
