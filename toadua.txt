@@ -1078,6 +1078,7 @@ aıse
 aısopo
 aısuoı
 aısıu
+aıtoa
 aıtom
 aıtuq
 aıueo
@@ -4635,7 +4636,6 @@ dutao
 dute
 duzoaıge
 duı
-duı'uo
 duı-
 duıbokuaı
 duıbota
@@ -7035,7 +7035,6 @@ gıqtua
 gıqtı
 gıqtısha
 gıqzıu
-gırao
 gıruo
 gıruo'oma
 gırı
@@ -8566,7 +8565,6 @@ jeokao
 jeokeo
 jeoku
 jeokuq
-jeolaı
 jeoma
 jeome
 jeomoe
@@ -8880,7 +8878,6 @@ joıru
 joıse
 joıtoa
 ju'ao
-ju'ıq
 ju-
 jua
 juabea
@@ -9513,7 +9510,6 @@ jıotıeq
 jıozueq
 jıoı
 jıoꝡo
-jıpa
 jıpıtı
 jıq
 jıq'ıq
@@ -9743,6 +9739,7 @@ kamne
 kampa
 kampaloe
 kamparıaq
+kampuq
 kampı
 kampıbeaq
 kampıqhoalo
@@ -10842,6 +10839,7 @@ kı'ıq
 kı-
 kıa
 kıa'ımlaq
+kıa-
 kıabeq
 kıabetıeq
 kıaca
@@ -12091,6 +12089,7 @@ luısuı
 luꝡa
 lá
 lä
+lího
 ló
 lú
 lúa
@@ -15925,6 +15924,8 @@ ponahuı
 ponapoq
 ponazufu
 popa
+popaboqrom
+popabıqdo
 popanam
 popı
 poq
@@ -17800,6 +17801,7 @@ seaboaı
 seachaq
 seachaqchue
 seachoaq
+seacıa
 seafa
 seaha
 seaja
@@ -21280,6 +21282,7 @@ ucheq
 uchıheo
 uchıheopıa
 uchıjeq
+uchıjeqpıa
 uchıleı
 uchıu
 udo
@@ -21316,7 +21319,6 @@ umarele
 umbo
 ume
 umechuoq
-umfı
 umobo
 umodaq
 umpoaq
@@ -21977,7 +21979,6 @@ zıusoaı
 ıka
 ıke
 ıkea
-ıkufaroq
 ıkı
 ılaı
 ılo
