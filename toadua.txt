@@ -55,7 +55,6 @@ Bahamagua
 Bakadam
 Bakajıa
 Bakajıagua
-Bakuqtoaı
 Bamanazu
 Banuatu
 Banuatugua
@@ -1282,7 +1281,6 @@ beaqluoq
 beaqme
 beaqnhuo
 beaqnıu
-beaqsıu
 beaqtıaı
 beatıaı
 beaı
@@ -1534,6 +1532,7 @@ bomfurı
 bomhıaı
 bomjuqca
 bomkea
+bomlaı
 bomna
 bomne
 bomshea
@@ -3020,6 +3019,7 @@ chubeq
 chubo
 chucheı
 chuchoq
+chuchoqja
 chuchu
 chuchua
 chucuao
@@ -3052,6 +3052,7 @@ chueq
 chueqbeaq
 chueqdoao
 chueqdoaomuıq
+chueqgara
 chueqnıoq
 chueqse
 chuesaı
@@ -3629,6 +3630,7 @@ cuase
 cuasho
 cuatıe
 cuaı
+cuaıceu
 cuaıchoatoaı
 cuaıguaq
 cuaıguaqdıu
@@ -3798,6 +3800,7 @@ cıeq
 cıeqchuom
 cıeqde
 cıeqfue
+cıeqfuedıu
 cıereq
 cıereıtaq
 cıetuo
@@ -3817,6 +3820,8 @@ cılakaq
 cılaı
 cım
 cınaq
+cınaqgua
+cınaqnete
 cıneıcheo
 cınha
 cıo
@@ -4134,7 +4139,6 @@ deaqtıq
 deaı
 deaıchıaı
 deaıdo
-deaıdoa
 deaıdue
 deaıgı
 deaıhıo
@@ -5955,6 +5959,7 @@ geatuaq
 geatıaı
 geaı
 geaıdıu
+gebaı
 gebo
 gebıtım
 gecaı
@@ -6866,7 +6871,6 @@ gıaıkuqkaı
 gıaıreo
 gıaıreosheq
 gıaıreoshuo
-gıaıte
 gıaıtedıu
 gıaıtoq
 gıaıꝡaqtoı
@@ -8387,7 +8391,6 @@ jaqkempoq
 jaqlunelı
 jaqlınelı
 jaqmaıchıtoı
-jaqnu
 jaqnuı
 jaqru
 jaqsao
@@ -9610,6 +9613,7 @@ jıumchom
 jıumchoı
 jıumchuo
 jıumguao
+jıumja
 jıumraı
 jıunım
 jıupea
@@ -11470,6 +11474,7 @@ leoqfuom
 leoqfuombo
 leoqfuq
 leoqfuqche
+leoqgıa
 leoqheaqsıu
 leoqhıesıu
 leoqraı
@@ -11991,6 +11996,7 @@ lukusu
 lukuıjıoq
 lukuımoı
 lulu
+lululemoq
 lum
 lum-
 lumbo
@@ -12740,6 +12746,8 @@ mesho
 mesofa
 mesıq
 meta
+metadao
+metakao
 metao
 metero
 meteı
@@ -12789,7 +12797,6 @@ moaboı
 moacha
 moafa
 moajao
-moajeo
 moajuı
 moalaı
 moalaıpue
@@ -14147,7 +14154,6 @@ neqjoı
 neqjueq
 neqjuqmoaqkea
 neqkoe
-neqkoese
 neqkoı
 neqkoıfeqnhoq
 neqkuq
@@ -14470,7 +14476,6 @@ nochıkue
 nodo
 nodu
 noeq
-noeq-
 noeqcua
 noeqshe
 noeqtuoı
