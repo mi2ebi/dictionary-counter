@@ -392,6 +392,7 @@ Ludachuaq
 Luenete
 Lulesamızu
 Luoqdam
+Lésehıu
 Lıetufa
 Lıetufagua
 Lıqteqtaı
@@ -1382,6 +1383,7 @@ beqsho
 beqsıu
 beqtoq
 beqze
+beqzebeq
 beqzeq
 bereq
 bereqce
@@ -1952,6 +1954,7 @@ búımı
 bı'aq
 bı'atacha
 bıa
+bıabeq
 bıaca
 bıache
 bıachı
@@ -2011,6 +2014,7 @@ bıaqdıam
 bıaqmıa
 bıaqpuoq
 bıaqpuı
+bıaruaq
 bıarıo
 bıasaı
 bıasaıbo
@@ -2224,6 +2228,7 @@ caqcıoq
 caqdao
 caqduaı
 caqdı
+caqdıq
 caqfeu
 caqfıa
 caqgaqcheo
@@ -9689,7 +9694,6 @@ kagajeq
 kagakoı
 kagame
 kagaq
-kagashı
 kaha
 kaha'ıda
 kahahua
@@ -10320,6 +10324,7 @@ koedı
 koefaq
 koefaı
 koejoaı
+koejoe
 koejıaq
 koekuaq
 koekıu
@@ -10921,6 +10926,7 @@ kıatıeq
 kıaı
 kıaıbo
 kıaıche
+kıaıdı
 kıaıgıla
 kıaıhe
 kıaıhıaq
@@ -11303,7 +11309,6 @@ laso
 lasoaı
 lasoq
 lasoqdıu
-lasu
 lateı
 latoame
 latıqhoe
@@ -11514,6 +11519,7 @@ leqroıluao
 leqshaqcha
 leqtoqcha
 lera
+lese
 leu
 leubeq
 leubeqmıa
@@ -13562,7 +13568,6 @@ mıeheo
 mıehua
 mıehuaq
 mıehuareı
-mıehuashaı
 mıekaze
 mıekuaı
 mıelua
@@ -17110,7 +17115,6 @@ ruboq
 rubu
 rubuıq
 rubı
-rubıe
 ruchıa
 ruco
 rudo
@@ -17877,7 +17881,6 @@ sedu
 seguaı
 seje
 sekogeq
-seku
 sekuja
 sekuoı
 sekuq
