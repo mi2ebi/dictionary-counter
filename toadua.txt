@@ -777,6 +777,7 @@ amlaı
 ampea
 amra
 amralam
+amseq
 amını
 amıq
 amıqrıo
@@ -2667,6 +2668,7 @@ chefuaı
 chefuq
 cheheomıeq
 cheja
+chejabea
 chejafeqnhoq
 chejakuoq
 chekaq
@@ -9802,6 +9804,7 @@ kaonu
 kaonu'uchı
 kaonua
 kaonuakıu
+kaonuarujeacaqtoırom
 kaonuboe
 kaopeq
 kaoshaı
@@ -14558,6 +14561,7 @@ noruzo
 nose
 noshuaq
 noso
+nosoboqseao
 nosı
 note
 noteı
@@ -18070,6 +18074,7 @@ shaohıaq
 shaojao
 shaojuı
 shaojıam
+shaokao
 shaolao
 shaoloq
 shaoluı
